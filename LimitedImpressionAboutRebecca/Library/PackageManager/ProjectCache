@@ -5,8 +5,8 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637712331423625863
-    m_Hash: 3056417459
+      ticks: 637712342990812130
+    m_Hash: 210320524
   m_LockFileStatus:
     m_FilePath: E:/Thesis/LimitedImpressionAboutRebecca/LimitedImpressionAboutRebecca/Packages/packages-lock.json
     m_PathExists: 1
@@ -3222,7 +3222,7 @@ m_PackageAssets:
         path: 
     - packageId: com.unity.ext.nunit@1.0.6
       testable: 0
-      isDirectDependency: 0
+      isDirectDependency: 1
       version: 1.0.6
       source: 1
       resolvedPath: E:\Thesis\LimitedImpressionAboutRebecca\LimitedImpressionAboutRebecca\Library\PackageCache\com.unity.ext.nunit@1.0.6
@@ -3478,6 +3478,7 @@ m_PackageAssets:
         - 6.0.0-pre.3
         - 6.0.0-pre.4
         - 6.0.0
+        - 7.0.0-pre.3
         compatible:
         - 4.0.3
         verified: 4.0.3
