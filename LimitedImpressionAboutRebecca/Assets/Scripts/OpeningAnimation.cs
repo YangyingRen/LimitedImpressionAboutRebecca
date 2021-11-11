@@ -9,10 +9,11 @@ public class OpeningAnimation : MonoBehaviour
     public Text prologue1, prologue2;
     public string text1,text2;
     public Animator anim;
+    public GameObject StartButton;
     // Start is called before the first frame update
     void Start()
     {
-        
+       Time.timeScale=0; 
     }
 
     // Update is called once per frame
@@ -25,6 +26,11 @@ public class OpeningAnimation : MonoBehaviour
         anim.SetBool("Finish1",true);
     }
         
+    }
+
+    public void GameStart(){
+        Time.timeScale=1;
+        StartButton.SetActive(false);
     }
 
     public void prologueStart(){
