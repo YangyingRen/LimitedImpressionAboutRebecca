@@ -21,12 +21,21 @@ public class DetectClue : MonoBehaviour
     [Tooltip("broadcast a message to Fungus, which can start Fungus scripts")]
     public string broadcast;
     public Flowchart flowchart;
+    public int Num;
 
     public void Trigger(){
-        if(flowchart.GetBooleanVariable("Interactable")==true){
+        if(flowchart.GetBooleanVariable("ClueInteractable")==true){
          Fungus.Flowchart.BroadcastFungusMessage (broadcast); 
         }
 
+    }
+    public void Describe(){
+      flowchart.SetIntegerVariable("ClueNum",Num); 
+
+      
+    }
+    public void DescribeOff(){
+        flowchart.SetIntegerVariable("ClueNum",0); 
     }
  
 }

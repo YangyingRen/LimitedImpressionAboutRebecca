@@ -16,7 +16,7 @@ public class CountMoney : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {
+    {   flowchart=GameObject.FindWithTag("Flowchart").GetComponent<Flowchart>();
         Money=flowchart.GetIntegerVariable("Money");
         gameObject.GetComponent<Text>().text="Cash: $"+Money.ToString();
     }
