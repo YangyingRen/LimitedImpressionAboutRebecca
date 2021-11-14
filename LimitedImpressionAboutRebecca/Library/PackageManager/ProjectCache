@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637712342990812130
+      ticks: 637725276821597733
     m_Hash: 210320524
   m_LockFileStatus:
     m_FilePath: E:/Thesis/LimitedImpressionAboutRebecca/LimitedImpressionAboutRebecca/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637712331461680756
+      ticks: 637725276828462570
     m_Hash: 1139992927
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -113,6 +113,7 @@ m_PackageAssets:
         - 7.0.0-pre.3
         - 7.0.0
         - 7.0.1
+        - 7.0.2
         - 8.0.0-pre.3
         compatible:
         - 5.0.6
@@ -508,6 +509,7 @@ m_PackageAssets:
         - 7.0.0-pre.3
         - 7.0.0
         - 7.0.2
+        - 7.0.3
         - 8.0.0-pre.4
         compatible:
         - 5.1.4
@@ -3490,6 +3492,7 @@ m_PackageAssets:
         - 6.0.0-pre.3
         - 6.0.0-pre.4
         - 6.0.0
+        - 6.0.1
         - 7.0.0-pre.3
         compatible:
         - 4.0.3
