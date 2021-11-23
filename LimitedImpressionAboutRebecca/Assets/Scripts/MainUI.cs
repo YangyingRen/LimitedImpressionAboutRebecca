@@ -44,4 +44,6 @@ public class MainUI : MonoBehaviour
             c=0;
         }
     }
+
+    
 }
