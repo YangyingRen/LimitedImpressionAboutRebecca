@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class MenuOrder : MonoBehaviour
 {
@@ -21,8 +22,16 @@ public class MenuOrder : MonoBehaviour
     }
     public void SayDialogueBack(){
         anim.SetBool("Back",true);
+        GetComponent<Image>().color=new Color(0,0,0,0);
     }
     public void SayDialogueShow(){
         anim.SetBool("Back",false);
+    }
+    public void Highlighted(){
+        GetComponent<Image>().color=new Color(1,1,1,1);
+    }
+    public void PointExited(){
+        GetComponent<Image>().color=new Color(0,0,0,0);
+
     }
 }
