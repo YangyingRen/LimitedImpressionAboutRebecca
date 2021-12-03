@@ -18,6 +18,6 @@ public class CountMoney : MonoBehaviour
     void Update()
     {   flowchart=GameObject.FindWithTag("Flowchart").GetComponent<Flowchart>();
         Money=flowchart.GetIntegerVariable("Money");
-        gameObject.GetComponent<Text>().text="Cash: $"+Money.ToString();
+        gameObject.GetComponent<Text>().text="$ "+Money.ToString();
     }
 }
