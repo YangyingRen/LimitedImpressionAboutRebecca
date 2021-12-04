@@ -5,7 +5,9 @@ using UnityEngine.UI;
 
 public class MainUI : MonoBehaviour
 {
-    public GameObject ItemPanel, CluePanel, PhonePanel;
+    public GameObject ItemPanel, CluePanel, PhonePanel, Testimony, Character;
+    public Image testimony,character;
+    public Color Selected, Default;
     private int i,c,p;
     // Start is called before the first frame update
     void Start()
@@ -43,6 +45,21 @@ public class MainUI : MonoBehaviour
             CluePanel.SetActive(false);
             c=0;
         }
+    }
+
+    public void CheckTestimony(){
+        Testimony.SetActive(true);
+        Character.SetActive(false);
+        testimony.color=Selected;
+        character.color=Default;
+
+    }
+
+    public void CheckCharacter(){
+        Testimony.SetActive(false);
+        Character.SetActive(true);
+        testimony.color=Default;
+        character.color=Selected;
     }
 
     
