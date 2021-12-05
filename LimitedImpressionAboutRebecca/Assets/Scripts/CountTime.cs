@@ -1,11 +1,13 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using Fungus;
 
 public class CountTime : MonoBehaviour
 {
-    public int hour,minutes;
-    public float speed;
+    public string Time;
+    public Flowchart flowchart;
     // Start is called before the first frame update
     void Start()
     {
@@ -15,6 +17,8 @@ public class CountTime : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        flowchart=GameObject.FindWithTag("Flowchart").GetComponent<Flowchart>();
+        Time=flowchart.GetStringVariable("Time");
+        gameObject.GetComponent<Text>().text=Time;
     }
 }

@@ -93,7 +93,7 @@ GameObject:
   - component: {fileID: 7384249016033349515}
   - component: {fileID: 7384249016033349514}
   m_Layer: 5
-  m_Name: Image
+  m_Name: Rebecca
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -236,4 +236,5 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: The victim, found dead because of drawn on June 20th 2020 at the YIT campus
+    lake.

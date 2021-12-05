@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class MainUI : MonoBehaviour
 {
-    public GameObject ItemPanel, CluePanel, PhonePanel, Testimony, Character;
+    public GameObject ItemPanel, CluePanel, PhonePanel, Testimony, Character,Guide;
     public Image testimony,character;
     public Color Selected, Default;
     private int i,c,p;
@@ -21,6 +21,12 @@ public class MainUI : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if(ItemPanel.active==false){
+            i=0;
+        }
+        if(CluePanel.active==false){
+            c=0;
+        }
         
     }
 
@@ -28,6 +34,7 @@ public class MainUI : MonoBehaviour
 
         if(i==0){
             ItemPanel.SetActive(true);
+            Guide.SetActive(false);
             i=1;
         }
         else{
@@ -39,6 +46,8 @@ public class MainUI : MonoBehaviour
 
         if(c==0){
             CluePanel.SetActive(true);
+            Guide.SetActive(false);
+
             c=1;
         }
         else{
