@@ -9,6 +9,7 @@ public class MainUI : MonoBehaviour
     public Image testimony,character;
     public Color Selected, Default;
     private int i,c,p;
+   
     // Start is called before the first frame update
     void Start()
     {
@@ -27,6 +28,7 @@ public class MainUI : MonoBehaviour
         if(CluePanel.active==false){
             c=0;
         }
+        
         
     }
 

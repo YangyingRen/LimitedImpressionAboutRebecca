@@ -42,6 +42,7 @@ namespace Fungus
             var eventDispatcher = FungusManager.Instance.EventDispatcher;
 
             eventDispatcher.Raise(new ObjectClicked.ObjectClickedEvent(this));
+            Cursor.SetCursor(null, Vector2.zero, CursorMode.Auto);
         }
 
         protected virtual void DoPointerEnter()
@@ -58,27 +59,27 @@ namespace Fungus
         #region Legacy OnMouseX methods
 
         protected virtual void OnMouseDown()
-        {
+        {   if(!EventSystem.current.IsPointerOverGameObject()){
             if (!useEventSystem)
             {
                 DoPointerClick();
-            }
+            }}
         }
 
         protected virtual void OnMouseEnter()
-        {
+        {   if(!EventSystem.current.IsPointerOverGameObject()){
             if (!useEventSystem)
             {
                 DoPointerEnter();
-            }
+            }}
         }
 
         protected virtual void OnMouseExit()
-        {
+        {   if(!EventSystem.current.IsPointerOverGameObject()){
             if (!useEventSystem)
             {
                 DoPointerExit();
-            }
+            }}
         }
 
         #endregion

@@ -2,14 +2,16 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Experimental.Rendering.Universal;
+using UnityEngine.UI;
 
 public class InteractItemPrevious : MonoBehaviour
 {
 
     public Material Default, Select;
-    public GameObject PreviousPP;
+    public GameObject PreviousPP, Guide;
     public GameObject[] InteractiveItems;
     public int i,len;
+    public Text Quest,Hint;
     // Start is called before the first frame update
     void Start()
     {
@@ -22,6 +24,7 @@ public class InteractItemPrevious : MonoBehaviour
     void Update()
     {
     if(Input.GetKey(KeyCode.Tab)){
+        Guide.SetActive(false);
         PreviousPP.SetActive(true);
         for(i=0;i<len;i++){
             InteractiveItems[i].GetComponent<SpriteRenderer>().material=Select;
@@ -36,6 +39,13 @@ public class InteractItemPrevious : MonoBehaviour
             InteractiveItems[i].GetComponent<Light2D>().enabled=false;
         }
 
+    }
+    if(Input.GetKey(KeyCode.Q)){
+         Hint.gameObject.SetActive(true);
+         Hint.text=Quest.text;  
+        }
+    else{
+         Hint.gameObject.SetActive(false);
     }
     
         
