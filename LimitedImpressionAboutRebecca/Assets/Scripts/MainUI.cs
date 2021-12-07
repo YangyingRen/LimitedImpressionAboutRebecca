@@ -34,6 +34,8 @@ public class MainUI : MonoBehaviour
 
     public void CheckItem(){
 
+        CluePanel.SetActive(false);
+
         if(i==0){
             ItemPanel.SetActive(true);
             Guide.SetActive(false);
@@ -45,6 +47,7 @@ public class MainUI : MonoBehaviour
         }
     }
     public void CheckClue(){
+        ItemPanel.SetActive(false);
 
         if(c==0){
             CluePanel.SetActive(true);
