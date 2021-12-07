@@ -9,6 +9,7 @@ public class MainUI : MonoBehaviour
     public Image testimony,character;
     public Color Selected, Default;
     private int i,c,p;
+    public Texture2D hoverCursor;
    
     // Start is called before the first frame update
     void Start()
@@ -74,6 +75,14 @@ public class MainUI : MonoBehaviour
         Character.SetActive(true);
         testimony.color=Default;
         character.color=Selected;
+    }
+    public void ChangeCursor(Texture2D cursorTexture)
+        {
+
+            Cursor.SetCursor(cursorTexture, Vector2.zero, CursorMode.Auto);
+        }
+    public void Clicked(Texture2D cursorTexture){
+            Cursor.SetCursor(null, Vector2.zero, CursorMode.Auto);
     }
 
     

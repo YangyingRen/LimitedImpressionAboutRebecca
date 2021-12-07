@@ -365,5 +365,6 @@ MonoBehaviour:
   broadcast: Item
   flowchart: {fileID: 0}
   Num: 1
-  Description: My wallet.
+  Description: My wallet. I like putting some cash in it, just in case at some situation
+    I need them.
   DescriptionPanel: {fileID: 0}

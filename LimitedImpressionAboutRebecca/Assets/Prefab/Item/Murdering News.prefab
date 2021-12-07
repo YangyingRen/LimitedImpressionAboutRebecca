@@ -195,7 +195,8 @@ MonoBehaviour:
   broadcast: Item
   flowchart: {fileID: 0}
   Num: 3
-  Description: Some old news.
+  Description: Some old news. One is almost yellow, the date on it is  two years
+    ago. Another one is newer, should be published recently.
   DescriptionPanel: {fileID: 0}
 --- !u!1 &2665296764747297170
 GameObject:
