@@ -14,7 +14,7 @@ namespace Fungus
     public class Clickable2D : MonoBehaviour, IPointerClickHandler, IPointerEnterHandler, IPointerExitHandler
     {
         [Tooltip("Is object clicking enabled")]
-        [SerializeField] protected bool clickEnabled = true;
+        [SerializeField] public bool clickEnabled = true;
 
         [Tooltip("Mouse texture to use when hovering mouse over object")]
         [SerializeField] protected Texture2D hoverCursor;

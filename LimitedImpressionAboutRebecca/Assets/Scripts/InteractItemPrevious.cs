@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Experimental.Rendering.Universal;
 using UnityEngine.UI;
+using Fungus;
 
 public class InteractItemPrevious : MonoBehaviour
 {
 
     public Material Default, Select;
-    public GameObject PreviousPP, Guide;
+    public GameObject PreviousPP, Guide, SayDialogue;
     public GameObject[] InteractiveItems;
     public int i,len;
     public Text Quest,Hint;
@@ -46,6 +47,16 @@ public class InteractItemPrevious : MonoBehaviour
         }
     else{
          Hint.gameObject.SetActive(false);
+    }
+    if(SayDialogue.active==true){
+        for(i=0;i<len;i++){
+            InteractiveItems[i].GetComponent<Clickable2D>().clickEnabled=false;
+        }
+    }
+    else{
+        for(i=0;i<len;i++){
+            InteractiveItems[i].GetComponent<Clickable2D>().clickEnabled=true;
+    }
     }
     
         

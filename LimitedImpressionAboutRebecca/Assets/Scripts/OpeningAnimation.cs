@@ -3,13 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using UnityEditor;
 
 public class OpeningAnimation : MonoBehaviour
 {
-    public Text prologue1, prologue2;
+    public Text prologue1, prologue2, Title,Name;
     public string text1,text2;
     public Animator anim;
     public GameObject StartButton;
+    public Transform page;
     // Start is called before the first frame update
     void Start()
     {
@@ -31,6 +33,7 @@ public class OpeningAnimation : MonoBehaviour
     public void GameStart(){
         Time.timeScale=1;
         StartButton.SetActive(false);
+        Title.gameObject.SetActive(false);
     }
 
     public void prologueStart(){
@@ -49,7 +52,25 @@ public class OpeningAnimation : MonoBehaviour
 
     public void Open(){
         int len=transform.childCount;
+      
         transform.GetChild(len-1).SetSiblingIndex(0);
     }
+    public void TurnPage(){
+        anim.Play("Page1");
+        int pagelen=page.childCount;
+        for(int i=0;i<pagelen;i++){
+            page.GetChild(i).gameObject.SetActive(false);
+        }
+        int len=transform.childCount;
+      
+        transform.GetChild(len-1).SetSiblingIndex(1);
+        
+    }
+    #region Save Name As Prefab
+    public void SaveName(){
+      string localPath="Assets/Prefab"+Name.gameObject.name+".prefab";
+      PrefabUtility.SaveAsPrefabAssetAndConnect(Name.gameObject,localPath,InteractionMode.UserAction);
+    }
+    #endregion
 
 }
