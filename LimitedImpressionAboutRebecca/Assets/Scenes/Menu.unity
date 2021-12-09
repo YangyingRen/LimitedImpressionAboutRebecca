@@ -1108,14 +1108,14 @@ MonoBehaviour:
   prologue2: {fileID: 1692569716}
   Title: {fileID: 1476558536}
   Name: {fileID: 477878983}
-  text1: "\tIf there is one reason that makes the detective genre still popular today,
-    I suppose it should be the only truth behind the variety of Modus operandi. Still,
-    the work that is regarded as my tipping point is far from the truth. That feeling
-    of teasing by the real is so unforgettable that even until today I can only declare
-    that my ending is just one possibility."
+  text1: "\t As a detective writer I never suggest my reader regarding the ending
+    in the last page as the absolute truth. In fact, that is only one possible that
+    I saw as a subjective human being. To be honest, this problem has bothered me
+    for a long time since my first published novel."
   text2: 
   anim: {fileID: 598584053}
   StartButton: {fileID: 1126637142}
+  namePrefab: {fileID: 1173891910371992511, guid: 8d63cadbb5e910f4b878185b1376f153, type: 3}
   page: {fileID: 2091407344}
 --- !u!212 &598584055
 SpriteRenderer:
@@ -1858,8 +1858,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -9.453198, y: -282.3647}
-  m_SizeDelta: {x: 464.63, y: 188.809}
+  m_AnchoredPosition: {x: -9.4535, y: -252}
+  m_SizeDelta: {x: 464.63, y: 238.71}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1692569715
 MonoBehaviour:
@@ -1894,9 +1894,9 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 38fb69338d588b64ea5f2c219db3056b, type: 3}
+    m_Font: {fileID: 12800000, guid: 18a1e1808ed65e340a182007ae896db2, type: 3}
     m_FontSize: 30
-    m_FontStyle: 0
+    m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 2
     m_MaxSize: 48
@@ -1906,8 +1906,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\tAnyway, this \u201C Rashomon \u201D is worthwhile to be known by everyone.
-    It all started at the end of June 2022, a cloudy, humid afternoon with mizzle......"
+  m_Text: "\tAnyway, this \u201C Rashomon \u201D story is worthwhile to be known
+    by everyone. It all started at the end of June 2022, a cloudy, humid morning."
 --- !u!222 &1692569717
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2343,8 +2343,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -9.451, y: 24}
-  m_SizeDelta: {x: 464.6235, y: 454.0155}
+  m_AnchoredPosition: {x: -9.4536, y: 59.183}
+  m_SizeDelta: {x: 464.63, y: 383.65}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2122986835
 MonoBehaviour:
@@ -2379,9 +2379,9 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 38fb69338d588b64ea5f2c219db3056b, type: 3}
+    m_Font: {fileID: 12800000, guid: 18a1e1808ed65e340a182007ae896db2, type: 3}
     m_FontSize: 30
-    m_FontStyle: 0
+    m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 2
     m_MaxSize: 48
@@ -2391,11 +2391,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\tIf there is one reason that makes the detective genre still popular
-    today, I suppose it should be the only truth behind the variety of Modus operandi.
-    Still, the work that is regarded as my tipping point is far from the truth. That
-    feeling of teasing by the real is so unforgettable that even until today I can
-    only declare that my ending is just one possibility. \r\n\t"
+  m_Text: "\t As a detective writer I never suggest my reader regarding the ending
+    in the last page as the absolute truth. In fact, that is only one possible that
+    I saw as a subjective human being. To be honest, this problem has bothered me
+    for a long time since my first published novel.\t"
 --- !u!222 &2122986837
 CanvasRenderer:
   m_ObjectHideFlags: 0

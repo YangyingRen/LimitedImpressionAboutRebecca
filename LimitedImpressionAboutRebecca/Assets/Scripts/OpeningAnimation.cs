@@ -10,7 +10,7 @@ public class OpeningAnimation : MonoBehaviour
     public Text prologue1, prologue2, Title,Name;
     public string text1,text2;
     public Animator anim;
-    public GameObject StartButton;
+    public GameObject StartButton,namePrefab;
     public Transform page;
     // Start is called before the first frame update
     void Start()
@@ -42,7 +42,7 @@ public class OpeningAnimation : MonoBehaviour
 
     public void prologue1Finish(){
     prologue2.gameObject.SetActive(true);
-    text2="	Anyway, this “ Rashomon ” is worthwhile to be known by everyone.";
+    text2="	Anyway, this “ Rashomon ” story is worthwhile to be known by everyone.";
     }
 
     public void prologue2Finished(){
@@ -66,11 +66,9 @@ public class OpeningAnimation : MonoBehaviour
         transform.GetChild(len-1).SetSiblingIndex(1);
         
     }
-    #region Save Name As Prefab
+    
     public void SaveName(){
-      string localPath="Assets/Prefab"+Name.gameObject.name+".prefab";
-      PrefabUtility.SaveAsPrefabAssetAndConnect(Name.gameObject,localPath,InteractionMode.UserAction);
+      namePrefab.GetComponent<Text>().text=Name.text;
+      
     }
-    #endregion
-
 }

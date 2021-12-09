@@ -28,8 +28,10 @@ public class InteractItemPrevious : MonoBehaviour
         Guide.SetActive(false);
         PreviousPP.SetActive(true);
         for(i=0;i<len;i++){
+            if(InteractiveItems[i].GetComponent<Clickable2D>().clickEnabled==true){
             InteractiveItems[i].GetComponent<SpriteRenderer>().material=Select;
             InteractiveItems[i].GetComponent<Light2D>().enabled=true;
+        }
         }
 
     }
