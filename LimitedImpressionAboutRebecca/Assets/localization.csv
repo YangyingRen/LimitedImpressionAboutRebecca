@@ -1,0 +1,251 @@
+Key,Description,Standard
+SAY.Chapter1.19.Sophie,,您好，请问您今天是来参与“Rebecca，毕业快乐♥” 悼念会的吗？
+SAY.Chapter1.430.Protagonist,,{i}(原来那个黑白画像就是Rebecca，情杀案件的受害者。) {/i}
+SAY.Chapter1.449.Sophie,,我们现在正在举办纪念已逝学姐Rebecca Rochester的活动。不知道您是否有兴趣知道详情？
+SAY.Chapter1.809.Protagonist,,既然这样，那我当然是……
+MENU.Chapter1.432,,请你说的详细一点 - 你认识Rebecca吗？
+MENU.Chapter1.446,,"没有兴趣, 请不要打扰我。"
+SAY.Chapter1.895.Sophie,,您找我还有什么事吗？如果您不买花的话我就先失陪了。
+MENU.Chapter1.898,,请等一下，我反复考虑决定还是买一束吧，希望你还有存货。
+MENU.Chapter1.899,,算了，没事，你去忙吧
+SAY.Chapter1.907.Sophie,,还有什么我还可以帮到您的事情吗？
+SAY.Chapter1.908.Protagonist,,{i}（有什么疑问需要咨询吗？）{/i}
+SAY.Chapter1.43.Protagonist,,这位同学，你也来悼念Rebecca吗？
+SAY.Chapter1.628.Anonymous Student,,我的同班同学是主办人，因此我只是过来帮忙。
+SAY.Chapter1.629.Protagonist,,可以麻烦你回答我几个问题吗？我觉得你们办的这个活动很有启发性。
+SAY.Chapter1.631.Anonymous Student,,……如果不是什么敏感问题，我应该可以回答。
+MENU.Chapter1.981,,校方支持你们举办这场悼念会吗？
+MENU.Chapter1.982,,整场活动都是学生自己组织的吗？
+SAY.Chapter1.1242.Protagonist,,这位同学，能再找你聊聊吗？
+SAY.Chapter1.1243.Anonymous Student,,我能说的都已经说完了。
+SAY.Chapter1.1244.Anonymous Student,,请不要打扰我，我想独自一人怀念一下Rebecca。
+SAY.Chapter1.389.Protagonist,,没有想到这么远，居然要花费一个多小时坐巴士，况且这雨下的没完没了，弄得浑身都是一股霉味。
+SAY.Chapter1.390.Protagonist,,希望编辑这次给我的案子值得我千里迢迢跑到这个荒郊野岭。
+SAY.Chapter1.391.Protagonist,,我记得书包里有相关资料的影印件。
+SAY.Chapter1.417.Protagonist,,2020年六月二十日，我市一流大学YIT在毕业典礼当日早上于校内发现一具溺亡女尸。
+SAY.Chapter1.415.Protagonist,,推断为一起故意杀人案，受害者为在校大四学生Rebecca Rochester。
+SAY.Chapter1.743.,,"New Character:\nRebecca Rochester, the victim."
+SAY.Chapter1.418.Protagonist,,经过多方查证，警方将嫌疑人锁定为Rebecca交往两年的男朋友Antony Sallin，并以故意杀人罪对其进行指控。
+SAY.Chapter1.747.,,"New Character:\nAntony Sallin, the suspect."
+SAY.Chapter1.419.Protagonist,,警方在Rebecca尸体颈部发现成年男子手掌大小掐痕，且在Antony寝室发现Rebecca随身携带的项链等私人物品。
+SAY.Chapter1.420.Protagonist,,多位该校老师作证案发当晚Antony与Rebecca曾经单独见面，且无人可以提供Antony在案发时间的不在场证明。
+SAY.Chapter1.421.Protagonist,,据该校师生匿名透露，Antony在校期间与多名女性均保持暧昧关系，感情生活混乱。
+SAY.Chapter1.422.Protagonist,,自2019年大三下学期开始，Rebecca与Antony感情矛盾频发，多位学生曾目睹双方产生纠纷。
+SAY.Chapter1.423.Protagonist,,警方判断Antony对Rebecca存在长期人格控制以及潜在暴力行为。
+SAY.Chapter1.424.Protagonist,,十二月二十八日，引发社会广泛关注的“YIT校园情杀案”被告人Antony Sallin因证据不足被判决无罪释放，最终案件以意外事故结案。
+SAY.Chapter1.448.Protagonist,,YIT师生以及社会各界对此判决结果一片哗然，学校官方目前并未表态。
+SAY.Chapter1.750.Protagonist,,无罪释放？这种人最后居然被无罪释放？
+SAY.Chapter1.753.Protagonist,,既然编辑认为这桩案件可以作为我新作品的灵感，看来案件背后应该另有隐情。
+SAY.Chapter1.752.Protagonist,,接下来看第二份更新的报道。
+SAY.Chapter1.751.Protagonist,,2022年6月21日。我市一流大学YIT决定对现有校园进行扩张。据悉，新校址选定在原商学院旁边的湖景区。
+SAY.Chapter1.756.Protagonist,,让我继续看看，这不是昨天的报纸吗？现在已经是事件发生的两年后了。
+SAY.Chapter1.755.Protagonist,,这样欲盖弥彰的行为，难道整桩案件与学校也有不为人知的牵扯？
+SAY.Chapter1.754.Protagonist,,原来如此，因为要施工，这附近的路才变得坑坑洼洼，到处都是泥巴。
+SAY.Chapter1.757.Protagonist,,这些花束又是怎么回事？为什么摆得到处都是。\n难道现在毕业季流行摆白色菊花？虽然看起来有些毛骨悚然，但仔细看却清雅别致，现在的年轻人真是时髦。
+SAY.Chapter1.760.Protagonist,,话说回来不愧是新闻上反复强调的一流高校，占地面积很大，简直像一座小型城市。
+SAY.Chapter1.759.Protagonist,,还是找张地图看看我现在的位置在哪里。
+SAY.Chapter1.427.,,"Mission: ""Find the campus map."""
+SAY.Chapter1.716.Protagonist,,不对，我现在不需要这个。
+SAY.Chapter1.1109.Protagonist,,再仔细找找资料在哪里。
+SAY.Chapter1.462.Sophie,,Rebecca是我校2020届毕业生代表，她在校期间不仅成绩优异，对待同学更是亲切温柔。
+SAY.Chapter1.463.Sophie,,我们这些后辈有任何麻烦，只要是她能帮到，她都会事无巨细地亲力亲为。
+SAY.Chapter1.859.,,New Info:\nRebecca has a good reputation among students.
+SAY.Chapter1.502.Sophie,,很不幸的是，两年前，学姐在毕业的前一天晚上遭遇不测，先一步离开了我们。
+MENU.Chapter1.811,,听起来是一个前途无量的学生。
+MENU.Chapter1.813,,你好像很喜欢她。
+SAY.Chapter1.601.Sophie,,这位成绩优异、性格亲切的女大学生在正值花季的年龄失去生命，您难道对此毫无痛心吗？
+SAY.Chapter1.602.Protagonist,,不……其实我，根本不认识她。
+SAY.Chapter1.605.Sophie,,当时在社交媒体上传得沸沸扬扬的事件，您竟然说对此一无所知？
+SAY.Chapter1.606.Protagonist,,{i}（我确实不怎么关注网络上的争吵。) {/i}
+SAY.Chapter1.607.Protagonist,,好吧，那这里到底发生了什么？
+SAY.Chapter1.489.Sophie,,谢谢，这是您的花束！Rebecca学姐在天之灵会保佑您的。
+SAY.Chapter1.490.Sophie,,听起来有点恐怖。
+SAY.Chapter1.497.,,New Item:\nYou got a bunch of flowers.\n
+SAY.Chapter1.495.Protagonist,,不过，看在我已经买了花的份上，你可以回答我Rebecca的死到底跟PUA有什么关系吗？
+SAY.Chapter1.504.Sophie,,……其实并没有什么太大联系，我们只是想借此引起社会对此的重视而已。
+SAY.Chapter1.870.Protagonist,,既然没有关系，为什么要特地在Rebecca的悼念会上进行捐款活动，难道你们是在蹭热度、诈骗捐款？\n
+SAY.Chapter1.871.Protagonist,,嘴上说着感谢学姐，实际却利用学姐赚钱。
+SAY.Chapter1.505.Sophie,,你这个人，说话怎么这么难听，我们可是毫无私心。
+SAY.Chapter1.872.Sophie,,如果能够有机会，我们都想报答她，她生前帮助我们许多。那一天后，我们所有人，都后悔着没有来得及对她道谢。
+SAY.Chapter1.873.Sophie,,但是，我们除了尽力让他人能够避免重蹈覆辙，也无法再为她做到更多。
+SAY.Chapter1.874.Sophie,,很多事情，作为不是这所学校学生的你，一个旁观者，无法真正理解我们所经受的压力。
+SAY.Chapter1.879.,,New Info:\nThe school might have put pressure on students.
+SAY.Chapter1.875.Sophie,,不过不管怎样，感谢您的支持，我们会好好使用筹得的善款。
+SAY.Chapter1.887.Sophie,,不再考虑一下吗？这么美的花束，送人或用于装饰房间都是不错的选择哦！
+SAY.Chapter1.888.Protagonist,,这可是葬礼花束……
+SAY.Chapter1.889.Protagonist,,不过，为什么购买花束所获得的钱会捐赠到反PUA组织？\n我的意思是，Rebecca的死和PUA有什么关系吗?
+SAY.Chapter1.890.Sophie,,这么美的花束，送人或用于装饰房间都是不错的选择哦！
+SAY.Chapter1.891.Protagonist,,啊这……{i}（不打算正面回答吗。） {/i}
+SAY.Chapter1.892.Sophie,,如果您没有什么别的事的话那我就失陪了，这束花我今天一定要卖出去。
+SAY.Chapter1.794.Protagonist,,一幅女子黑白画像，应该是用来办追悼会。
+SAY.Chapter1.795.Protagonist,,能办这么盛大的追悼会，她不会就是那个谁吧？可是这都过去两年了。
+SAY.Chapter1.798.Protagonist,,Rebecca Rochester，看起来确实十分具有魅力。
+SAY.Chapter1.799.Protagonist,,比寻常学生更会打扮，但是并不会让人感到张扬，看起来也知书达理落落大方，想必应该成长于一个有文化的中产阶级家庭。
+SAY.Chapter1.801.Protagonist,,能让这么多人自发为地她哀悼，想必的确是个优秀的人才。
+SAY.Chapter1.991.,,New Info:\nRebecca is a truly perfect girl.
+SAY.Chapter1.802.Protagonist,,再多找人聊聊，了解关于Rebecca Rochester的更多细节。
+SAY.Chapter1.766.Protagonist,,我市著名高校YIT，为当年最早一批从城市中心搬到郊区的大学。
+SAY.Chapter1.767.Protagonist,,教育局领导打着让学生远离城市喧嚣，有一方读书净土的名号，实际却因郊外地皮廉价便宜，远离闹市商区学生无处可去，\n就只能乖乖待在校园，管理方便，所以让许多大学移址郊区。
+SAY.Chapter1.775.Protagonist,,不过看学校后山这么大一片水域，发生一两件溺亡案件也并不会令人感到意外。
+SAY.Chapter1.774.Protagonist,,现在我的位置是835号公交车站，连接商学院的大门以及环湖大道。
+SAY.Chapter1.776.Protagonist,,大学建筑是环湖而建，沿着湖边一直走就能逛完整个学校，没有建得弯弯绕绕真是帮了大忙。
+SAY.Chapter1.787.Protagonist,,黑白画像，是在办悼念会吗？
+SAY.Chapter1.788.Protagonist,,让我找个人问问是怎么回事。
+SAY.Chapter1.790.,,"Mission: ""Find someone to know what is happening."""
+SAY.Chapter1.815.Sophie,,Rebecca学姐即使已经回到天堂，也永远活在我们心中！失去她毫无疑问是我校的巨大损失。
+SAY.Chapter1.818.Protagonist,,{i}（你们对她的爱已经上升到如此的高度了吗?）{/i}所以她为什么去世？疾病？车祸？
+SAY.Chapter1.821.Sophie,,据说Rebecca学姐十分偏爱这片湖的风景，毕业典礼前日凌晨，一定也是想来对这片景色道别吧。
+SAY.Chapter1.820.Sophie,,因此才不幸失足落水，葬身于这片平静的湖面，隔日被发现时，身体已经被泡得浮肿了。
+SAY.Chapter1.863.,,New Info:\nRebecca was dead in the midnight.
+SAY.Chapter1.819.Protagonist,,凌晨？你们学校宿舍没有宵禁吗？我记得我上大学的时候，宿舍11点半就会熄灯锁门。
+SAY.Chapter1.822.Sophie,,我听说Rebecca学姐大学最后一个学期并没有住在宿舍。想必是有什么私人原因吧。
+MENU.Chapter1.825,,为什么你们到现在才为她举办悼念会?
+MENU.Chapter1.826,,为什么要在这里举办悼念会？
+SAY.Chapter1.829.Protagonist,,她在两年前不就已经去世了吗?
+SAY.Chapter1.832.Sophie,,最近学校公开宣布，决定在推平湖水后在上面建立新的大楼。
+SAY.Chapter1.831.Sophie,,并且所有与Rebecca有交集的学生都将在今年离开校园，于是我们商议后决定在学校开展毕业典礼同时举办悼念会。
+SAY.Chapter1.830.Sophie,,让不幸遇难，没能参加毕业典礼的Rebecca学姐能和我们一起毕业。
+SAY.Chapter1.834.Protagonist,,一般不都会选择礼堂之类更严肃庄重的室内场地吗？况且还遇到今天下雨，应该会很不方便吧。
+SAY.Chapter1.841.Sophie,,学校即将在这里建立的新教学楼，并以Rebecca的名字命名。
+SAY.Chapter1.842.Sophie,,并且Rebecca生前十分偏爱湖边的景色，经常在这边晨读散步，所以我们一致认为湖边就是最佳场所。
+SAY.Chapter1.844.Protagonist,,所以这边才摆放了白色花束。{i}（我还以为是你们年轻人的新潮流）{/i}
+SAY.Chapter1.847.Sophie,,这些花束同时也是为义卖活动所准备的，仅用十元钱就可以购得Rebecca纪念花束。\n整场悼念会所获得的收入我们会悉数捐献给高校反PUA公益组织。
+SAY.Chapter1.846.Protagonist,,反PUA公益组织？请解释一下，我不熟悉这个概念。
+SAY.Chapter1.845.Sophie,,PUA全称Pick Up Artist。\n指通过搭讪以及语言技巧对他人进行人格控制甚至人身控制。
+SAY.Chapter1.849.Sophie,,通过反PUA组织能够更有效宣传PUA对女性的迫害，减少更多类似Rebecca学姐这样的惨案发生。
+SAY.Chapter1.867.,,New Info:\nDid Rebecca ever suffered PUA?
+SAY.Chapter1.850.Protagonist,,惨案？你刚刚说Rebecca不是失足落水吗？
+SAY.Chapter1.851.Sophie,,！
+SAY.Chapter1.852.Sophie,,总而言之，您可以通过购买花束，来表达对Rebecca的惋惜。
+MENU.Chapter1.855,,"购买花束,  算作我对这个反PUA组织的支持吧。"
+MENU.Chapter1.856,,"不买,  我今天没有带现金。"
+SAY.Chapter1.905.Sophie,,那您自便。
+SAY.Chapter1.1026.Protagonist,,没事，我只是来打个招呼。
+SAY.Chapter1.969.Sophie,,目前我没有更多消息可以告知。假如您没有什么要紧的事，我就要去继续工作了。
+SAY.Chapter1.1027.Protagonist,,听说你们是跟校方多次交涉才得到了举办权，看来是花费了许多时间和精力，没想到大学生还有这样的组织能力，真是令人惊叹。
+SAY.Chapter1.1021.Sophie,,您过奖了，没有那么厉害。而且大部分都是学姐的父亲Rochester教授在与学校谈判，我们只不过是帮一些微不足道的忙而已。
+SAY.Chapter1.1028.Protagonist,,没想到老师会对学生举办的活动投入心血。
+SAY.Chapter1.1029.Sophie,,毕竟事关他的亲生女儿，我想也是人之常情。
+SAY.Chapter1.1030.Sophie,,况且Rochester教授因为女儿的事情也跟学校起过不少争执，现在他也没有必要再看学校眼色了。
+SAY.Chapter1.1031.Protagonist,,这是怎么一回事？难道教授与学校之间发生了什么不愉快的事？
+SAY.Chapter1.1032.Sophie,,本来学校是打算趁着暑假悄悄填湖，但教授提出来必须让他先祭奠一下学姐，并主动提出自己辞去行政职务，不再给学校添麻烦。
+SAY.Chapter1.1053.,,New Info:\nRobert sacrified his career to hold this event.
+SAY.Chapter1.1033.Protagonist,,作为一个父亲，做出这样的举动也是情理之中。
+SAY.Chapter1.1034.Sophie,,是啊，学校就这样失去了一位好老师，不知道以后学院会变成什么样子。
+SAY.Chapter1.1035.Sophie,,这场悲剧，毁掉的可不止是一条性命。
+SAY.Chapter1.1213.Protagonist,,为什么大家说的跟你的表述不太一样？似乎大家还是更愿意相信这就是一场意外。
+SAY.Chapter1.1214.Sophie,,大家这么说了吗？也不怪他们，毕竟不这么说的后果挺严重。
+SAY.Chapter1.1215.Protagonist,,会有什么后果？
+SAY.Chapter1.1216.Sophie,,两年前学校就下过命令，让学生不要乱传流言，一切以学校公告为准。
+SAY.Chapter1.1217.Sophie,,如果学生被发现表达了不同观点，会被以散播谣言与诋毁学校名声为理由开除。
+SAY.Chapter1.1218.Sophie,,尤其不能未经允许接受警方盘问，说了什么做了什么都要有辅导员陪同。
+SAY.Chapter1.1250.,,New Info:\nThe university has restricted students' speech.
+SAY.Chapter1.1219.Protagonist,,所以这就是你之前所说的“压力”？
+SAY.Chapter1.1220.Sophie,,是的，我们也只能用捐款活动这种暗示来间接表达抗议。
+MENU.Chapter1.1222,,你们真的非常具有勇气，挑战权威很不容易。
+MENU.Chapter1.1223,,你们一定要保护好自己，不要引火上身。
+SAY.Chapter1.985.Protagonist,,我看这个活动规模不小，占地面积又大，校方应该给了不少支持吧。
+SAY.Chapter1.986.Anonymous Student,,我不是很清楚学校的具体态度。\n不过，这个活动确实花费了我们不少时间去做前期准备工作。
+SAY.Chapter1.987.Anonymous Student,,至少我的同班同学从这学期一开始就在筹划，想来也是跟校方做了不少交涉。
+SAY.Chapter1.995.,,New Info:\nStudents have argued with the school multiple times.
+SAY.Chapter1.988.Protagonist,,辛苦了，这真是一个给人印象深刻的活动，对于你们来说也会是一段大学期间难忘的回忆吧。
+SAY.Chapter1.1038.Protagonist,,收集到了一些新线索，要不要找之前卖花的学生问下她的观点？还是继续探索？
+SAY.Chapter1.1001.Protagonist,,学生能够有权力举办这样大规模的悼念活动吗？包括租界场地、购买花束、与反PUA组织联系并进行捐款？
+SAY.Chapter1.1002.Anonymous Student,,九成都是学生自发组织的，毕竟Rebecca的死亡对于我们任何人来说都是一场遗憾。
+SAY.Chapter1.1003.Anonymous Student,,不过最终还是最应该感谢Rochester教授，如果没有他与校方洽谈，恐怕我们也无法举办这场活动，更不要说在湖边这么引人瞩目的场所。
+SAY.Chapter1.1004.Protagonist,,Rochester 教授？这个姓氏听起来好熟悉……
+SAY.Chapter1.1005.Anonymous Student,,他是Rebecca的父亲，也是我们曾经的商学院院长。这次活动经费大半也是他赞助给我们。
+SAY.Chapter1.1008.,,New Info:\nRebecca's father used to be the department dean.
+SAY.Chapter1.1012.,,"New Character:\nRobert Rochester, Rebecca's father."
+SAY.Chapter1.1014.Protagonist,,原来如此。希望你们的活动能圆满举办，让大家毫无遗憾地毕业。
+SAY.Chapter1.1040.Protagonist,,收集到了一些新线索，要不要找之前卖花的学生问下她的观点？还是继续探索？
+SAY.Chapter1.1055.Protagonist,,这位同学，你也来悼念Rebecca吗？
+SAY.Chapter1.1056.Anonymous Student,,不，我只是路过并且顺便停下来看看而已，您是谁？
+SAY.Chapter1.1057.Protagonist,,我是校报记者，准备针对这次活动写一次专题报道，能跟我讲讲你眼中的Rebecca吗？
+SAY.Chapter1.1058.Anonymous Student,,校报？奇怪，我们学校从来都没有过校报。
+MENU.Chapter1.1062,,这个月才创办，你不知道也是理所当然。
+MENU.Chapter1.1063,,只是一个拥有个位数成员的小组织。
+SAY.Chapter1.1121.Protagonist,,我们能继续聊聊之前没说完的话题吗？
+SAY.Chapter1.1122.Anonymous Student,,你是指什么？对不起我不大记得我们谈的内容了。
+SAY.Chapter1.1123.Protagonist,,{i}（我有相关的信息能展开探讨吗？）{/i}
+SAY.Chapter1.1068.Anonymous Student,,大一的学生吗？难怪你们不怎么熟悉Rebecca。
+SAY.Chapter1.1069.Anonymous Student,,我要求匿名接受采访可以吗？
+SAY.Chapter1.1067.Protagonist,,当然可以，我们的保密工作做得十分到位，绝不会对您得隐私走漏任何风声。
+SAY.Chapter1.1070.Anonymous Student,,总的来说Rebecca算是我们那个时代的大红人啦。
+SAY.Chapter1.1071.Protagonist,,能说具体点吗？
+SAY.Chapter1.1072.Anonymous Student,,无论是在老师还是在学生间，她都是无可替代的焦点，算得上是学校中炙手可热的人物。
+SAY.Chapter1.1073.Anonymous Student,,她代表学校参加全国比赛时，教学楼里都是她的宣传海报，弄得跟竞选总统差不多。
+SAY.Chapter1.1075.Protagonist,,听起来阵仗很大。
+SAY.Chapter1.1076.Anonymous Student,,是啊，算是风光无限，甚至有点招摇过市了。
+SAY.Chapter1.1074.Protagonist,,难怪过了这么久大家都仍然怀念她。
+SAY.Chapter1.1077.Anonymous Student,,怀念？。我想除了那几位Rebecca的狂热信徒以外，其他人不过是可惜少了一个喜欢多管闲事帮自己解决麻烦的学姐而已。
+MENU.Chapter1.1078,,看来她并不是别人口中那样十全十美的人。
+MENU.Chapter1.1079,,没必要说的这么刻薄吧，大家应该是真的伤心。
+SAY.Chapter1.1084.Anonymous Student,,你们这些大一新生，还是不知道社会险恶。如果一个人不能为己所用，那么她必然也不会受到众人追捧。
+SAY.Chapter1.1085.Protagonist,,{i}（是啊，如果Rebecca只是一个普通学生，她有能力帮助到这么多后辈吗？){/i}
+SAY.Chapter1.1086.Protagonist,,{i}（我有相关的信息能展开探讨吗？）{/i}
+SAY.Chapter1.1111.Protagonist,,是关于Rebecca这个的信息吗？
+SAY.Chapter1.1110.Anonymous Student,,我对此没有兴趣，我也不想多说已死之人的闲话。
+SAY.Chapter1.1112.Anonymous Student,,只要大家表现出来对她是怀念的，就让这成为唯一的事实。
+SAY.Chapter1.1113.Anonymous Student,,我没有什么可以说的了，你去找找其他人吧。
+SAY.Chapter1.1115.Protagonist,,我听说Rebecca的父亲曾经是商学院院长，对吗？
+SAY.Chapter1.1116.Anonymous Student,,没错。要我说，她可是靠着自己有一个院长做父亲而得到了不少好处。
+SAY.Chapter1.1117.Protagonist,,可是，即使她父亲曾经是院长，也不能说明她有什么特殊权利。
+SAY.Chapter1.1118.Anonymous Student,,如果她没有，为什么学生遇到解决不了的事都去找她帮忙？
+SAY.Chapter1.1139.,,New Info:\nRebecca used her father's power to help students.
+SAY.Chapter1.1119.Anonymous Student,,当然信不信就在你了。也许是我以小人之心度君子之腹。
+SAY.Chapter1.1160.Protagonist,,这位同学，请等一下！我想问一下这里发生了什么事情？
+SAY.Chapter1.1161.Anonymous Student,,我很忙，您想问些什么？
+SAY.Chapter1.1162.Protagonist,,我在做关于这场活动的报道，需要了解下学生看法。请问了解Rebecca吗？
+SAY.Chapter1.1163.Anonymous Student,,算是略知一二，不过我们不是很熟。
+SAY.Chapter1.1164.Protagonist,,我能问下您对Rebecca遭遇这次事故的想法吗？
+SAY.Chapter1.1165.Anonymous Student,,我……没有什么特殊的想法，只是一次不幸的意外，我们都深表遗憾。
+SAY.Chapter1.1166.Protagonist,,那您清楚事件的前因后果吗？
+SAY.Chapter1.1167.Anonymous Student,,对不起，据我所知Rebecca的事件只是一次意外，除此之外我并不知道什么。
+SAY.Chapter1.1168.Protagonist,,{i}（是不是要出示一些东西？问得再具体一点？）{/i}
+SAY.Chapter1.1182.Protagonist,,您对Rebecca的这些信息了解吗？
+SAY.Chapter1.1183.Anonymous Student,,我跟她只是普通前后辈关系，不是很熟。
+SAY.Chapter1.1185.Anonymous Student,,如果您对她的事迹比较感兴趣的话，建议还是去问这个活动的主办方，他们应该可以提供更详细的信息。
+SAY.Chapter1.1184.Anonymous Student,,抱歉没能帮到您什么，去问一下其他人吧。
+SAY.Chapter1.1187.Protagonist,,您知道校方对这件事的态度吗？
+SAY.Chapter1.1188.Anonymous Student,,能不能不要为难我，学校都已经说了是意外了，那就是意外。
+SAY.Chapter1.1189.Anonymous Student,,我们也只知道这些消息。要说我说了些什么捕风捉影的话被传出去了，对学校的影响也不好。
+SAY.Chapter1.1190.Protagonist,,我不是那个意思，只是有其他学生透露出......
+MENU.Chapter1.1193,,校方有故意想把事件掩盖成意外的意图。
+MENU.Chapter1.1194,,似乎Rebecca的死不是纯粹的意外。
+SAY.Chapter1.1197.Anonymous Student,,其他人怎么说我管不着，但我不能说出没根据的话。
+SAY.Chapter1.1198.Anonymous Student,,这种三人成虎众口铄金的言论，谁知道是不是什么别有用心的人编造来抹黑我们学校？
+SAY.Chapter1.1209.,,New Info:\nSome students insist that the case is an accident.
+SAY.Chapter1.1199.Anonymous Student,,我还有事就不多说了，请不要再传播这些小道消息。
+SAY.Chapter1.1232.Sophie,,我们已经做好了最坏的打算。比起什么都不做带着遗憾毕业，至少现在我们的良心不会受到谴责。
+SAY.Chapter1.1236.Sophie,,总之，谢谢您对这件事情如此关心，说明我们的宣传是有成效的。
+SAY.Chapter1.1265.Protagonist,,您好，您曾经是Rebecca的老师吗？
+SAY.Chapter1.1266.Robert,,老师吗？这么说也没有问题。
+SAY.Chapter1.1267.Protagonist,,{i}（为什么要用疑问句？难道还有其他的可能性){/i}
+MENU.Chapter1.1271,,难道您与她有师生以外的关系？
+MENU.Chapter1.1272,,您是代表学校来纪念Rebecca的吗？
+SAY.Chapter1.1295.Protagonist,,Robert教授，有些事情我还想请教。
+SAY.Chapter1.1296.Anonymous Student,,请说，只要是你问的内容有价值我都会回答的。
+SAY.Chapter1.1297.Protagonist,,{i}（我有有价值的议题能展开探讨吗？）{/i}
+SAY.Chapter1.1274.Robert,,我想我站在这里，更多是作为父亲的立场。
+SAY.Chapter1.1275.Protagonist,,您就是Rochester教授吗？久仰大名。
+SAY.Chapter1.1278.Robert,,看来你的调查相当的顺利，短短时间已经掌握了不少资料。
+SAY.Chapter1.1279.Protagonist,,{i}！（糟糕，被识破了吗？){/i}
+MENU.Chapter1.1282,,您在说什么，我听不懂？调查什么？
+MENU.Chapter1.1283,,我只是路过来祭拜的学生而已。
+SAY.Chapter1.1286.Robert,,我当了三十多年的老师，什么样的人是学生还是辨别的出来。
+SAY.Chapter1.1288.Robert,,至少现在，在Rebecca的面前，请不要对我说谎。
+SAY.Chapter1.1287.Protagonist,,我不是什么可疑人士，请不要把我赶走。
+SAY.Chapter1.1289.Robert,,放心吧，你以为这两年来找我调查的人就少吗？没想到我最后一次出名居然是因为女儿的死亡。
+SAY.Chapter1.1290.Robert,,我不会立刻赶你走，只要你接下来实话实说。我教过的学生成千上百，诚信是我们做学术的基本。
+SAY.Chapter1.1291.Protagonist,,实话实说？您想要知道些什么？
+SAY.Chapter1.1292.Robert,,关于Rebecca，她的死因。
+SAY.Chapter1.1293.Robert,,如果你真的做了全面的调查，现在心中应该已经有一个初步的答案了，我想听听你的看法。
+CHARACTER.Protagonist,,Protagonist
+CHARACTER.Anonymous Student,,Anonymous Student
+CHARACTER.Sophie,,Sophie
+CHARACTER.Robert,,Robert
+谢谢，这是您的花束！Rebecca学姐在天之灵会保佑您的。,,
+\n就只能乖乖待在校园，管理方便，所以让许多大学移址郊区。,,
+\n整场悼念会所获得的收入我们会悉数捐献给高校反PUA公益组织。,,
+\n不过，这个活动确实花费了我们不少时间去做前期准备工作。,,
