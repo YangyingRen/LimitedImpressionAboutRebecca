@@ -19,6 +19,7 @@ MENU.Chapter1.982,,整场活动都是学生自己组织的吗？
 SAY.Chapter1.1242.Protagonist,,这位同学，能再找你聊聊吗？
 SAY.Chapter1.1243.Anonymous Student,,我能说的都已经说完了。
 SAY.Chapter1.1244.Anonymous Student,,请不要打扰我，我想独自一人怀念一下Rebecca。
+SAY.Chapter1.1361.Bus Broadcast,,YIT站已到，请到站的乘客从后门下车
 SAY.Chapter1.389.Protagonist,,没有想到这么远，居然要花费一个多小时坐巴士，况且这雨下的没完没了，弄得浑身都是一股霉味。
 SAY.Chapter1.390.Protagonist,,希望编辑这次给我的案子值得我千里迢迢跑到这个荒郊野岭。
 SAY.Chapter1.391.Protagonist,,我记得书包里有相关资料的影印件。
@@ -32,7 +33,7 @@ SAY.Chapter1.420.Protagonist,,多位该校老师作证案发当晚Antony与Rebec
 SAY.Chapter1.421.Protagonist,,据该校师生匿名透露，Antony在校期间与多名女性均保持暧昧关系，感情生活混乱。
 SAY.Chapter1.422.Protagonist,,自2019年大三下学期开始，Rebecca与Antony感情矛盾频发，多位学生曾目睹双方产生纠纷。
 SAY.Chapter1.423.Protagonist,,警方判断Antony对Rebecca存在长期人格控制以及潜在暴力行为。
-SAY.Chapter1.424.Protagonist,,十二月二十八日，引发社会广泛关注的“YIT校园情杀案”被告人Antony Sallin因证据不足被判决无罪释放，最终案件以意外事故结案。
+SAY.Chapter1.424.Protagonist,,12月28日，引发社会广泛关注的“YIT校园情杀案”被告人Antony Sallin因证据不足被判决无罪释放，最终案件以意外事故结案。
 SAY.Chapter1.448.Protagonist,,YIT师生以及社会各界对此判决结果一片哗然，学校官方目前并未表态。
 SAY.Chapter1.750.Protagonist,,无罪释放？这种人最后居然被无罪释放？
 SAY.Chapter1.753.Protagonist,,既然编辑认为这桩案件可以作为我新作品的灵感，看来案件背后应该另有隐情。
@@ -241,8 +242,45 @@ SAY.Chapter1.1290.Robert,,我不会立刻赶你走，只要你接下来实话实
 SAY.Chapter1.1291.Protagonist,,实话实说？您想要知道些什么？
 SAY.Chapter1.1292.Robert,,关于Rebecca，她的死因。
 SAY.Chapter1.1293.Robert,,如果你真的做了全面的调查，现在心中应该已经有一个初步的答案了，我想听听你的看法。
+MENU.Chapter1.1313,,我想这是一场不幸的意外。
+MENU.Chapter1.1314,,我想您的女儿可能遭受了某种人格控制。
+SAY.Chapter1.1317.Protagonist,,我从一些同学的口中得知了这场活动的捐款会用来帮助反对PUA。想必这就是害死您女儿的真凶吧。
+SAY.Chapter1.1318.Robert,,看来你一定是与Sophie做了充分沟通，不过这并不是一个好的开始。
+SAY.Chapter1.1320.Protagonist,,您的意思是？Sophie所告诉我的事情并不可信？
+SAY.Chapter1.1321.Robert,,正是如此，我知道有很多人都赞同Antony是杀人凶手这个说法。即使我知道这么想会让我好受一些，可这不符合我一贯严谨的作风。
+SAY.Chapter1.1323.Robert,,我参加了每一次庭审，每一句证词每一个证物我都记得，检察院仍然缺少关键信息证明他就是凶手。
+SAY.Chapter1.1324.Robert,,作为一名信奉科学的教师，我无法仅凭一些捕风捉影的谣言就给一个孩子扣上杀人犯的罪名。
+SAY.Chapter1.1325.Protagonist,,可是这也无法证明他不是凶手是不是？如果他真的清白，为什么这么多年有的学生仍然不愿接受判决结果？
+SAY.Chapter1.1319.Robert,,我能理解他们这些后辈对Rebecca的崇拜，这层滤镜让他们陷入不理智的狂热。因为他们的偶像死了，所以他们一定要抓出一只替罪羊。
+SAY.Chapter1.1326.Robert,,否则他们也不知道如何发泄自己的怒火。即使是受过高等教育的大学生，一旦感性起来也与乌合之众没有什么区别。
+SAY.Chapter1.1327.Protagonist,,这话是不是有些冷血？他们可是在为您的女儿鸣不平。
+SAY.Chapter1.1328.Robert,,我仍然很感谢他们的帮助，只不过他们给不了我想要的真相。
+SAY.Chapter1.1329.Robert,,或许我们任何一个置身其中的人都没有办法找到Rebecca真正的死因。与她的羁绊使我们没有客观看待这个案件。
+SAY.Chapter1.1330.Robert,,我们想的最终都是，我们希望她是如何死去。
+SAY.Chapter1.1331.Protagonist,,所以这就是您向我提问的原因吗？因为我是一个局外人。
+SAY.Chapter1.1332.Robert,,有时候局外人更是一种优势。如果我是局外人，或许Rebecca活着的时候我就能发现一些端倪。
+SAY.Chapter1.1354.Robert,,你很擅长观察与思考，如果可以的话，请代替我这个不称职的父亲找出Rebecca死亡的真相。
+SAY.Chapter1.1333.Robert,,十天后这里将会成为施工现场，同时追悼会也会结束。那一天的早晨，请再来这里告诉我你的结论。
+SAY.Chapter1.1335.Protagonist,,我从媒体方面知道了这是一场不幸的意外。
+SAY.Chapter1.1336.Robert,,这确实是最官方的报道，无论是法院还是学校都支持这个结论。
+SAY.Chapter1.1338.Robert,,但是，这也是在审判持续半年后陪审团无奈得出的结论。
+SAY.Chapter1.1337.Protagonist,,您是说？意外只是因为无法破案的无奈之举？这样做是不是也太草率了？
+SAY.Chapter1.1339.Robert,,持续半年参加陪审可不容易，如果不是毅力非常，普通人很难最后还有力气来对案件进行合理分析。
+SAY.Chapter1.1340.Robert,,我想最后他们也放弃了等待检察院所谓的“关键证据”，决定草草结案。
+SAY.Chapter1.1341.Protagonist,,为什么您觉得就不可能是意外呢？我听闻令嫒去世时可是凌晨，没有看清路不小心失足不是不可能。
+SAY.Chapter1.1342.Robert,,我对Rebecca最自豪的一点就是严谨，认真的态度，是个做科研的好苗子。
+SAY.Chapter1.1343.Robert,,如果不是有特别重要的事，我想不出有什么需要她半夜三更去湖边玩耍的理由。
+SAY.Chapter1.1345.Robert,,尤其第二天她需要作为毕业生代表发表全校演讲，她应该在家认真准备演讲稿才对。
+SAY.Chapter1.1344.Protagonist,,所以您认为Rebecca的死是有人有意为之？如果真是这样凶手岂不是还逍遥法外？
+SAY.Chapter1.1346.Robert,,实话实说，我时至今日仍无法下定论，或许作为她的父亲我反而看不清究竟发生了什么。
+SAY.Chapter1.1347.Robert,,每当我认真思考时，脑子里只会浮现她的笑容。
+SAY.Chapter1.1348.Protagonist,,那有什么我可以帮到您的吗？我对Rebecca的死也深感惋惜，这样一个优秀的女孩不应该死的不明不白。
+SAY.Chapter1.1349.Robert,,我看的出来你不是一位仅仅为花边新闻而感到满足的人，如果可以的话，请接下我的委托。
+SAY.Chapter1.1355.Robert,,或许你能比我们任何人都更快发现这桩持续了两年的噩梦究竟发生了什么。
+SAY.Chapter1.1356.Robert,,十天后这里将会成为施工现场，同时追悼会也会结束。那一天的早晨，请再来这里告诉我你的结论。
 CHARACTER.Protagonist,,Protagonist
 CHARACTER.Anonymous Student,,Anonymous Student
+CHARACTER.Bus Broadcast,,Bus Broadcast
 CHARACTER.Sophie,,Sophie
 CHARACTER.Robert,,Robert
 谢谢，这是您的花束！Rebecca学姐在天之灵会保佑您的。,,
