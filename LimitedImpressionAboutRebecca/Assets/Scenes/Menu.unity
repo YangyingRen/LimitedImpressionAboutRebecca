@@ -832,7 +832,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -15, y: -84.5}
+  m_AnchoredPosition: {x: -3, y: -127}
   m_SizeDelta: {x: 189.99, y: 32.11}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &581806104
@@ -1469,7 +1469,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -12.1, y: -4.7}
+  m_AnchoredPosition: {x: -1, y: -47.2}
   m_SizeDelta: {x: 244.58, y: 46.56}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1193080776
@@ -2029,8 +2029,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -7.44, y: 91}
-  m_SizeDelta: {x: 501.76, y: 103.86}
+  m_AnchoredPosition: {x: 0.26, y: 91.58}
+  m_SizeDelta: {x: 486.37, y: 191.8}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1850775698
 MonoBehaviour:
@@ -2065,9 +2065,11 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: 'Dear author
+  m_Text: 'This story has no relationship with any real person and event.
 
-    please let me know how to call you.'
+
+    Present
+    By:'
 --- !u!222 &1850775699
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2341,10 +2343,10 @@ RectTransform:
   m_Father: {fileID: 1910247859}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -9.4536, y: 59.183}
-  m_SizeDelta: {x: 464.63, y: 383.65}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -9.453613, y: 59.182983}
+  m_SizeDelta: {x: -151.37, y: -484.35}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2122986835
 MonoBehaviour:
@@ -2391,7 +2393,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\t As a detective writer I never suggest my reader regarding the ending
+  m_Text: "\tAs a detective writer I never suggest my reader regarding the ending
     in the last page as the absolute truth. In fact, that is only one possible that
     I saw as a subjective human being. To be honest, this problem has bothered me
     for a long time since my first published novel.\t"
