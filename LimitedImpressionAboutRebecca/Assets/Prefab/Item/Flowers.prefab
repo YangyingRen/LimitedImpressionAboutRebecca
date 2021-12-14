@@ -270,5 +270,6 @@ MonoBehaviour:
   broadcast: Item
   flowchart: {fileID: 0}
   Num: 4
-  Description: A bunch of flowers.
+  Description: A bouquet of flowers decorated with ribbon. This is not typical funeral
+    flowers but right now what else purpose it should be?
   DescriptionPanel: {fileID: 0}
