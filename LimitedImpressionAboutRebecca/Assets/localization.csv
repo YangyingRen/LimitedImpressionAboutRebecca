@@ -25,9 +25,9 @@ SAY.Chapter1.390.Protagonist,,希望编辑这次给我的案子值得我千里�
 SAY.Chapter1.391.Protagonist,,我记得书包里有相关资料的影印件。,I remember that there are photocopies of relevant information in my bag.
 SAY.Chapter1.417.Protagonist,,2020年六月二十日，我市一流大学YIT在毕业典礼当日早上于校内发现一具溺亡女尸。,"On June 20, 2020, YIT, a famous university in our city, found a drowned female body in the school on the morning of the graduation ceremony."
 SAY.Chapter1.415.Protagonist,,推断为一起故意杀人案，受害者为在校大四学生Rebecca Rochester。,"Inferred to be an intentional homicide case, and the victim was Rebecca Rochester, a senior student."
-SAY.Chapter1.743.,,新资料:\n受害者为Rebecca Rochester.,"New Character:\nRebecca Rochester, the victim."
+SAY.Chapter1.743.,,"New Character:\nRebecca Rochester, the victim.","New Character:\nRebecca Rochester, the victim."
 SAY.Chapter1.418.Protagonist,,经过多方查证，警方将嫌疑人锁定为Rebecca交往两年的男朋友Antony Sallin，并以故意杀人罪对其进行指控。,"After multiple investigations, the police identified the suspect as Antony Sallin, Rebecca's boyfriend who had been together for two years, and charged him with intentional homicide."
-SAY.Chapter1.747.,,新资料:\n嫌疑犯为Antony Sallin.,"New Character:\nAntony Sallin, the suspect."
+SAY.Chapter1.747.,,"New Character:\nAntony Sallin, the suspect.","New Character:\nAntony Sallin, the suspect."
 SAY.Chapter1.419.Protagonist,,警方在Rebecca尸体颈部发现成年男子手掌大小掐痕，且在Antony寝室发现Rebecca随身携带的项链等私人物品。,"The police found an adult man sized pinch marks on the neck of Rebecca's body, and found  Rebecca's personal belongings such as necklaces in Antony's dormitory."
 SAY.Chapter1.420.Protagonist,,多位该校老师作证案发当晚Antony与Rebecca曾经单独见面，且无人可以提供Antony在案发时间的不在场证明。,"A number of teachers testified that Antony and Rebecca met alone on the night of the crime, and no one could provide an alibi for him."
 SAY.Chapter1.421.Protagonist,,据该校师生匿名透露，Antony在校期间与多名女性均保持暧昧关系，感情生活混乱。,"According to the anonymous school's teachers and students, Antony maintained an ambiguous and chaotic relationship with many female students."
@@ -45,12 +45,12 @@ SAY.Chapter1.754.Protagonist,,原来如此，因为要施工，这附近的路�
 SAY.Chapter1.757.Protagonist,,这些花束又是怎么回事？为什么摆得到处都是。\n难道现在毕业季流行摆白色菊花？虽然看起来有些毛骨悚然，但仔细看却清雅别致，现在的年轻人真是时髦。,"What's the matter with these bouquets? Why are they everywhere. Is it popular to put white chrysanthemums in the graduation season now? Although it looks a little creepy, it is elegant and chic when you look closely. Must be today's young people's new fashion."
 SAY.Chapter1.760.Protagonist,,话说回来不愧是新闻上反复强调的一流高校，占地面积很大，简直像一座小型城市。,"Having said that, it is worthy of being a first-class university that has been repeatedly emphasized in the news. Looks like a small city."
 SAY.Chapter1.759.Protagonist,,还是找张地图看看我现在的位置在哪里。,Need to find a map to see where I am now.
-SAY.Chapter1.427.,,"任务: ""找到学校地图.""","Mission: ""Find the campus map."""
+SAY.Chapter1.427.,,"Mission: ""Find the campus map.""","Mission: ""Find the campus map."""
 SAY.Chapter1.716.Protagonist,,不对，我现在不需要这个。,"No, I don't need this now."
 SAY.Chapter1.1109.Protagonist,,再仔细找找资料在哪里。,Find carefully where are the copies.
 SAY.Chapter1.462.Sophie,,Rebecca是我校2020届毕业生代表，她在校期间不仅成绩优异，对待同学更是亲切温柔。,"Rebecca is the representative of our school's 2020 graduates. During her time at school, she not only has excellent grades, but also treats her classmates kindly and tenderly."
 SAY.Chapter1.463.Sophie,,我们这些后辈有任何麻烦，只要是她能帮到，她都会事无巨细地亲力亲为。,"If we younger generations have any trouble, as long as she can help, she will do everything by herself."
-SAY.Chapter1.859.,,新信息:\nRebecca 在学生中十分有人气.,New Info:\nRebecca has a good reputation among students.
+SAY.Chapter1.859.,,New Info:\nRebecca has a good reputation among students.,New Info:\nRebecca has a good reputation among students.
 SAY.Chapter1.502.Sophie,,很不幸的是，两年前，学姐在毕业的前一天晚上遭遇不测，先一步离开了我们。,"Unfortunately, two years ago, she encountered an accident the night before graduation and left us forever."
 MENU.Chapter1.811,,听起来是一个前途无量的学生。,It sounds like a promising student.
 MENU.Chapter1.813,,你好像很喜欢她。,You seem to like her very much.
@@ -61,7 +61,7 @@ SAY.Chapter1.606.Protagonist,,{i}（我确实不怎么关注网络上的争吵�
 SAY.Chapter1.607.Protagonist,,好吧，那这里到底发生了什么？,"Okay, so what happened here?"
 SAY.Chapter1.489.Sophie,,谢谢，这是您的花束！Rebecca学姐在天之灵会保佑您的。,"Thank you, this is your bouquet! Rebecca will bless you."
 SAY.Chapter1.490.Sophie,,听起来有点恐怖。,Sounds like a horror movie.
-SAY.Chapter1.497.,,新物品:\n你拿到了一束花,New Item:\nYou got a bunch of flowers.\n
+SAY.Chapter1.497.,,New Item:\nYou got a bunch of flowers.\n,New Item:\nYou got a bunch of flowers.\n
 SAY.Chapter1.495.Protagonist,,不过，看在我已经买了花的份上，你可以回答我Rebecca的死到底跟PUA有什么关系吗？,"I already bought the flower, can you answer me whether Rebecca's death has anything to do with PUA?"
 SAY.Chapter1.504.Sophie,,……其实并没有什么太大联系，我们只是想借此引起社会对此的重视而已。,"...In fact, there is not much connection, we just want to draw the attention of the society to this."
 SAY.Chapter1.870.Protagonist,,既然没有关系，为什么要特地在Rebecca的悼念会上进行捐款活动，难道你们是在蹭热度、诈骗捐款？\n,"Since it doesn't matter, why do you specially conduct donation activities at Rebecca's memorial service? Are you scamming donations? \n"
@@ -70,7 +70,7 @@ SAY.Chapter1.505.Sophie,,你这个人，说话怎么这么难听，我们可是�
 SAY.Chapter1.872.Sophie,,如果能够有机会，我们都想报答她，她生前帮助我们许多。那一天后，我们所有人，都后悔着没有来得及对她道谢。,"If we have the opportunity, we all want to repay her, she helped us a lot during her lifetime. After that day, all of us regretted not having time to thank her."
 SAY.Chapter1.873.Sophie,,但是，我们除了尽力让他人能够避免重蹈覆辙，也无法再为她做到更多。,"However, in addition to trying our best to let others avoid repeating the same tragedy, we can't do more."
 SAY.Chapter1.874.Sophie,,很多事情，作为不是这所学校学生的你，一个旁观者，无法真正理解我们所经受的压力。,"There are many things, as you who are not a student of this school, a bystander, cannot truly understand the pressure we are experiencing."
-SAY.Chapter1.879.,,新信息:\n学校似乎有对学生们施压,New Info:\nThe school might have put pressure on students.
+SAY.Chapter1.879.,,New Info:\nThe school might have put pressure on students.,New Info:\nThe school might have put pressure on students.
 SAY.Chapter1.875.Sophie,,不过不管怎样，感谢您的支持，我们会好好使用筹得的善款。,"But anyway, thank you for your support and we will make good use of the donations."
 SAY.Chapter1.887.Sophie,,不再考虑一下吗？这么美的花束，送人或用于装饰房间都是不错的选择哦！,Please think about it again! Such a beautiful bouquet is a good choice as a gift or self use!
 SAY.Chapter1.888.Protagonist,,这可是葬礼花束……,This is a funeral bouquet...
@@ -83,7 +83,7 @@ SAY.Chapter1.795.Protagonist,,能办这么盛大的追悼会，她不会就是�
 SAY.Chapter1.798.Protagonist,,Rebecca Rochester，看起来确实十分具有魅力。,"Rebecca Rochester, looks very attractive indeed."
 SAY.Chapter1.799.Protagonist,,比寻常学生更会打扮，但是并不会让人感到张扬，看起来也知书达理落落大方，想必应该成长于一个有文化的中产阶级家庭。,"Better fashion taste than ordinary students, but don’t make people feel ostentatious. Seems to be knowledgeable and generous. She must have grown up in a literate middle-class family."
 SAY.Chapter1.801.Protagonist,,能让这么多人自发为地她哀悼，想必的确是个优秀的人才。,She must be significant outstanding to allow so many people to mourn her spontaneously.
-SAY.Chapter1.991.,,新信息:\nRebecca是一位几乎完美的女生。,New Info:\nRebecca is a truly perfect girl.
+SAY.Chapter1.991.,,New Info:\nRebecca is a truly perfect girl.,New Info:\nRebecca is a truly perfect girl.
 SAY.Chapter1.802.Protagonist,,再多找人聊聊，了解关于Rebecca Rochester的更多细节。,Talk to more people and learn more details about Rebecca Rochester.
 SAY.Chapter1.766.Protagonist,,我市著名高校YIT，为当年最早一批从城市中心搬到郊区的大学。,"YIT, a famous university in our city, was the first university that moved from the city center to the suburbs."
 SAY.Chapter1.767.Protagonist,,教育局领导打着让学生远离城市喧嚣，有一方读书净土的名号，实际却因郊外地皮廉价便宜，远离闹市商区学生无处可去，\n就只能乖乖待在校园，管理方便，所以让许多大学移址郊区。,"The Education Bureau announced let them have a quiet place to study, but the truth is that because the suburban land is cheap, students have nowhere to go so they can only stay on the campus. Thus, many universities were moved to the suburbs."
@@ -92,12 +92,12 @@ SAY.Chapter1.774.Protagonist,,现在我的位置是835号公交车站，连接�
 SAY.Chapter1.776.Protagonist,,大学建筑是环湖而建，沿着湖边一直走就能逛完整个学校，没有建得弯弯绕绕真是帮了大忙。,"The university building is built around the lake, and you can walk around the whole school along the lake."
 SAY.Chapter1.787.Protagonist,,黑白画像，是在办悼念会吗？,"Black-and-white portrait, is there holding a memorial service?"
 SAY.Chapter1.788.Protagonist,,让我找个人问问是怎么回事。,Let me find someone to ask what's going on.
-SAY.Chapter1.790.,,"任务: ""走访一些学生了解发生了什么。""","Mission: ""Find someone to know what is happening."""
+SAY.Chapter1.790.,,"Mission: ""Find someone to know what is happening.""","Mission: ""Find someone to know what is happening."""
 SAY.Chapter1.815.Sophie,,Rebecca学姐即使已经回到天堂，也永远活在我们心中！失去她毫无疑问是我校的巨大损失。,"Even though Rebecca has returned to heaven, she will always live in our hearts! Losing her is undoubtedly a huge loss for our school."
 SAY.Chapter1.818.Protagonist,,{i}（你们对她的爱已经上升到如此的高度了吗?）{/i}所以她为什么去世？疾病？车祸？,{i}(Has your love for her rise to such a high level?){/i}So why did she die? disease? Car accident?
 SAY.Chapter1.821.Sophie,,据说Rebecca学姐十分偏爱这片湖的风景，毕业典礼前日凌晨，一定也是想来对这片景色道别吧。,It is said that Rebecca loves the scenery of this lake very much. She must have wanted to say goodbye to it in the early morning before the graduation ceremony.
 SAY.Chapter1.820.Sophie,,因此才不幸失足落水，葬身于这片平静的湖面，隔日被发现时，身体已经被泡得浮肿了。,"Therefore, unfortunately, she fell into the water and was buried in this calm lake. When she was found the next day, her body had been soaked and swollen."
-SAY.Chapter1.863.,,新信息:\nRebecca死在深更半夜。,New Info:\nRebecca was dead in the midnight.
+SAY.Chapter1.863.,,New Info:\nRebecca was dead in the midnight.,New Info:\nRebecca was dead in the midnight.
 SAY.Chapter1.819.Protagonist,,凌晨？你们学校宿舍没有宵禁吗？我记得我上大学的时候，宿舍11点半就会熄灯锁门。,"Early morning? Is there no curfew in your school dormitory? I remember that when I was in college, the dormitory would turn off the lights and lock the door at 11:30."
 SAY.Chapter1.822.Sophie,,我听说Rebecca学姐大学最后一个学期并没有住在宿舍。想必是有什么私人原因吧。,I heard that Rebecca did not live in the dormitory in the last semester. There must be some personal reasons.
 MENU.Chapter1.825,,为什么你们到现在才为她举办悼念会?,Why are you holding a memorial service until now?
@@ -114,7 +114,7 @@ SAY.Chapter1.847.Sophie,,这些花束同时也是为义卖活动所准备的，�
 SAY.Chapter1.846.Protagonist,,反PUA公益组织？请解释一下，我不熟悉这个概念。,"Anti-PUA charity organization? Please explain, I am not familiar with this concept."
 SAY.Chapter1.845.Sophie,,PUA全称Pick Up Artist。\n指通过搭讪以及语言技巧对他人进行人格控制甚至人身控制。,PUA stands for Pick Up Artist. It refers to the personality control and even personal control of others through chatting and language skills.
 SAY.Chapter1.849.Sophie,,通过反PUA组织能够更有效宣传PUA对女性的迫害，减少更多类似Rebecca学姐这样的惨案发生。,"Through anti-PUA organizations, PUA’s persecution of women can be more effectively promoted, and more tragedies like Rebecca can be reduced."
-SAY.Chapter1.867.,,新信息:\nRebecca是否遭遇过PUA?,New Info:\nDid Rebecca ever suffered PUA?
+SAY.Chapter1.867.,,New Info:\nDid Rebecca ever suffered PUA?,New Info:\nDid Rebecca ever suffered PUA?
 SAY.Chapter1.850.Protagonist,,惨案？你刚刚说Rebecca不是失足落水吗？,Massacre? Did you just say that Rebecca fell into the water?
 SAY.Chapter1.851.Sophie,,！,！
 SAY.Chapter1.852.Sophie,,总而言之，您可以通过购买花束，来表达对Rebecca的惋惜。,"All in all, you can express your regret for Rebecca by purchasing bouquets."
@@ -130,7 +130,7 @@ SAY.Chapter1.1029.Sophie,,毕竟事关他的亲生女儿，我想也是人之常
 SAY.Chapter1.1030.Sophie,,况且Rochester教授因为女儿的事情也跟学校起过不少争执，现在他也没有必要再看学校眼色了。,"Besides, Professor Rochester had a lot of disputes with the school because of his daughter's affairs, and now he doesn't need to care about the school anymore."
 SAY.Chapter1.1031.Protagonist,,这是怎么一回事？难道教授与学校之间发生了什么不愉快的事？,What's going on? Did something unpleasant happen between the professor and the school?
 SAY.Chapter1.1032.Sophie,,本来学校是打算趁着暑假悄悄填湖，但教授提出来必须让他先祭奠一下学姐，并主动提出自己辞去行政职务，不再给学校添麻烦。,"Originally, the school planned to fill the lake quietly during the summer vacation, but the professor suggested that he must first pay a memorial to Rebecca, and decided to resign from the dean position so as not to cause trouble to the school."
-SAY.Chapter1.1053.,,新信息:\nRobert为了举办追悼会牺牲了自己的职业生涯。,New Info:\nRobert sacrified his career to hold this event.
+SAY.Chapter1.1053.,,New Info:\nRobert sacrified his career to hold this event.,New Info:\nRobert sacrified his career to hold this event.
 SAY.Chapter1.1033.Protagonist,,作为一个父亲，做出这样的举动也是情理之中。,"As a father, it is reasonable to make such a move."
 SAY.Chapter1.1034.Sophie,,是啊，学校就这样失去了一位好老师，不知道以后学院会变成什么样子。,"Yes, the school just lost a good teacher. I don't know what the school will become in the future."
 SAY.Chapter1.1035.Sophie,,这场悲剧，毁掉的可不止是一条性命。,This tragedy has destroyed more than one life.
@@ -140,7 +140,7 @@ SAY.Chapter1.1215.Protagonist,,会有什么后果？,What are the consequences?
 SAY.Chapter1.1216.Sophie,,两年前学校就下过命令，让学生不要乱传流言，一切以学校公告为准。,"The school issued an order two years ago to keep students from spreading rumors, and the school's announcement should represent the attitude of all students.."
 SAY.Chapter1.1217.Sophie,,如果学生被发现表达了不同观点，会被以散播谣言与诋毁学校名声为理由开除。,"If a student is found to express a different point of view, they will be expelled on the grounds of spreading rumors and discrediting the school."
 SAY.Chapter1.1218.Sophie,,尤其不能未经允许接受警方盘问，说了什么做了什么都要有辅导员陪同。,"In particular, you cannot accept police cross-examination without permission, and you must be accompanied by a counselor for everything you say and do."
-SAY.Chapter1.1250.,,新信息:\n学校对学生进行了言论限制。,New Info:\nThe university has restricted students' speech.
+SAY.Chapter1.1250.,,New Info:\nThe university has restricted students' speech.,New Info:\nThe university has restricted students' speech.
 SAY.Chapter1.1219.Protagonist,,所以这就是你之前所说的“压力”？,"So this is what you called ""stress"" before?"
 SAY.Chapter1.1220.Sophie,,是的，我们也只能用捐款活动这种暗示来间接表达抗议。,"Yes, we can only use the hint of donation activities to express protest indirectly."
 MENU.Chapter1.1222,,你们真的非常具有勇气，挑战权威很不容易。,Challenging authority is not easy.
@@ -148,7 +148,7 @@ MENU.Chapter1.1223,,你们一定要保护好自己，不要引火上身。,Don't
 SAY.Chapter1.985.Protagonist,,我看这个活动规模不小，占地面积又大，校方应该给了不少支持吧。,This activity is so grand. The school should have given a lot of support.
 SAY.Chapter1.986.Anonymous Student,,我不是很清楚学校的具体态度。\n不过，这个活动确实花费了我们不少时间去做前期准备工作。,"I am not very clear about the specific attitude of the school. However, this event did take us a lot of time to do the preparatory work."
 SAY.Chapter1.987.Anonymous Student,,至少我的同班同学从这学期一开始就在筹划，想来也是跟校方做了不少交涉。,"At least my classmates have been planning since the beginning of this semester, and they made a lot of negotiations with the school."
-SAY.Chapter1.995.,,新信息:\n学生们与学校进行了多次协商。,New Info:\nStudents have argued with the school multiple times.
+SAY.Chapter1.995.,,New Info:\nStudents have argued with the school multiple times.,New Info:\nStudents have argued with the school multiple times.
 SAY.Chapter1.988.Protagonist,,辛苦了，这真是一个给人印象深刻的活动，对于你们来说也会是一段大学期间难忘的回忆吧。,"This is really an impressive activity, and for you, it will be an unforgettable memory during college."
 SAY.Chapter1.1038.Protagonist,,收集到了一些新线索，要不要找之前卖花的学生问下她的观点？还是继续探索？,I have collected some new clues. Asking the student who sold flowers about her point of view? Or continue to explore?
 SAY.Chapter1.1001.Protagonist,,学生能够有权力举办这样大规模的悼念活动吗？包括租界场地、购买花束、与反PUA组织联系并进行捐款？,"Can students have the right to hold such a large-scale mourning event? Including concession venues, buying bouquets, contacting anti-PUA organizations and making donations?"
@@ -156,8 +156,8 @@ SAY.Chapter1.1002.Anonymous Student,,九成都是学生自发组织的，毕竟R
 SAY.Chapter1.1003.Anonymous Student,,不过最终还是最应该感谢Rochester教授，如果没有他与校方洽谈，恐怕我们也无法举办这场活动，更不要说在湖边这么引人瞩目的场所。,"But in the end, we should thank Professor Rochester the most. If he hadn’t negotiated with the school, I’m afraid we would not be able to hold this event."
 SAY.Chapter1.1004.Protagonist,,Rochester 教授？这个姓氏听起来好熟悉……,Professor Rochester? This last name sounds familiar...
 SAY.Chapter1.1005.Anonymous Student,,他是Rebecca的父亲，也是我们曾经的商学院院长。这次活动经费大半也是他赞助给我们。,He is Rebecca's father and the former dean of our business school. Most of the funds for this event were sponsored by him.
-SAY.Chapter1.1008.,,新信息:\nRebecca的父亲曾经是学院院长。,New Info:\nRebecca's father used to be the department dean.
-SAY.Chapter1.1012.,,新资料:\nRobert Rochester，Rebecca的父亲。,"New Character:\nRobert Rochester, Rebecca's father."
+SAY.Chapter1.1008.,,New Info:\nRebecca's father used to be the department dean.,New Info:\nRebecca's father used to be the department dean.
+SAY.Chapter1.1012.,,"New Character:\nRobert Rochester, Rebecca's father.","New Character:\nRobert Rochester, Rebecca's father."
 SAY.Chapter1.1014.Protagonist,,原来如此。希望你们的活动能圆满举办，让大家毫无遗憾地毕业。,"I see. I hope that the event can be successfully held, so that everyone can graduate without regret."
 SAY.Chapter1.1040.Protagonist,,收集到了一些新线索，要不要找之前卖花的学生问下她的观点？还是继续探索？,I have collected some new clues. Asking the student who sold flowers about her point of view? Or continue to explore?
 SAY.Chapter1.1055.Protagonist,,这位同学，你也来悼念Rebecca吗？,"Hi, are you here to mourn Rebecca too?"
@@ -179,7 +179,7 @@ SAY.Chapter1.1073.Anonymous Student,,她代表学校参加全国比赛时，教�
 SAY.Chapter1.1075.Protagonist,,听起来阵仗很大。,It sounds like a grand event.
 SAY.Chapter1.1076.Anonymous Student,,是啊，算是风光无限，甚至有点招摇过市了。,"Yes, the scenery is fancy, and even too fancy, like she is the princess."
 SAY.Chapter1.1074.Protagonist,,难怪过了这么久大家都仍然怀念她。,No wonder everyone still misses her after so long.
-SAY.Chapter1.1077.Anonymous Student,,怀念? 我想除了那几位Rebecca的狂热信徒以外，其他人不过是可惜少了一个喜欢多管闲事帮自己解决麻烦的学姐而已。,"Miss? I think that apart from the few Rebecca fanatics, everyone else is just a pity that they are missing a schoolgirl who is addicted of helping them solve their troubles."
+SAY.Chapter1.1077.Anonymous Student,,怀念？。我想除了那几位Rebecca的狂热信徒以外，其他人不过是可惜少了一个喜欢多管闲事帮自己解决麻烦的学姐而已。,"Miss? I think that apart from the few Rebecca fanatics, everyone else is just a pity that they are missing a schoolgirl who is addicted of helping them solve their troubles."
 MENU.Chapter1.1078,,看来她并不是别人口中那样十全十美的人。,It seems that she is not the perfect person as others say.
 MENU.Chapter1.1079,,没必要说的这么刻薄吧，大家应该是真的伤心。,"There is no need to be so mean, everyone should be really sad."
 SAY.Chapter1.1084.Anonymous Student,,你们这些大一新生，还是不知道社会险恶。如果一个人不能为己所用，那么她必然也不会受到众人追捧。,"You freshmen still don't know that society is sinister. If a person has no special value, then she will certainly not be sought after by everyone."
@@ -193,7 +193,7 @@ SAY.Chapter1.1115.Protagonist,,我听说Rebecca的父亲曾经是商学院院长
 SAY.Chapter1.1116.Anonymous Student,,没错。要我说，她可是靠着自己有一个院长做父亲而得到了不少好处。,"That's right. If you want me to say, she got a lot of benefits by having a dean as a father."
 SAY.Chapter1.1117.Protagonist,,可是，即使她父亲曾经是院长，也不能说明她有什么特殊权利。,"But even if her father used to be the dean, it cannot prove that she has special rights."
 SAY.Chapter1.1118.Anonymous Student,,如果她没有，为什么学生遇到解决不了的事都去找她帮忙？,"If she doesn't, why do students go to her for help instead of someone else?"
-SAY.Chapter1.1139.,,新信息:\nRebecca帮助学生都是通过父亲的能力。,New Info:\nRebecca used her father's power to help students.
+SAY.Chapter1.1139.,,New Info:\nRebecca used her father's power to help students.,New Info:\nRebecca used her father's power to help students.
 SAY.Chapter1.1119.Anonymous Student,,当然信不信就在你了。也许是我以小人之心度君子之腹。,"Of course, believe it or not, it's up to you. Maybe it's just I am jealous of her brilliant experience."
 SAY.Chapter1.1160.Protagonist,,这位同学，请等一下！我想问一下这里发生了什么事情？,Please wait a moment! I want to ask what happened here?
 SAY.Chapter1.1161.Anonymous Student,,我很忙，您想问些什么？,"I am very busy, what would you like to ask?"
@@ -216,7 +216,7 @@ MENU.Chapter1.1193,,校方有故意想把事件掩盖成意外的意图。,The s
 MENU.Chapter1.1194,,似乎Rebecca的死不是纯粹的意外。,Rebecca's death was not a pure accident.
 SAY.Chapter1.1197.Anonymous Student,,其他人怎么说我管不着，但我不能说出没根据的话。,"I can't control what other people say, but I can't say unfounded words."
 SAY.Chapter1.1198.Anonymous Student,,这种三人成虎众口铄金的言论，谁知道是不是什么别有用心的人编造来抹黑我们学校？,Who knows if someone with ulterior motives fabricated it to discredit our school?
-SAY.Chapter1.1209.,,新信息:\n一些学生坚持认为案件就是一起意外。,New Info:\nSome students insist that the case is an accident.
+SAY.Chapter1.1209.,,New Info:\nSome students insist that the case is an accident.,New Info:\nSome students insist that the case is an accident.
 SAY.Chapter1.1199.Anonymous Student,,我还有事就不多说了，请不要再传播这些小道消息。,"I won’t say more about it, please stop spreading these gossips."
 SAY.Chapter1.1232.Sophie,,我们已经做好了最坏的打算。比起什么都不做带着遗憾毕业，至少现在我们的良心不会受到谴责。,"We have prepared for the worst. Compared to graduation with the regret of doing nothing, at least now our conscience will not be condemned."
 SAY.Chapter1.1236.Sophie,,总之，谢谢您对这件事情如此关心，说明我们的宣传是有成效的。,"In short, thank you for your interest in this matter, which shows that our publicity is effective."
@@ -232,7 +232,7 @@ SAY.Chapter1.1274.Robert,,我想我站在这里，更多是作为父亲的立场
 SAY.Chapter1.1275.Protagonist,,您就是Rochester教授吗？久仰大名。,Are you Professor Rochester? One of the most famous professor of YIT?
 SAY.Chapter1.1278.Robert,,看来你的调查相当的顺利，短短时间已经掌握了不少资料。,"It seems that your investigation went well, and you have mastered a lot of information in a short period of time."
 SAY.Chapter1.1279.Protagonist,,{i}！（糟糕，被识破了吗？){/i},"{i}! (Oops, did he already know my purpose?){/i}"
-MENU.Chapter1.1282,,您在说什么，我听不懂？调查什么？,"What are you talking about, I don't understand? What to investigate?"
+MENU.Chapter1.1282,,您在说什么，我听不懂？调查什么？,What to investigate? I don't understand? 
 MENU.Chapter1.1283,,我只是路过来祭拜的学生而已。,I'm just a student who came by to mourn.
 SAY.Chapter1.1286.Robert,,我当了三十多年的老师，什么样的人是学生还是辨别的出来。,I have been a teacher for more than 30 years. I can still tell who is a student.
 SAY.Chapter1.1288.Robert,,至少现在，在Rebecca的面前，请不要对我说谎。,"At least for now, in front of Rebecca, please don't lie to me."
@@ -244,6 +244,30 @@ SAY.Chapter1.1292.Robert,,关于Rebecca，她的死因。,"About Rebecca, the ca
 SAY.Chapter1.1293.Robert,,如果你真的做了全面的调查，现在心中应该已经有一个初步的答案了，我想听听你的看法。,"If you really did a comprehensive investigation, you should have a preliminary answer in your mind now. I want to hear your opinion."
 MENU.Chapter1.1313,,我想这是一场不幸的意外。,This was an unfortunate accident.
 MENU.Chapter1.1314,,我想您的女儿可能遭受了某种人格控制。,Your daughter may have suffered personality control.
+SAY.Chapter1.1368.Protagonist,,您知道关于Rebecca得这个信息吗？,Do you know this information about Rebecca?
+SAY.Chapter1.1369.Robert,,我不认为这个信息有任何研究价值。,I don't think this information has any research value.
+SAY.Chapter1.1370.Robert,,或许你需要再仔细审阅一下自己的研究成果。,Maybe you need to carefully review your own research results.
+SAY.Chapter1.1372.Protagonist,,Rebecca真的是一位十分优秀的女性，您的教育非常成功。,"Rebecca is really a brilliant girl, and your education is very successful."
+SAY.Chapter1.1373.Robert,,谢谢你的夸赞，可是比起死后得虚名，我更希望此刻她活着，哪怕普普通通。,"Thank you for your compliment, but rather than getting a reputation after death, I hope she is alive at this moment, even ordinary."
+SAY.Chapter1.1374.Robert,,更何况有时候优秀并不是优势，反而是对精神的一种桎梏。,"What's more, sometimes being excellent is not an advantage, but a weakness."
+SAY.Chapter1.1375.Protagonist,,这是什么意思？优秀反而会成为缺点吗？,What does it mean? Will excellence be a disadvantage instead?
+SAY.Chapter1.1376.Robert,,或许这么说是有一些荒谬，但是我想Rebecca也一定觉得非常累吧，当这样一个优秀的人。,"Maybe it is absurd to say that, but I think Rebecca must feel very tired too, being such an excellent person."
+SAY.Chapter1.1377.Protagonist,,{i}（说的好深奥，不愧是名教师。虽然我不太听得懂这个理论。）{/i},{i}(It’s so esoteric. Although I don’t quite understand this theory.){/i}
+SAY.Chapter1.1381.Protagonist,,您真的不觉得您女儿的死没有什么蹊跷？,Do you really think there is nothing strange about your daughter's death?
+SAY.Chapter1.1382.Robert,,我认为存在蹊跷，只是现阶段大家流传的版本都不是真相。,"I think there is something wrong, but the version circulated by everyone at this stage is not the truth."
+SAY.Chapter1.1383.Robert,,至少没有绝对证据证明他们是可信的。,At least there is no absolute evidence that they are credible.
+SAY.Chapter1.1384.Robert,,我不允许自己的女儿死的糊里糊涂。,I don't allow my daughter to die in confusion.
+SAY.Chapter1.1387.Protagonist,,听说Rebecca是借您的权力来帮助其他学生，这样真的好吗？,I heard that Rebecca borrowed your power to help other students. Is this really appropriate?
+SAY.Chapter1.1388.Robert,,你有听到这样的传言吗？这么说并不准确。,Have you heard such rumors? This is not accurate.
+SAY.Chapter1.1389.Robert,,Rebecca从来没有主动来求过我，都是我举手之劳而已。,"Rebecca never took the initiative to beg me, it was all my pleasure."
+SAY.Chapter1.1390.Protagonist,,为什么？我相信以她的能力应该可以自己解决。,"Why? I believe that with her ability, she should be able to solve it by herself."
+SAY.Chapter1.1391.Robert,,或许可以吧。但需要她费时费力才能完成的事我只要几分钟就能完成，何必让她浪费这个时间呢？,"Maybe it can. But I can do things that require her time and effort to complete in just a few minutes, so why let her waste this time?"
+SAY.Chapter1.1392.Robert,,不过都是些细枝末节的小事，父亲帮一帮女儿，我觉得无可厚非。,But it's all trivial things. I think it's understandable that father helps daughter.
+SAY.Chapter1.1395.Protagonist,,我有听闻您为了举办这场追悼会牺牲了自己的职业生涯，大家都感到很惋惜。,I have heard that you sacrificed your career to hold this memorial service. Everyone feels very sorry.
+SAY.Chapter1.1396.Robert,,没有什么好惋惜的，失去Rebecca后我已经无心事业了，不如退出来把资源与机会让给别人。,"There is nothing to regret. After losing Rebecca, I am no longer interested in my career. It is better to quit and pass resources and opportunities to others."
+SAY.Chapter1.1397.Robert,,Rebecca死后，我即使活着，也不过是形如枯槁，了却残生罢了。,"After Rebecca's death, even though I was alive, I would only look like a withered, but be left alive."
+SAY.Chapter1.1398.Protagonist,,请不要这样说，Rebecca也一定是希望您能好好地继续活着。,"Please don't say that, Rebecca must also hope that you can continue to live well."
+SAY.Chapter1.1399.Robert,,谢谢你的安慰，我会活着，至少在弄清楚她是怎么死之前我还不可以放弃。,"Thank you for your comfort, I will live, at least I can't give up until I figure out how she died."
 SAY.Chapter1.1317.Protagonist,,我从一些同学的口中得知了这场活动的捐款会用来帮助反对PUA。想必这就是害死您女儿的真凶吧。,I learned from some students that the donations from this event will be used to help oppose PUA. Presumably this is the real culprit who killed your daughter.
 SAY.Chapter1.1318.Robert,,看来你一定是与Sophie做了充分沟通，不过这并不是一个好的开始。,"It seems that you must have fully communicated with Sophie, but this is not a good start."
 SAY.Chapter1.1320.Protagonist,,您的意思是？Sophie所告诉我的事情并不可信？,What do you mean? What Sophie told me is not credible?
@@ -279,8 +303,8 @@ SAY.Chapter1.1349.Robert,,我看的出来你不是一位仅仅为花边新闻而
 SAY.Chapter1.1355.Robert,,或许你能比我们任何人都更快发现这桩持续了两年的噩梦究竟发生了什么。,"Perhaps you can discover what happened to this nightmare that lasted for two years, faster than any of us."
 SAY.Chapter1.1356.Robert,,十天后这里将会成为施工现场，同时追悼会也会结束。那一天的早晨，请再来这里告诉我你的结论。,"Ten days later this will become a construction site, and the memorial service will also end. That morning, please come here again and tell me your conclusion."
 CHARACTER.Protagonist,,,
-CHARACTER.Anonymous Student,,不知名学生,Anonymous Student
-CHARACTER.Bus Broadcast,,公交广播,Bus Broadcast
+CHARACTER.Anonymous Student,,Anonymous Student,Anonymous Student
+CHARACTER.Bus Broadcast,,Bus Broadcast,Bus Broadcast
 CHARACTER.Sophie,,Sophie,Sophie
 CHARACTER.Robert,,Robert,Robert
 谢谢，这是您的花束！Rebecca学姐在天之灵会保佑您的。,,,
