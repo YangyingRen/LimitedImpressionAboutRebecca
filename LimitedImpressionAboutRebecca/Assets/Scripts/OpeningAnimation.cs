@@ -21,9 +21,10 @@ public class OpeningAnimation : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+    if(prologue1.gameObject.active==true){
     if(text1==prologue1.text){
         prologue1Finish();
-    }
+    }}
     if(text2==prologue2.text){
         anim.SetBool("Finish1",true);
     }
