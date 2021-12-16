@@ -1124,7 +1124,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -930, y: -1202}
+  m_AnchoredPosition: {x: -930, y: -1090}
   m_SizeDelta: {x: 1000, y: 1000}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &175344296
@@ -1400,7 +1400,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 934, y: -1202}
+  m_AnchoredPosition: {x: 934, y: -1090}
   m_SizeDelta: {x: 1000, y: 1000}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &190489587
@@ -1533,7 +1533,7 @@ Transform:
   m_GameObject: {fileID: 203651677}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 50, y: -1.6, z: 0}
-  m_LocalScale: {x: 0.5754677, y: 0.5754677, z: 0.5754677}
+  m_LocalScale: {x: 1.1, y: 1.1, z: 0.5754677}
   m_Children:
   - {fileID: 359020880}
   m_Father: {fileID: 1473526079}
@@ -9320,8 +9320,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 475608498}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -16.91, y: -1.5628034, z: -0.2}
-  m_LocalScale: {x: 0.5754677, y: 0.5754677, z: 0.5754677}
+  m_LocalPosition: {x: -16.91, y: -1.19, z: -0.2}
+  m_LocalScale: {x: 1.1, y: 1.1, z: 0.5754677}
   m_Children:
   - {fileID: 1523096572}
   m_Father: {fileID: 1473526079}
@@ -9448,7 +9448,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 50
+  m_SortingOrder: 46
   m_Sprite: {fileID: -9095717837082945937, guid: bd3cb4af8406d4436a2ae8c2aafe1f8d, type: 3}
   m_Color: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 1}
   m_FlipX: 0
@@ -10646,7 +10646,7 @@ MonoBehaviour:
   nameColor: {r: 1, g: 1, b: 1, a: 1}
   soundEffect: {fileID: 0}
   portraits:
-  - {fileID: 21300000, guid: 9280d9e579b35314495bfad6d97c85fb, type: 3}
+  - {fileID: 21300000, guid: 5e6bc31f55ec9e74eb68f0ae9aae090c, type: 3}
   portraitsFace: 1
   setSayDialog: {fileID: 0}
   description: 
@@ -11483,7 +11483,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -1316, y: -1202}
+  m_AnchoredPosition: {x: -1316, y: -1090}
   m_SizeDelta: {x: 1000, y: 1000}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &618708637
@@ -15774,8 +15774,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 1, y: 3.0828252, z: 1}
+  m_Center: {x: 0, y: -1.0414119, z: 0}
 --- !u!114 &979145259
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16035,7 +16035,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 4
+  m_SortingOrder: 6
   m_Sprite: {fileID: 21300000, guid: edd9c0b737030b4439461fa75f4ea390, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -16289,8 +16289,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1009363621}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -12.09, y: -1.8000001, z: 0}
-  m_LocalScale: {x: 0.5754677, y: 0.5754677, z: 0.5754677}
+  m_LocalPosition: {x: -12.09, y: -1.35, z: 0}
+  m_LocalScale: {x: 1.1, y: 1.1, z: 0.5754677}
   m_Children:
   - {fileID: 673906531}
   - {fileID: 203526154}
@@ -16336,7 +16336,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 50
+  m_SortingOrder: 48
   m_Sprite: {fileID: -9095717837082945937, guid: bd3cb4af8406d4436a2ae8c2aafe1f8d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -17667,7 +17667,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 1306, y: -1202}
+  m_AnchoredPosition: {x: 1306, y: -1090}
   m_SizeDelta: {x: 1000, y: 1000}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &1088032865
@@ -19176,11 +19176,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 947.64557, y: -409.47705}
+  scrollPos: {x: 1581.3801, y: -201.18607}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 292
-  zoom: 0.6700003
+  zoom: 0.5799999
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -19188,9 +19188,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1182764160}
+  - {fileID: 1182763946}
   selectedCommands:
-  - {fileID: 1182763703}
+  - {fileID: 1182763954}
   variables:
   - {fileID: 1182763681}
   - {fileID: 1182763678}
@@ -19301,7 +19301,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -999.8697
     y: 1010.6904
-    width: 149.99995
+    width: 147.93105
     height: 40
   tint: {r: 0.7198429, g: 1, b: 0.7028302, a: 1}
   useCustomTint: 1
@@ -19439,7 +19439,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 253.88785
     y: 760.25525
-    width: 133.58205
+    width: 131.37932
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -20223,7 +20223,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -983.97186
     y: 1099.9547
-    width: 152.98502
+    width: 146.55173
     height: 40
   tint: {r: 0.7487915, g: 1, b: 0.7311321, a: 1}
   useCustomTint: 1
@@ -22786,8 +22786,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 405.6398
-    y: 850.7064
-    width: 102.238785
+    y: 852.6295
+    width: 99.65518
     height: 40
   tint: {r: 0.7043536, g: 1, b: 0.7018868, a: 1}
   useCustomTint: 1
@@ -22862,7 +22862,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 413.4768
     y: 676.97003
-    width: 73.880585
+    width: 76.2069
     height: 40
   tint: {r: 0.67358494, g: 1, b: 0.69996667, a: 1}
   useCustomTint: 1
@@ -23921,7 +23921,7 @@ MonoBehaviour:
   shiftOffset: {x: 0, y: 0}
   move: 0
   shiftIntoPlace: 0
-  waitUntilFinished: 1
+  waitUntilFinished: 0
 --- !u!114 &1182763765
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -24053,7 +24053,7 @@ MonoBehaviour:
   shiftOffset: {x: 0, y: 0}
   move: 0
   shiftIntoPlace: 0
-  waitUntilFinished: 1
+  waitUntilFinished: 0
 --- !u!114 &1182763770
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -24384,7 +24384,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -627.83545
     y: 451.92554
-    width: 73.880585
+    width: 74.82759
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -26886,7 +26886,7 @@ MonoBehaviour:
   shiftOffset: {x: 0, y: 0}
   move: 0
   shiftIntoPlace: 0
-  waitUntilFinished: 1
+  waitUntilFinished: 0
 --- !u!114 &1182763816
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -27531,7 +27531,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -430.64285
     y: 685.09955
-    width: 138.05966
+    width: 139.65518
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -27601,7 +27601,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -411.3091
     y: 739.08356
-    width: 88.805954
+    width: 87.24138
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -27724,7 +27724,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 63.655
     y: 479.56567
-    width: 145.52234
+    width: 143.79312
     height: 40
   tint: {r: 0.5725049, g: 1, b: 0.5424528, a: 1}
   useCustomTint: 1
@@ -27912,7 +27912,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 333.18005
     y: 302.89798
-    width: 130.59698
+    width: 127.24139
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -28348,7 +28348,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 183.01457
     y: 302.93484
-    width: 121.641754
+    width: 118.96552
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -28408,7 +28408,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 1539548397}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: e6189e0bc3340b947b3b76617b4826e6, type: 3}
+  portrait: {fileID: 21300000, guid: 49d624473a53e0f4196ac35ca3806033, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 1601230492}
@@ -28419,7 +28419,7 @@ MonoBehaviour:
   shiftOffset: {x: 0, y: 0}
   move: 0
   shiftIntoPlace: 0
-  waitUntilFinished: 1
+  waitUntilFinished: 0
 --- !u!114 &1182763886
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -28436,7 +28436,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1193.6327
     y: 592.8991
-    width: 126.11937
+    width: 121.724144
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -28482,7 +28482,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -969.3196
     y: 685.13654
-    width: 154.47757
+    width: 147.93105
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -28924,7 +28924,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -672.4932
     y: 162.88351
-    width: 108.20892
+    width: 106.55173
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -28987,7 +28987,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 60.77826
     y: 544.14484
-    width: 147.01488
+    width: 145.17242
     height: 40
   tint: {r: 0.5707547, g: 1, b: 0.59661585, a: 1}
   useCustomTint: 1
@@ -29035,7 +29035,7 @@ MonoBehaviour:
   storyText: "\u6211\u7684\u540C\u73ED\u540C\u5B66\u662F\u4E3B\u529E\u4EBA\uFF0C\u56E0\u6B64\u6211\u53EA\u662F\u8FC7\u6765\u5E2E\u5FD9\u3002"
   description: 
   character: {fileID: 1311290916}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 4b0cf9da011bb5842b1f31b0a560b068, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -29397,7 +29397,7 @@ MonoBehaviour:
     transformVal: {fileID: 0}
   _toPosition:
     vector3Ref: {fileID: 0}
-    vector3Val: {x: -10, y: -0.7, z: -0.33}
+    vector3Val: {x: -9.5, y: -0.46, z: -0.33}
   isLocal: 1
 --- !u!114 &1182763914
 MonoBehaviour:
@@ -29565,9 +29565,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -108.84985
+    x: -115.9747
     y: 483.19415
-    width: 118.656685
+    width: 118.96552
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -29820,7 +29820,7 @@ MonoBehaviour:
     transformVal: {fileID: 0}
   _toPosition:
     vector3Ref: {fileID: 0}
-    vector3Val: {x: -5.3, y: -0.7, z: -0.33}
+    vector3Val: {x: -4.7, y: -0.46, z: -0.33}
   isLocal: 1
 --- !u!114 &1182763921
 MonoBehaviour:
@@ -30206,7 +30206,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -118.684364
     y: 371.0272
-    width: 127.6119
+    width: 124.482765
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -30431,7 +30431,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -426.54825
     y: 347.94922
-    width: 117.16415
+    width: 114.82759
     height: 40
   tint: {r: 1, g: 0, b: 0, a: 1}
   useCustomTint: 1
@@ -30502,7 +30502,7 @@ MonoBehaviour:
   storyText: "\u6211\u4E0D\u662F\u5F88\u6E05\u695A\u5B66\u6821\u7684\u5177\u4F53\u6001\u5EA6\u3002\r\n\u4E0D\u8FC7\uFF0C\u8FD9\u4E2A\u6D3B\u52A8\u786E\u5B9E\u82B1\u8D39\u4E86\u6211\u4EEC\u4E0D\u5C11\u65F6\u95F4\u53BB\u505A\u524D\u671F\u51C6\u5907\u5DE5\u4F5C\u3002"
   description: 
   character: {fileID: 1311290916}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 4b0cf9da011bb5842b1f31b0a560b068, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -31662,7 +31662,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -959.4701
     y: 501.57108
-    width: 181.34322
+    width: 172.75864
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -32357,7 +32357,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 186.94116
     y: 439.24304
-    width: 111.194
+    width: 109.31035
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -32549,8 +32549,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: -403.94955
-    y: 584.3352
-    width: 75.37312
+    y: 585.7051
+    width: 74.82759
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -33001,7 +33001,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 850.5444
     y: 370.52954
-    width: 149.99995
+    width: 145.17242
     height: 40
   tint: {r: 0.6779769, g: 1, b: 0.43867922, a: 1}
   useCustomTint: 1
@@ -33037,7 +33037,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 864.24866
     y: 268.64624
-    width: 121.641754
+    width: 117.58621
     height: 40
   tint: {r: 0.50848085, g: 1, b: 0.48584908, a: 1}
   useCustomTint: 1
@@ -33602,7 +33602,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 490.47742
     y: 272.1147
-    width: 121.641754
+    width: 118.96552
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -33964,7 +33964,7 @@ MonoBehaviour:
   storyText: "\u81F3\u5C11\u6211\u7684\u540C\u73ED\u540C\u5B66\u4ECE\u8FD9\u5B66\u671F\u4E00\u5F00\u59CB\u5C31\u5728\u7B79\u5212\uFF0C\u60F3\u6765\u4E5F\u662F\u8DDF\u6821\u65B9\u505A\u4E86\u4E0D\u5C11\u4EA4\u6D89\u3002"
   description: 
   character: {fileID: 1311290916}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 4b0cf9da011bb5842b1f31b0a560b068, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -34003,7 +34003,7 @@ MonoBehaviour:
   shiftOffset: {x: 0, y: 0}
   move: 0
   shiftIntoPlace: 0
-  waitUntilFinished: 1
+  waitUntilFinished: 0
 --- !u!114 &1182764028
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -34057,7 +34057,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 856.64874
     y: 428.20007
-    width: 130.59698
+    width: 128.6207
     height: 40
   tint: {r: 0.6040269, g: 1, b: 0.514151, a: 1}
   useCustomTint: 1
@@ -35250,7 +35250,7 @@ MonoBehaviour:
   shiftOffset: {x: 0, y: 0}
   move: 0
   shiftIntoPlace: 0
-  waitUntilFinished: 1
+  waitUntilFinished: 0
 --- !u!114 &1182764050
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -35419,7 +35419,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1015.31976
     y: 859.62445
-    width: 197.76112
+    width: 189.31036
     height: 40
   tint: {r: 0.7204087, g: 1, b: 0.6839622, a: 1}
   useCustomTint: 1
@@ -35547,7 +35547,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -988.7455
     y: 932.8278
-    width: 147.01488
+    width: 143.79312
     height: 40
   tint: {r: 0.740566, g: 1, b: 0.7482223, a: 1}
   useCustomTint: 1
@@ -36276,7 +36276,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1210.0923
     y: 868.2607
-    width: 121.641754
+    width: 118.96552
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -37661,7 +37661,7 @@ MonoBehaviour:
   shiftOffset: {x: 0, y: 0}
   move: 0
   shiftIntoPlace: 0
-  waitUntilFinished: 1
+  waitUntilFinished: 0
 --- !u!114 &1182764087
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -38937,7 +38937,7 @@ MonoBehaviour:
   shiftOffset: {x: 0, y: 0}
   move: 0
   shiftIntoPlace: 0
-  waitUntilFinished: 1
+  waitUntilFinished: 0
 --- !u!114 &1182764098
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -39369,7 +39369,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 481.71616
     y: 370.12335
-    width: 164.92532
+    width: 160.34485
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -39454,7 +39454,7 @@ MonoBehaviour:
   storyText: "\u2026\u2026\u5982\u679C\u4E0D\u662F\u4EC0\u4E48\u654F\u611F\u95EE\u9898\uFF0C\u6211\u5E94\u8BE5\u53EF\u4EE5\u56DE\u7B54\u3002"
   description: 
   character: {fileID: 1311290916}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 4b0cf9da011bb5842b1f31b0a560b068, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -39889,7 +39889,7 @@ MonoBehaviour:
   shiftOffset: {x: 0, y: 0}
   move: 0
   shiftIntoPlace: 0
-  waitUntilFinished: 1
+  waitUntilFinished: 0
 --- !u!114 &1182764121
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -39928,7 +39928,7 @@ MonoBehaviour:
   storyText: "\u4E0D\u8FC7\u6700\u7EC8\u8FD8\u662F\u6700\u5E94\u8BE5\u611F\u8C22Rochester\u6559\u6388\uFF0C\u5982\u679C\u6CA1\u6709\u4ED6\u4E0E\u6821\u65B9\u6D3D\u8C08\uFF0C\u6050\u6015\u6211\u4EEC\u4E5F\u65E0\u6CD5\u4E3E\u529E\u8FD9\u573A\u6D3B\u52A8\uFF0C\u66F4\u4E0D\u8981\u8BF4\u5728\u6E56\u8FB9\u8FD9\u4E48\u5F15\u4EBA\u77A9\u76EE\u7684\u573A\u6240\u3002"
   description: 
   character: {fileID: 1311290916}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 4b0cf9da011bb5842b1f31b0a560b068, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -39955,7 +39955,7 @@ MonoBehaviour:
   storyText: "\u4E5D\u6210\u90FD\u662F\u5B66\u751F\u81EA\u53D1\u7EC4\u7EC7\u7684\uFF0C\u6BD5\u7ADFRebecca\u7684\u6B7B\u4EA1\u5BF9\u4E8E\u6211\u4EEC\u4EFB\u4F55\u4EBA\u6765\u8BF4\u90FD\u662F\u4E00\u573A\u9057\u61BE\u3002"
   description: 
   character: {fileID: 1311290916}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 4b0cf9da011bb5842b1f31b0a560b068, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -40253,7 +40253,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 1311290916}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 9280d9e579b35314495bfad6d97c85fb, type: 3}
+  portrait: {fileID: 21300000, guid: 4b0cf9da011bb5842b1f31b0a560b068, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 1601230492}
@@ -40264,7 +40264,7 @@ MonoBehaviour:
   shiftOffset: {x: 0, y: 0}
   move: 0
   shiftIntoPlace: 0
-  waitUntilFinished: 1
+  waitUntilFinished: 0
 --- !u!114 &1182764127
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -40318,7 +40318,7 @@ MonoBehaviour:
   storyText: "\u4ED6\u662FRebecca\u7684\u7236\u4EB2\uFF0C\u4E5F\u662F\u6211\u4EEC\u66FE\u7ECF\u7684\u5546\u5B66\u9662\u9662\u957F\u3002\u8FD9\u6B21\u6D3B\u52A8\u7ECF\u8D39\u5927\u534A\u4E5F\u662F\u4ED6\u8D5E\u52A9\u7ED9\u6211\u4EEC\u3002"
   description: 
   character: {fileID: 1311290916}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 4b0cf9da011bb5842b1f31b0a560b068, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -40645,7 +40645,7 @@ MonoBehaviour:
   shiftOffset: {x: 0, y: 0}
   move: 0
   shiftIntoPlace: 0
-  waitUntilFinished: 1
+  waitUntilFinished: 0
 --- !u!114 &1182764141
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -40996,7 +40996,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -417.90244
     y: 443.98773
-    width: 123.13429
+    width: 120.34483
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -41057,7 +41057,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -421.0227
     y: 636.57324
-    width: 144.02982
+    width: 142.4138
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -41322,7 +41322,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -122.60559
     y: 759.94
-    width: 126.11937
+    width: 123.103455
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -41770,7 +41770,7 @@ MonoBehaviour:
     transformVal: {fileID: 0}
   _toPosition:
     vector3Ref: {fileID: 0}
-    vector3Val: {x: -2.5, y: -0.7, z: -0.33}
+    vector3Val: {x: -2.5, y: -0.46, z: -0.33}
   isLocal: 0
 --- !u!114 &1182764169
 MonoBehaviour:
@@ -41788,7 +41788,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -408.56985
     y: 510.19727
-    width: 93.28356
+    width: 91.37932
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -41906,7 +41906,7 @@ MonoBehaviour:
     transformVal: {fileID: 0}
   _toPosition:
     vector3Ref: {fileID: 0}
-    vector3Val: {x: 5, y: -0.7, z: -0.33}
+    vector3Val: {x: 5, y: -0.46, z: -0.33}
   isLocal: 0
 --- !u!114 &1182764174
 MonoBehaviour:
@@ -42690,7 +42690,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 664.2594
     y: 324.81757
-    width: 121.641754
+    width: 120.34483
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -44051,7 +44051,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 1121
   indentLevel: 3
-  storyText: "\u6211\u4EEC\u80FD\u7EE7\u7EED\u804A\u804A\u4E4B\u524D\u6CA1\u8BF4\u5B8C\u7684\u8BDD\u9898\u5417\uFF1F"
+  storyText: "\u6211\u4EEC\u80FD\u7EE7\u7EED\u804A\u804A\u4E4B\u524D\u6CA1\u8BF4\u5B8C\u7684\u8BDD\u9898\u5417\uFF1F\u5173\u4E8ERebecca\u4E3A\u4EC0\u4E48\u80FD\u5E2E\u52A9\u8FD9\u4E48\u591A\u4EBA\u3002"
   description: 
   character: {fileID: 437580250}
   portrait: {fileID: 0}
@@ -45508,7 +45508,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -1008.7301
     y: 786.36444
-    width: 224.62679
+    width: 214.13795
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -48169,7 +48169,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -270.89127
     y: 364.0417
-    width: 120.14922
+    width: 117.58621
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -48210,8 +48210,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: -116.706726
-    y: 604.7498
-    width: 120.14922
+    y: 606.38916
+    width: 120.34483
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -48285,7 +48285,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 571973717}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 9280d9e579b35314495bfad6d97c85fb, type: 3}
+  portrait: {fileID: 21300000, guid: 5e6bc31f55ec9e74eb68f0ae9aae090c, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 1601230492}
@@ -48296,7 +48296,7 @@ MonoBehaviour:
   shiftOffset: {x: 0, y: 0}
   move: 0
   shiftIntoPlace: 0
-  waitUntilFinished: 1
+  waitUntilFinished: 0
 --- !u!114 &1182764287
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -48349,7 +48349,7 @@ MonoBehaviour:
     transformVal: {fileID: 0}
   _toPosition:
     vector3Ref: {fileID: 0}
-    vector3Val: {x: -7.7, y: -0.7, z: -0.33}
+    vector3Val: {x: -7, y: -0.46, z: -0.33}
   isLocal: 1
 --- !u!114 &1182764289
 MonoBehaviour:
@@ -49515,7 +49515,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 70.72711
     y: 603.51434
-    width: 133.58205
+    width: 132.75864
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -49772,7 +49772,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 258.5191
     y: 599.9008
-    width: 133.58205
+    width: 134.13794
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -50951,7 +50951,7 @@ MonoBehaviour:
   shiftOffset: {x: 0, y: 0}
   move: 0
   shiftIntoPlace: 0
-  waitUntilFinished: 1
+  waitUntilFinished: 0
 --- !u!114 &1182764339
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -51026,7 +51026,7 @@ MonoBehaviour:
     transformVal: {fileID: 0}
   _toPosition:
     vector3Ref: {fileID: 0}
-    vector3Val: {x: -4.3, y: -0.7, z: -0.33}
+    vector3Val: {x: -3.6, y: -0.46, z: -0.33}
   isLocal: 1
 --- !u!114 &1182764342
 MonoBehaviour:
@@ -51042,9 +51042,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -117.38043
+    x: -119.019775
     y: 683.71094
-    width: 120.14922
+    width: 121.724144
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -51134,7 +51134,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 1849482718}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: 9280d9e579b35314495bfad6d97c85fb, type: 3}
+  portrait: {fileID: 21300000, guid: e8d2878113672584596676f38b8276ac, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 1601230492}
@@ -51145,7 +51145,7 @@ MonoBehaviour:
   shiftOffset: {x: 0, y: 0}
   move: 0
   shiftIntoPlace: 0
-  waitUntilFinished: 1
+  waitUntilFinished: 0
 --- !u!114 &1182764346
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -51685,7 +51685,7 @@ MonoBehaviour:
   storyText: "\u7B97\u662F\u7565\u77E5\u4E00\u4E8C\uFF0C\u4E0D\u8FC7\u6211\u4EEC\u4E0D\u662F\u5F88\u719F\u3002"
   description: 
   character: {fileID: 1849482718}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: e8d2878113672584596676f38b8276ac, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -51739,7 +51739,7 @@ MonoBehaviour:
   storyText: "\u6211\u5F88\u5FD9\uFF0C\u60A8\u60F3\u95EE\u4E9B\u4EC0\u4E48\uFF1F"
   description: 
   character: {fileID: 1849482718}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: e8d2878113672584596676f38b8276ac, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -51820,7 +51820,7 @@ MonoBehaviour:
   storyText: "\u6211\u2026\u2026\u6CA1\u6709\u4EC0\u4E48\u7279\u6B8A\u7684\u60F3\u6CD5\uFF0C\u53EA\u662F\u4E00\u6B21\u4E0D\u5E78\u7684\u610F\u5916\uFF0C\u6211\u4EEC\u90FD\u6DF1\u8868\u9057\u61BE\u3002"
   description: 
   character: {fileID: 1849482718}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: e8d2878113672584596676f38b8276ac, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -51874,7 +51874,7 @@ MonoBehaviour:
   storyText: "\u5BF9\u4E0D\u8D77\uFF0C\u636E\u6211\u6240\u77E5Rebecca\u7684\u4E8B\u4EF6\u53EA\u662F\u4E00\u6B21\u610F\u5916\uFF0C\u9664\u6B64\u4E4B\u5916\u6211\u5E76\u4E0D\u77E5\u9053\u4EC0\u4E48\u3002"
   description: 
   character: {fileID: 1849482718}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: e8d2878113672584596676f38b8276ac, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -53691,7 +53691,7 @@ MonoBehaviour:
   storyText: "\u6211\u8DDF\u5979\u53EA\u662F\u666E\u901A\u524D\u540E\u8F88\u5173\u7CFB\uFF0C\u4E0D\u662F\u5F88\u719F\u3002"
   description: 
   character: {fileID: 1849482718}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: e8d2878113672584596676f38b8276ac, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -53745,7 +53745,7 @@ MonoBehaviour:
   storyText: "\u62B1\u6B49\u6CA1\u80FD\u5E2E\u5230\u60A8\u4EC0\u4E48\uFF0C\u53BB\u95EE\u4E00\u4E0B\u5176\u4ED6\u4EBA\u5427\u3002"
   description: 
   character: {fileID: 1849482718}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: e8d2878113672584596676f38b8276ac, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -53772,7 +53772,7 @@ MonoBehaviour:
   storyText: "\u5982\u679C\u60A8\u5BF9\u5979\u7684\u4E8B\u8FF9\u6BD4\u8F83\u611F\u5174\u8DA3\u7684\u8BDD\uFF0C\u5EFA\u8BAE\u8FD8\u662F\u53BB\u95EE\u8FD9\u4E2A\u6D3B\u52A8\u7684\u4E3B\u529E\u65B9\uFF0C\u4ED6\u4EEC\u5E94\u8BE5\u53EF\u4EE5\u63D0\u4F9B\u66F4\u8BE6\u7EC6\u7684\u4FE1\u606F\u3002\r"
   description: 
   character: {fileID: 1849482718}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: e8d2878113672584596676f38b8276ac, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -53933,7 +53933,7 @@ MonoBehaviour:
   shiftOffset: {x: 0, y: 0}
   move: 0
   shiftIntoPlace: 0
-  waitUntilFinished: 1
+  waitUntilFinished: 0
 --- !u!114 &1182764382
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -53948,9 +53948,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -777.73505
+    x: -783.50433
     y: 1009.7083
-    width: 132.08951
+    width: 132.75864
     height: 40
   tint: {r: 0.6556604, g: 1, b: 0.6621318, a: 1}
   useCustomTint: 1
@@ -54033,7 +54033,7 @@ MonoBehaviour:
   storyText: "\u6211\u8FD8\u6709\u4E8B\u5C31\u4E0D\u591A\u8BF4\u4E86\uFF0C\u8BF7\u4E0D\u8981\u518D\u4F20\u64AD\u8FD9\u4E9B\u5C0F\u9053\u6D88\u606F\u3002"
   description: 
   character: {fileID: 1849482718}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: e8d2878113672584596676f38b8276ac, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -54060,7 +54060,7 @@ MonoBehaviour:
   storyText: "\u8FD9\u79CD\u4E09\u4EBA\u6210\u864E\u4F17\u53E3\u94C4\u91D1\u7684\u8A00\u8BBA\uFF0C\u8C01\u77E5\u9053\u662F\u4E0D\u662F\u4EC0\u4E48\u522B\u6709\u7528\u5FC3\u7684\u4EBA\u7F16\u9020\u6765\u62B9\u9ED1\u6211\u4EEC\u5B66\u6821\uFF1F"
   description: 
   character: {fileID: 1849482718}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: e8d2878113672584596676f38b8276ac, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -54087,7 +54087,7 @@ MonoBehaviour:
   storyText: "\u5176\u4ED6\u4EBA\u600E\u4E48\u8BF4\u6211\u7BA1\u4E0D\u7740\uFF0C\u4F46\u6211\u4E0D\u80FD\u8BF4\u51FA\u6CA1\u6839\u636E\u7684\u8BDD\u3002"
   description: 
   character: {fileID: 1849482718}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: e8d2878113672584596676f38b8276ac, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -55090,7 +55090,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -768.83014
     y: 858.5609
-    width: 126.11937
+    width: 124.482765
     height: 40
   tint: {r: 0.74523675, g: 1, b: 0.6933962, a: 1}
   useCustomTint: 1
@@ -55178,7 +55178,7 @@ MonoBehaviour:
   shiftOffset: {x: 0, y: 0}
   move: 0
   shiftIntoPlace: 0
-  waitUntilFinished: 1
+  waitUntilFinished: 0
 --- !u!114 &1182764417
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -55208,7 +55208,7 @@ MonoBehaviour:
   shiftOffset: {x: 0, y: 0}
   move: 0
   shiftIntoPlace: 0
-  waitUntilFinished: 1
+  waitUntilFinished: 0
 --- !u!114 &1182764418
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -55323,7 +55323,7 @@ MonoBehaviour:
   shiftOffset: {x: 0, y: 0}
   move: 0
   shiftIntoPlace: 0
-  waitUntilFinished: 1
+  waitUntilFinished: 0
 --- !u!114 &1182764423
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -55426,7 +55426,7 @@ MonoBehaviour:
   storyText: "\u8BF7\u4E0D\u8981\u6253\u6270\u6211\uFF0C\u6211\u60F3\u72EC\u81EA\u4E00\u4EBA\u6000\u5FF5\u4E00\u4E0BRebecca\u3002"
   description: 
   character: {fileID: 1311290916}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 4b0cf9da011bb5842b1f31b0a560b068, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -55453,7 +55453,7 @@ MonoBehaviour:
   storyText: "\u6211\u80FD\u8BF4\u7684\u90FD\u5DF2\u7ECF\u8BF4\u5B8C\u4E86\u3002"
   description: 
   character: {fileID: 1311290916}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 4b0cf9da011bb5842b1f31b0a560b068, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -56031,7 +56031,7 @@ MonoBehaviour:
   stage: {fileID: 0}
   character: {fileID: 1949300834}
   replacedCharacter: {fileID: 0}
-  portrait: {fileID: 21300000, guid: e6189e0bc3340b947b3b76617b4826e6, type: 3}
+  portrait: {fileID: 21300000, guid: 5e6bc31f55ec9e74eb68f0ae9aae090c, type: 3}
   offset: 0
   fromPosition: {fileID: 0}
   toPosition: {fileID: 1601230492}
@@ -56042,7 +56042,7 @@ MonoBehaviour:
   shiftOffset: {x: 0, y: 0}
   move: 0
   shiftIntoPlace: 0
-  waitUntilFinished: 1
+  waitUntilFinished: 0
 --- !u!114 &1182764439
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -56095,7 +56095,7 @@ MonoBehaviour:
     transformVal: {fileID: 0}
   _toPosition:
     vector3Ref: {fileID: 0}
-    vector3Val: {x: -0.7, y: -0.7, z: -0.33}
+    vector3Val: {x: 0, y: -0.46, z: -0.33}
   isLocal: 1
 --- !u!114 &1182764441
 MonoBehaviour:
@@ -56726,7 +56726,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 61.19327
     y: 762.68384
-    width: 132.08951
+    width: 128.6207
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -56854,7 +56854,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -638.45465
     y: 383.799
-    width: 91.79102
+    width: 88.6207
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -57525,8 +57525,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1223732886}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 15.910001, y: -1.2, z: 0}
-  m_LocalScale: {x: 0.50601625, y: 0.50601625, z: 0.50601625}
+  m_LocalPosition: {x: 15.910001, y: -0.8, z: 0}
+  m_LocalScale: {x: 0.7, y: 0.7, z: 0.50601625}
   m_Children: []
   m_Father: {fileID: 1473526079}
   m_RootOrder: 8
@@ -63999,6 +63999,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5512815958884606324, guid: a651ca5551987f34a833d994495f6638, type: 3}
+      propertyPath: field of view
+      value: 70
+      objectReference: {fileID: 0}
+    - target: {fileID: 5512815958884606324, guid: a651ca5551987f34a833d994495f6638, type: 3}
       propertyPath: m_CullingMask.m_Bits
       value: 4294967295
       objectReference: {fileID: 0}
@@ -64056,7 +64060,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6796384150995223381, guid: a651ca5551987f34a833d994495f6638, type: 3}
       propertyPath: offset.y
-      value: 0.7
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6796384150995223381, guid: a651ca5551987f34a833d994495f6638, type: 3}
       propertyPath: offset.z
@@ -64238,7 +64242,7 @@ MonoBehaviour:
   nameColor: {r: 1, g: 1, b: 1, a: 1}
   soundEffect: {fileID: 0}
   portraits:
-  - {fileID: 21300000, guid: 9280d9e579b35314495bfad6d97c85fb, type: 3}
+  - {fileID: 21300000, guid: 4b0cf9da011bb5842b1f31b0a560b068, type: 3}
   portraitsFace: 1
   setSayDialog: {fileID: 0}
   description: 
@@ -66984,7 +66988,7 @@ MonoBehaviour:
   nameColor: {r: 1, g: 1, b: 1, a: 1}
   soundEffect: {fileID: 0}
   portraits:
-  - {fileID: 21300000, guid: e6189e0bc3340b947b3b76617b4826e6, type: 3}
+  - {fileID: 21300000, guid: 49d624473a53e0f4196ac35ca3806033, type: 3}
   portraitsFace: 1
   setSayDialog: {fileID: 0}
   description: 
@@ -67797,7 +67801,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 41, y: -1202}
+  m_AnchoredPosition: {x: 41, y: -1090}
   m_SizeDelta: {x: 1000, y: 1000}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!222 &1601230493
@@ -68703,7 +68707,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1662892648
 Transform:
   m_ObjectHideFlags: 0
@@ -69073,8 +69077,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1683365815}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.4, y: -0.7, z: -0.33}
-  m_LocalScale: {x: 0.2909, y: 0.2909, z: 0.2909}
+  m_LocalPosition: {x: 7.421, y: -0.46, z: -0.33}
+  m_LocalScale: {x: 0.55, y: 0.55, z: 0.2909}
   m_Children:
   - {fileID: 1868934904}
   - {fileID: 1846444309}
@@ -69232,7 +69236,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1683365815}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: de461c80bf88a5b4cbe26b30370fc56a, type: 3}
   m_Name: 
@@ -70743,8 +70747,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1755644390}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -21.5, y: -1.5628034, z: -0.2}
-  m_LocalScale: {x: 0.5754677, y: 0.5754677, z: 0.5754677}
+  m_LocalPosition: {x: -21.5, y: -1.24, z: -0.2}
+  m_LocalScale: {x: 1.1, y: 1.1, z: 0.5754677}
   m_Children:
   - {fileID: 1342394742}
   m_Father: {fileID: 1473526079}
@@ -70789,7 +70793,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 50
+  m_SortingOrder: 47
   m_Sprite: {fileID: -9095717837082945937, guid: bd3cb4af8406d4436a2ae8c2aafe1f8d, type: 3}
   m_Color: {r: 0.6698113, g: 0.6698113, b: 0.6698113, a: 1}
   m_FlipX: 0
@@ -72864,7 +72868,7 @@ MonoBehaviour:
   nameColor: {r: 1, g: 1, b: 1, a: 1}
   soundEffect: {fileID: 0}
   portraits:
-  - {fileID: 21300000, guid: 9280d9e579b35314495bfad6d97c85fb, type: 3}
+  - {fileID: 21300000, guid: e8d2878113672584596676f38b8276ac, type: 3}
   portraitsFace: 1
   setSayDialog: {fileID: 0}
   description: 
@@ -73973,8 +73977,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1893769127}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -49.58, y: -1.6, z: -0.2}
-  m_LocalScale: {x: 0.5754677, y: 0.5754677, z: 0.5754677}
+  m_LocalPosition: {x: -50, y: -1.6, z: -0.2}
+  m_LocalScale: {x: 1.1, y: 1.1, z: 0.5754677}
   m_Children:
   - {fileID: 1662892648}
   m_Father: {fileID: 1473526079}
@@ -74101,7 +74105,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 50
+  m_SortingOrder: 45
   m_Sprite: {fileID: -9095717837082945937, guid: bd3cb4af8406d4436a2ae8c2aafe1f8d, type: 3}
   m_Color: {r: 0.3679245, g: 0.3679245, b: 0.3679245, a: 1}
   m_FlipX: 0
@@ -74662,7 +74666,7 @@ MonoBehaviour:
   nameColor: {r: 1, g: 1, b: 1, a: 1}
   soundEffect: {fileID: 0}
   portraits:
-  - {fileID: 21300000, guid: e6189e0bc3340b947b3b76617b4826e6, type: 3}
+  - {fileID: 21300000, guid: 5e6bc31f55ec9e74eb68f0ae9aae090c, type: 3}
   portraitsFace: 1
   setSayDialog: {fileID: 0}
   description: 
@@ -75536,7 +75540,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1988386889}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.0845, y: -3.5, z: -1.26}
+  m_LocalPosition: {x: 0.0845, y: -5.31, z: -1.26}
   m_LocalScale: {x: 1.0006756, y: 1.0006756, z: 1.0006756}
   m_Children: []
   m_Father: {fileID: 1473526079}
