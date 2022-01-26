@@ -12,6 +12,7 @@ TagManager:
   - Items
   - ChatBubble
   - Rain
+  - Information
   layers:
   - Default
   - TransparentFX
@@ -20,7 +21,7 @@ TagManager:
   - Water
   - UI
   - Interactive
-  - 
+  - Seach
   - 
   - 
   - 
