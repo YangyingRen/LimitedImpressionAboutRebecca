@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class MainUI : MonoBehaviour
 {
-    public GameObject ItemPanel, CluePanel, PhonePanel, Testimony, Character,Guide;
+    public GameObject ItemPanel, CluePanel, PhonePanel, Testimony, Character,Guide, Email, EmailIcon;
     public Image testimony,character;
     public Color Selected, Default;
     private int i,c,p;
@@ -83,6 +83,14 @@ public class MainUI : MonoBehaviour
         }
     public void Clicked(Texture2D cursorTexture){
             Cursor.SetCursor(null, Vector2.zero, CursorMode.Auto);
+    }
+    public void OpenEmail(){
+        Email.SetActive(true);
+        EmailIcon.SetActive(false);
+        
+    }
+    public void CloseEmail(){
+            Email.SetActive(false);
     }
 
     
