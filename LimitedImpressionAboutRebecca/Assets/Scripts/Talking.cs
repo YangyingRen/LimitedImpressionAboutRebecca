@@ -2,10 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using Fungus;
 
 public class Talking : MonoBehaviour
 {public GameObject SayDialogue;
-
+ public Flowchart flowchart;
     // Start is called before the first frame update
     void Start()
     {
@@ -17,9 +18,13 @@ public class Talking : MonoBehaviour
     {
         if(SayDialogue.active==true){
             GetComponent<MoveWASD>().enabled=false;
+            flowchart.SetBooleanVariable("Protagonist",false);
+
         }
         else{
             GetComponent<MoveWASD>().enabled=true;
+            flowchart.SetBooleanVariable("Protagonist",true);
+
         }
 
     }

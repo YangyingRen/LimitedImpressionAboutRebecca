@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class MainUI : MonoBehaviour
 {
-    public GameObject ItemPanel, CluePanel, PhonePanel, Testimony, Character,Guide, Email, EmailIcon;
+    public GameObject ItemPanel, CluePanel, PhonePanel, Testimony, Character,Guide, Email, EmailIcon, Magnifier, MagCamera;
     public Image testimony,character;
     public Color Selected, Default;
     private int i,c,p;
@@ -91,6 +91,13 @@ public class MainUI : MonoBehaviour
     }
     public void CloseEmail(){
             Email.SetActive(false);
+    }
+    public void CloseMagnifier(){
+            Magnifier.SetActive(false);
+            GameObject.Find("StartTalkingPP").SetActive(false);
+            int MagLen=MagCamera.transform.childCount;
+            for(int j=0;j<MagLen;j++){
+                MagCamera.transform.GetChild(j).gameObject.SetActive(false);            }
     }
 
     
