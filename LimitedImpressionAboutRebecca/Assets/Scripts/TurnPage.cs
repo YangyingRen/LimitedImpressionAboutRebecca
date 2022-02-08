@@ -23,26 +23,26 @@ public class TurnPage : MonoBehaviour
     public void TurnRight(){
     anim.SetBool("TurnRight",true);
     anim.SetBool("TurnLeft",false);
-    StartCoroutine(Wait());
-    transform.SetParent(Right);
-    
     }
     public void Turn(){
     Transform front=transform.GetChild(0);
     front.SetAsLastSibling();
+    if(transform.parent==Left){
+    transform.SetParent(Right);
+    }
+    else{
+    transform.SetParent(Left);
+    }
     }
 
     public void TurnLeft(){
     anim.SetBool("TurnRight",false);
     anim.SetBool("TurnLeft",true);
-    StartCoroutine(Wait());
-    transform.SetParent(Left);
+
     }
     public void StopTurn(){
     anim.SetBool("TurnLeft",false);
     anim.SetBool("TurnRight",false);
     }
-    IEnumerator Wait(){
-        yield return new WaitForSecondsRealtime(3);
-    }
+ 
 }
