@@ -6,7 +6,7 @@ using Fungus;
 
 public class PlayerName : MonoBehaviour
 {
-    public GameObject Name,InputName, EmailName;
+    public GameObject Name,InputName, EmailName, Signature;
     public Transform parent;
     // Start is called before the first frame update
     void Start()
@@ -14,6 +14,8 @@ public class PlayerName : MonoBehaviour
        GameObject Input= Instantiate(InputName,parent);
         Name.GetComponent<Character>().nameText=Input.GetComponent<Text>().text;
         EmailName.GetComponent<Text>().text=Input.GetComponent<Text>().text;
+        Signature.GetComponent<Text>().text=Input.GetComponent<Text>().text;
+
         
     }
 
