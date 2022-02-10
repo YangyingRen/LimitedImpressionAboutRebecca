@@ -44,5 +44,6 @@ public class TurnPage : MonoBehaviour
     anim.SetBool("TurnLeft",false);
     anim.SetBool("TurnRight",false);
     }
+    
  
 }

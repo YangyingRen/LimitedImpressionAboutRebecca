@@ -9,9 +9,10 @@ public class OpeningAnimation : MonoBehaviour
 {
     public Text prologue1, prologue2, Title,Name;
     public string text1,text2;
-    public Animator anim;
-    public GameObject StartButton,namePrefab;
+    public Animator anim1;
+    public GameObject StartButton,namePrefab, Panel;
     public Transform page;
+    private float r,g;
     // Start is called before the first frame update
     void Start()
     {
@@ -26,15 +27,15 @@ public class OpeningAnimation : MonoBehaviour
         prologue1Finish();
     }}
     if(text2==prologue2.text){
-        anim.SetBool("Finish1",true);
+        Panel.SetActive(true);
+        prologue2.transform.parent=transform;
+        anim1.SetBool("Finished",true);
     }
         
     }
 
     public void GameStart(){
         Time.timeScale=1;
-        StartButton.SetActive(false);
-        Title.gameObject.SetActive(false);
     }
 
     public void prologueStart(){
@@ -46,25 +47,13 @@ public class OpeningAnimation : MonoBehaviour
     text2="	Anyway, this “ Rashomon ” story is worthwhile to be known by everyone.";
     }
 
-    public void prologue2Finished(){
 
-         SceneManager.LoadScene("SecondDemo");
-    }
 
     public void Open(){
         int len=transform.childCount;
-      
-        transform.GetChild(len-1).SetSiblingIndex(0);
     }
     public void TurnPage(){
-        anim.Play("Page1");
-        int pagelen=page.childCount;
-        for(int i=0;i<pagelen;i++){
-            page.GetChild(i).gameObject.SetActive(false);
-        }
-        int len=transform.childCount;
-      
-        transform.GetChild(len-1).SetSiblingIndex(1);
+        prologue1.gameObject.SetActive(true);
         
     }
     
