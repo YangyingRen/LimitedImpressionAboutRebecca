@@ -8,6 +8,7 @@ using UnityEngine.EventSystems;
 public class TurnPage : MonoBehaviour
 {
     public Transform Left, Right;
+    
     public Animator anim;
     // Start is called before the first frame update
     void Start()
