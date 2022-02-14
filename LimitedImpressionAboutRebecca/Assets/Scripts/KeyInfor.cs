@@ -11,6 +11,7 @@ public class KeyInfor : MonoBehaviour
     private Image image;
     public float minimum;
     public GameObject KeyComplete;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -22,13 +23,12 @@ public class KeyInfor : MonoBehaviour
     {minimum=image.fillAmount;
     KeyInformation=flowchart.GetIntegerVariable("KeyInfo");
     KeyAmount=flowchart.GetIntegerVariable("KeyAmount");
-    image.fillAmount=Mathf.Lerp(minimum,1-((float)KeyInformation/(float)KeyAmount),Time.deltaTime);   
+    image.fillAmount=Mathf.Lerp(minimum,(float)KeyInformation/(float)KeyAmount,Time.deltaTime);   
     if(minimum>0.99){
-        KeyComplete.SetActive(true);
         KeyComplete.GetComponent<Text>().text="KEY INFORMATION COMPLETED";
     }  
-    else{
-        KeyComplete.SetActive(false);
+    else {
+        KeyComplete.GetComponent<Text>().text="ANALYZING";
     }
     }
 }

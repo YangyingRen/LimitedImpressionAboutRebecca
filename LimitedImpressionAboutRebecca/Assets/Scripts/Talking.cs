@@ -5,7 +5,7 @@ using UnityEngine.UI;
 using Fungus;
 
 public class Talking : MonoBehaviour
-{public GameObject SayDialogue,NoteUI;
+{public GameObject SayDialogue,NoteUI,Magnifier,Email;
  public Flowchart flowchart;
     // Start is called before the first frame update
     void Start()
@@ -26,7 +26,7 @@ public class Talking : MonoBehaviour
             flowchart.SetBooleanVariable("Protagonist",true);
 
         }
-        if(NoteUI.active==true){
+        if(NoteUI.active==true||Magnifier.active==true||Email.active==true){
             GetComponent<MoveWASD>().enabled=false;
             
 

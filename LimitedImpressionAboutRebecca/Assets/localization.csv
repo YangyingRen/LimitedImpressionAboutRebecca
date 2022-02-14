@@ -42,9 +42,9 @@ SAY.Chapter1.751.Protagonist,,2022年6月21日。我市一流大学YIT决定对�
 SAY.Chapter1.756.Protagonist,,让我继续看看，这不是昨天的报纸吗？现在已经是事件发生的两年后了。,Hmm... This is yesterday's newspaper. It's just over two years after the incident.
 SAY.Chapter1.755.Protagonist,,这样欲盖弥彰的行为，难道整桩案件与学校也有不为人知的牵扯？,This behavior smells like a cover-up... does this case have some hidden connection with the school's affairs?
 SAY.Chapter1.754.Protagonist,,原来如此，因为要施工，这附近的路才变得坑坑洼洼，到处都是泥巴。,"Because of construction work, the road around here has become thoroughly bumpy and muddy."
-SAY.Chapter1.757.Protagonist,,这些花束又是怎么回事？为什么摆得到处都是。\n难道现在毕业季流行摆白色菊花？虽然看起来有些毛骨悚然，但仔细看却清雅别致，现在的年轻人真是时髦。,"What's with these bouquets? Why are they everywhere? Is it popular to use white chrysanthemums for graduation now? Although it looks a little creepy at first, it does create an elegant and chic feel. Maybe it's a new trend among today's youth."
-SAY.Chapter1.760.Protagonist,,话说回来不愧是新闻上反复强调的一流高校，占地面积很大，简直像一座小型城市。,"Having said that, the campus is worthy of a first-class university that's always making the news. This place looks like a small city."
-SAY.Chapter1.759.Protagonist,,还是找张地图看看我现在的位置在哪里。,I need to find a map to figure out where I am now.
+SAY.Chapter1.1593.Protagonist,,这些花束又是怎么回事？为什么摆得到处都是。\n难道现在毕业季流行摆白色菊花？虽然看起来有些毛骨悚然，但仔细看却清雅别致，现在的年轻人真是时髦。,"What's with these bouquets? Why are they everywhere? Is it popular to use white chrysanthemums for graduation now? Although it looks a little creepy at first, it does create an elegant and chic feel. Maybe it's a new trend among today's youth."
+SAY.Chapter1.1594.Protagonist,,话说回来不愧是新闻上反复强调的一流高校，占地面积很大，简直像一座小型城市。,"Having said that, the campus is worthy of a first-class university that's always making the news. This place looks like a small city."
+SAY.Chapter1.1595.Protagonist,,还是找张地图看看我现在的位置在哪里。,I need to find a map to figure out where I am now.
 SAY.Chapter1.427.,,"Mission: ""Find the campus map.""","Mission: ""Find the campus map."""
 SAY.Chapter1.716.Protagonist,,不对，我现在不需要这个。,I don't need this right now.
 SAY.Chapter1.1109.Protagonist,,再仔细找找资料在哪里。,Carefully determine where the copies are.
@@ -303,6 +303,13 @@ SAY.Chapter1.1349.Robert,,我看的出来你不是一位仅仅为花边新闻而
 SAY.Chapter1.1355.Robert,,或许你能比我们任何人都更快发现这桩持续了两年的噩梦究竟发生了什么。,"Perhaps you can discover what happened to this nightmare that lasted for two years, faster than any of us."
 SAY.Chapter1.1356.Robert,,十天后这里将会成为施工现场，同时追悼会也会结束。那一天的早晨，请再来这里告诉我你的结论。,"Ten days later this will become a construction site, and the memorial service will also end. That morning, please come here again and tell me your conclusion."
 SAY.Chapter1.1434.Protagonist,,调查还没有结束，我还不可以离开这里。,"The Investigation is not over yet, I should still stay here."
+SAY.Chapter1.1511.Protagonist,,对就是这个，每日邮报，专门刊载本市的重要新闻。好久都没有订阅过了，小时候可是每天都会看。,"Here it is, the Daily Post, a newspaper focusing on the “most important” news in the city. I read a lot when I was a child."
+SAY.Chapter1.1512.Protagonist,,让我仔细读一读，看看究竟是一个什么样的案件。（鼠标左键移动报纸至放大镜中心检测信息。）,Read carefully and figure out what is the case about. ( Drag the newspaper with left mouse key and investigate with the magnifier.)
+SAY.Chapter1.1507.Protagonist,,不对，我现在不需要这个。,"No, I don't need this now."
+SAY.Chapter1.1508.Protagonist,,再仔细找找资料在哪里。,Check carefully where is the file.
+SAY.Chapter1.1576.Protagonist,,学校打算将新大楼以Rebecca命名以缅怀她的遭遇。,The school plans to name the new library in names of Rebecca.
+SAY.Chapter1.1589.Protagonist,,这个信息不太重要，我还需要继续找找其他的信息。,"This is not useful information, find something else."
+SAY.Chapter1.1531.Protagonist,,这个信息不太重要，我还需要继续找找其他的信息。,"This is not useful information, find something else."
 CHARACTER.Protagonist,,,
 CHARACTER.Anonymous Student,,Anonymous Student,Anonymous Student
 CHARACTER.Bus Broadcast,,Bus Broadcast,Bus Broadcast
