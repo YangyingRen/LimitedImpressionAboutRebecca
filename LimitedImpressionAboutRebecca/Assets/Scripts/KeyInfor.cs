@@ -11,6 +11,7 @@ public class KeyInfor : MonoBehaviour
     private Image image;
     public float minimum;
     public GameObject KeyComplete;
+    public Text Count;
 
     // Start is called before the first frame update
     void Start()
@@ -30,5 +31,6 @@ public class KeyInfor : MonoBehaviour
     else {
         KeyComplete.GetComponent<Text>().text="ANALYZING";
     }
+    Count.text=KeyInformation.ToString()+"/"+KeyAmount.ToString();
     }
 }

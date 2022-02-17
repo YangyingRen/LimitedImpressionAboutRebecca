@@ -7,6 +7,7 @@ public class NextPage : MonoBehaviour
 {
     public GameObject[] Pages;
     private int i=0, len;
+    public Button Nextpage;
     // Start is called before the first frame update
     void Start()
     {
@@ -21,6 +22,13 @@ public class NextPage : MonoBehaviour
         else{
         Pages[j].SetActive(false);
         Pages[j].transform.localPosition=new Vector3(0,0,1);}
+        }
+        if(len==1){
+            Nextpage.GetComponent<Button>().interactable=false;
+        }
+        else{
+            Nextpage.GetComponent<Button>().interactable=true;
+        
         }
         }
     

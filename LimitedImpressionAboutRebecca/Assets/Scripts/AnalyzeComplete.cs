@@ -6,7 +6,6 @@ using Fungus;
 public class AnalyzeComplete : MonoBehaviour
 {
     public GameObject[] KeyInfo;
-    public Transform Ongoing,Completed;
     private int i,len;
     public Flowchart flowchart;
     public int checkedInfo;
