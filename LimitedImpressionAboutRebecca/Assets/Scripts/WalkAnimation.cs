@@ -25,7 +25,7 @@ public class WalkAnimation : MonoBehaviour
            anim.SetBool("Walk",true);
         }
         else{
-                        anim.SetBool("Walk",false);
+            anim.SetBool("Walk",false);
         }
 
         lastPos=transform.position;
