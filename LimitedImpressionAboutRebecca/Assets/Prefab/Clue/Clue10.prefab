@@ -78,7 +78,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: The university has restricted students' speech about Rebecca's death.
+  m_Text: The university has <color=navy>restricted students' speech</color> about
+    Rebecca's death.
 --- !u!1 &4720534950255307563
 GameObject:
   m_ObjectHideFlags: 0

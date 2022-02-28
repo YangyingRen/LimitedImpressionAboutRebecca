@@ -27,6 +27,16 @@ public class WalkAnimation : MonoBehaviour
         else{
             anim.SetBool("Walk",false);
         }
+        if(Input.GetKey(KeyCode.W)){
+            anim.SetBool("Run",true);
+            GetComponent<MoveWASD>().speed=0.05f;
+        }
+        else{
+            anim.SetBool("Run",false);
+            GetComponent<MoveWASD>().speed=0.03f;
+
+     
+        }
 
         lastPos=transform.position;
         

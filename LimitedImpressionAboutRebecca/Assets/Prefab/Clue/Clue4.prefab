@@ -289,4 +289,4 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: The school might have warned students to shut up.
+  m_Text: The school might have warned students to <color=navy>shut up</color>.

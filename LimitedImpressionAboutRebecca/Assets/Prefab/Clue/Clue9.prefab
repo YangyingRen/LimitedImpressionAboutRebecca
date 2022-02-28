@@ -78,7 +78,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Robert sacrified his career as the cost for holding this event.
+  m_Text: Robert <color=navy>sacrified his career</color> as the cost for holding
+    this event.
 --- !u!1 &7731136127714231023
 GameObject:
   m_ObjectHideFlags: 0

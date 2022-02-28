@@ -289,4 +289,5 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Rebecca used her father's power to help students instend of her own.
+  m_Text: Rebecca used <color=navy>her father's power</color> to help students instend
+    of her own.

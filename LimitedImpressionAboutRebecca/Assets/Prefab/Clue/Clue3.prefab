@@ -78,7 +78,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Is there any relationship between Rebecca's death and Pick Up Artist?
+  m_Text: Is there any relationship between Rebecca's death and <color=navy>Pick
+    Up Artist</color>?
 --- !u!1 &6384367179920940169
 GameObject:
   m_ObjectHideFlags: 0
