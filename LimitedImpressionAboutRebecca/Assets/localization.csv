@@ -20,14 +20,9 @@ SAY.Chapter1.1242.Protagonist,,这位同学，能再找你聊聊吗？,"Hi, can 
 SAY.Chapter1.1243.Anonymous Student,,我能说的都已经说完了。,I have said all that I can.
 SAY.Chapter1.1244.Anonymous Student,,请不要打扰我，我想独自一人怀念一下Rebecca。,"Please don't disturb me, I want to remember Rebecca alone."
 SAY.Chapter1.1361.Bus Broadcast,,YIT站已到，请到站的乘客从后门下车,We have arrived at YIT station. Please use the rear doors to exit.
-SAY.Chapter1.1489.Protagonist,,没有想到这么远，居然要花费一个多小时坐巴士，况且这雨下的没完没了，弄得浑身都是一股霉味。,"I didn't expect that it would take more than an hour to get here. And the rain has been endless, making my whole body smell  musty."
-SAY.Chapter1.1490.Protagonist,,希望编辑这次给我的案子值得我千里迢迢跑到这个荒郊野岭。,I hope that the case the editor gave me this time is worth traveling all the way to this wilderness.
-SAY.Chapter1.1491.Protagonist,,我记得书包里有相关资料的影印件。,"That's right, I brought some photocopies of relevant information in my bag."
 SAY.Chapter1.417.Protagonist,,2020年六月二十日，我市一流大学YIT在毕业典礼当日早上于校内发现一具溺亡女尸。,"{i}June 20, 2020: at YIT, the most prestigious university in this city, a drowned female body was discovered on campus during the morning of the annual graduation ceremony.{/i}"
 SAY.Chapter1.415.Protagonist,,推断为一起故意杀人案，受害者为在校大四学生Rebecca Rochester。,"{i}An intentional homicide was suspected; the victim was Rebecca Rochester, a senior at YIT.{/i}"
-SAY.Chapter1.743.,,"New Character:\nRebecca Rochester, the victim.","New Character:\nRebecca Rochester, the victim."
 SAY.Chapter1.418.Protagonist,,经过多方查证，警方将嫌疑人锁定为Rebecca交往两年的男朋友Antony Sallin，并以故意杀人罪对其进行指控。,"{i}After multiple investigations, the police identified a suspect: Antony Sallin, Rebecca's boyfriend of two years. They charged Sallin with intentional homicide.{/i}"
-SAY.Chapter1.747.,,"New Character:\nAntony Sallin, the suspect.","New Character:\nAntony Sallin, the suspect."
 SAY.Chapter1.419.Protagonist,,警方在Rebecca尸体颈部发现成年男子手掌大小掐痕，且在Antony寝室发现Rebecca随身携带的项链等私人物品。,"{i}The police found pinch marks on the neck of Rebecca's body, with the circumference of an adult man's hand. They also located some of Rebecca's personal belongings, such as necklaces, in Antony's dormitory.{/i}"
 SAY.Chapter1.420.Protagonist,,多位该校老师作证案发当晚Antony与Rebecca曾经单独见面，且无人可以提供Antony在案发时间的不在场证明。,"{i}A number of teachers testified that Antony and Rebecca met alone on the night of the crime, and no one could provide an alibi for him.{/i}"
 SAY.Chapter1.421.Protagonist,,据该校师生匿名透露，Antony在校期间与多名女性均保持暧昧关系，感情生活混乱。,"{i}According to anonymous comments from teachers and classmates, Antony maintained unstable and non-committal relationships with many female students.{/i}"
@@ -37,17 +32,21 @@ SAY.Chapter1.424.Protagonist,,12月28日，引发社会广泛关注的“YIT校�
 SAY.Chapter1.448.Protagonist,,YIT师生以及社会各界对此判决结果一片哗然，学校官方目前并未表态。,"{i}YIT teachers and students, and the society were in an uproar about the verdict, and the school officials have not yet expressed their views.{/i}"
 SAY.Chapter1.750.Protagonist,,无罪释放？这种人最后居然被无罪释放？,Acquitted? Such a person was finally announced as not guilty?
 SAY.Chapter1.753.Protagonist,,既然编辑认为这桩案件可以作为我新作品的灵感，看来案件背后应该另有隐情。,"Since the editor thinks this case can be used as the inspiration for my new work, it seems that there should be some hidden information behind it."
-SAY.Chapter1.752.Protagonist,,接下来看第二份更新的报道。,I should look at the second report next.
+SAY.Chapter1.1531.Protagonist,,这个信息不太重要，我还需要继续找找其他的信息。,"This is not useful information, find something else."
 SAY.Chapter1.751.Protagonist,,2022年6月21日。我市一流大学YIT决定对现有校园进行扩张。据悉，新校址选定在原商学院旁边的湖景区。,"{i}June 21, 2022: YIT decided to expand its campus.Reportedly, the new campus site is planned for the lake area next to the business school.{/i}"
 SAY.Chapter1.756.Protagonist,,让我继续看看，这不是昨天的报纸吗？现在已经是事件发生的两年后了。,Hmm... This is yesterday's newspaper. It's just over two years after the incident.
-SAY.Chapter1.755.Protagonist,,这样欲盖弥彰的行为，难道整桩案件与学校也有不为人知的牵扯？,This behavior smells like a cover-up... does this case have some hidden connection with the school's affairs?
 SAY.Chapter1.754.Protagonist,,原来如此，因为要施工，这附近的路才变得坑坑洼洼，到处都是泥巴。,"Because of construction work, the road around here has become thoroughly bumpy and muddy."
-SAY.Chapter1.1593.Protagonist,,这些花束又是怎么回事？为什么摆得到处都是。\n难道现在毕业季流行摆白色菊花？虽然看起来有些毛骨悚然，但仔细看却清雅别致，现在的年轻人真是时髦。,"What's with these bouquets? Why are they everywhere? Is it popular to use white chrysanthemums for graduation now? Although it looks a little creepy at first, it does create an elegant and chic feel. Maybe it's a new trend among today's youth."
-SAY.Chapter1.1594.Protagonist,,话说回来不愧是新闻上反复强调的一流高校，占地面积很大，简直像一座小型城市。,"Having said that, the campus is worthy of a first-class university that's always making the news. This place looks like a small city."
-SAY.Chapter1.1595.Protagonist,,还是找张地图看看我现在的位置在哪里。,I need to find a map to figure out where I am now.
-SAY.Chapter1.427.,,"Mission: ""Find the campus map.""","Mission: ""Find the campus map."""
-SAY.Chapter1.716.Protagonist,,不对，我现在不需要这个。,I don't need this right now.
-SAY.Chapter1.1109.Protagonist,,再仔细找找资料在哪里。,Carefully determine where the copies are.
+SAY.Chapter1.1576.Protagonist,,学校打算将新大楼以Rebecca命名以缅怀她的遭遇。,The school plans to name the new library in names of Rebecca.
+SAY.Chapter1.755.Protagonist,,这样欲盖弥彰的行为，难道整桩案件与学校也有不为人知的牵扯？,This behavior smells like a cover-up... does this case have some hidden connection with the school's affairs?
+SAY.Chapter1.1589.Protagonist,,这个信息不太重要，我还需要继续找找其他的信息。,"This is not useful information, find something else."
+SAY.Chapter1.1695.Protagonist,,怎么回事，怎么有人写这么恶毒的话语，是与Rebecca有多么大的仇恨才会在她死了这么久后还口出恶言。,
+SAY.Chapter1.1696.Protagonist,,并且称她是贼？Rebecca究竟做了什么才会被扣上这样的罪名？,
+SAY.Chapter1.1697.Protagonist,,或许也有可能是单纯嫉妒她的学生？一般这样完美的女孩总会引起一两个人不舒服。,
+SAY.Chapter1.1700.,,New Info:\nSomeone in school is still hating Rebecca.,
+SAY.Chapter1.1703.Protagonist,,看来也有人认定Antony是无辜的。要是能够找到写这个的人就好了。,
+SAY.Chapter1.1704.Protagonist,,究竟是有多么笃定才能在留言墙上写下这句话？这个人一定是知道一些确切的证据。,
+SAY.Chapter1.1707.,,New Info:\nSomeone ensure that Antony is innocent.,
+SAY.Chapter1.2289.Protagonist,,这个信息不太重要，我还需要继续找找其他的信息。,
 SAY.Chapter1.462.Sophie,,Rebecca是我校2020届毕业生代表，她在校期间不仅成绩优异，对待同学更是亲切温柔。,"Rebecca is the representative of YIT's graduating class of 2020. During her time at school, she wasn't just an excellent student; she also treated her classmates kindly and tenderly."
 SAY.Chapter1.463.Sophie,,我们这些后辈有任何麻烦，只要是她能帮到，她都会事无巨细地亲力亲为。,"If students in lower grades had any trouble, she'd take it on herself to help out in any way she could."
 SAY.Chapter1.859.,,New Info:\nRebecca has a good reputation among students.,New Info:\nRebecca has a good reputation among students.
@@ -59,7 +58,7 @@ SAY.Chapter1.602.Protagonist,,不……其实我，根本不认识她。,"No... 
 SAY.Chapter1.605.Sophie,,当时在社交媒体上传得沸沸扬扬的事件，您竟然说对此一无所知？,"At the  time, there were a lot of rumors on social media.But you didn't know anything about it?"
 SAY.Chapter1.606.Protagonist,,{i}（我确实不怎么关注网络上的争吵。) {/i},{i} (I really don’t pay much attention to quarrels on the Internet.) {/i}
 SAY.Chapter1.607.Protagonist,,好吧，那这里到底发生了什么？,"Okay, so what happened here?"
-SAY.Chapter1.489.Sophie,,谢谢，这是您的花束！Rebecca学姐在天之灵会保佑您的。,"Thank you, this is your bouquet! In remembrance of Rebecca..."
+SAY.Chapter1.489.Sophie,,谢谢，这是您的花束！Rebecca学姐在天之灵会保佑您的。,"Thank you, this is your bouquet! In remembrance of Rebecca..."
 SAY.Chapter1.490.Sophie,,听起来有点恐怖。,Sounds like a horror movie.
 SAY.Chapter1.497.,,New Item:\nYou got a bunch of flowers.\n,New Item:\nYou got a bunch of flowers.\n
 SAY.Chapter1.495.Protagonist,,不过，看在我已经买了花的份上，你可以回答我Rebecca的死到底跟PUA有什么关系吗？,I already bought the flowers. Can you tell me whether Rebecca's death had anything to do with PUAs?
@@ -78,21 +77,16 @@ SAY.Chapter1.889.Protagonist,,不过，为什么购买花束所获得的钱会�
 SAY.Chapter1.890.Sophie,,这么美的花束，送人或用于装饰房间都是不错的选择哦！,This sort of beautiful bouquet is a good choice for a gift or your own home.
 SAY.Chapter1.891.Protagonist,,啊这……{i}（不打算正面回答吗。） {/i},…{i} (Are you not going to answer directly.) {/i}
 SAY.Chapter1.892.Sophie,,如果您没有什么别的事的话那我就失陪了，这束花我今天一定要卖出去。,"If there is nothing else you need, then I'll leave. I've got to sell these flowers today."
-SAY.Chapter1.794.Protagonist,,一幅女子黑白画像，应该是用来办追悼会。,A black and white portrait of the kind sometimes used in memorial services.
-SAY.Chapter1.795.Protagonist,,能办这么盛大的追悼会，她不会就是那个谁吧？可是这都过去两年了。,Isn't she? Who else could command such a grand memorial service? But it's been two years.
 SAY.Chapter1.798.Protagonist,,Rebecca Rochester，看起来确实十分具有魅力。,Rebecca Rochester looks quite attractive indeed.
 SAY.Chapter1.799.Protagonist,,比寻常学生更会打扮，但是并不会让人感到张扬，看起来也知书达理落落大方，想必应该成长于一个有文化的中产阶级家庭。,"She has better fashion taste than ordinary students, but without giving the impression that she's ostentatious. Seems to be knowledgeable and generous. She must have grown up in a literate, middle-class family."
 SAY.Chapter1.801.Protagonist,,能让这么多人自发为地她哀悼，想必的确是个优秀的人才。,She must have been a figure of some significance for so many people to mourn her spontaneously.
 SAY.Chapter1.991.,,New Info:\nRebecca is a truly perfect girl.,New Info:\nRebecca is a truly perfect girl.
 SAY.Chapter1.802.Protagonist,,再多找人聊聊，了解关于Rebecca Rochester的更多细节。,Talk to more people and learn more details about Rebecca Rochester.
 SAY.Chapter1.766.Protagonist,,我市著名高校YIT，为当年最早一批从城市中心搬到郊区的大学。,"YIT, a famous university in this city, was the first center of higher education that moved from the city center to the suburbs."
-SAY.Chapter1.767.Protagonist,,教育局领导打着让学生远离城市喧嚣，有一方读书净土的名号，实际却因郊外地皮廉价便宜，远离闹市商区学生无处可去，\n就只能乖乖待在校园，管理方便，所以让许多大学移址郊区。,"The Bureau of Education announced that the moves would provide a quiet place to study, but the true reason was that suburban land is cheap, and since students have nowhere to go, they'll tend to stay on the campus. Thus, many universities were moved to the suburbs."
+SAY.Chapter1.767.Protagonist,,教育局领导打着让学生远离城市喧嚣，有一方读书净土的名号，实际却因郊外地皮廉价便宜，远离闹市商区学生无处可去，\n就只能乖乖待在校园，管理方便，所以让许多大学移址郊区。,"The Bureau of Education announced that the moves would provide a quiet place to study, but the true reason was that suburban land is cheap, and since students have nowhere to go, they'll tend to stay on the campus. Thus, many universities were moved to the suburbs."
 SAY.Chapter1.775.Protagonist,,不过看学校后山这么大一片水域，发生一两件溺亡案件也并不会令人感到意外。,It is not entirely surprising that one or two cases of drowning have occurred when there's such large body of water behind the campus.
 SAY.Chapter1.774.Protagonist,,现在我的位置是835号公交车站，连接商学院的大门以及环湖大道。,"My current location is  Bus Stop No. 835, which provides service to the business school and Lake Road."
 SAY.Chapter1.776.Protagonist,,大学建筑是环湖而建，沿着湖边一直走就能逛完整个学校，没有建得弯弯绕绕真是帮了大忙。,"The university building is built around the lake, and you can walk around the whole school along the shore."
-SAY.Chapter1.787.Protagonist,,黑白画像，是在办悼念会吗？,A black-and-white portrait of the sort you see in funerals... is someone holding a memorial service?
-SAY.Chapter1.788.Protagonist,,让我找个人问问是怎么回事。,Let me find someone to ask about what's going on.
-SAY.Chapter1.790.,,"Mission: ""Find someone to know what is happening.""","Mission: ""Find someone to know what is happening."""
 SAY.Chapter1.815.Sophie,,Rebecca学姐即使已经回到天堂，也永远活在我们心中！失去她毫无疑问是我校的巨大损失。,"Even though Rebecca has gone to a better place, she will always live in our hearts! Her passing is, without a doubt, a huge loss for our school."
 SAY.Chapter1.818.Protagonist,,{i}（你们对她的爱已经上升到如此的高度了吗?）{/i}所以她为什么去世？疾病？车祸？,{i}(Do you really cherish her that much?){/i}May I ask how she died? Disease? Car accident?
 SAY.Chapter1.821.Sophie,,据说Rebecca学姐十分偏爱这片湖的风景，毕业典礼前日凌晨，一定也是想来对这片景色道别吧。,"People say that Rebecca loved the scenery of this lake. She must have wanted to say goodbye to it on that day, in the early morning before her graduation ceremony."
@@ -110,7 +104,7 @@ SAY.Chapter1.834.Protagonist,,一般不都会选择礼堂之类更严肃庄重�
 SAY.Chapter1.841.Sophie,,学校即将在这里建立的新教学楼，并以Rebecca的名字命名。,The new classroom building that the school will construct here will be named after Rebecca.
 SAY.Chapter1.842.Sophie,,并且Rebecca生前十分偏爱湖边的景色，经常在这边晨读散步，所以我们一致认为湖边就是最佳场所。,"In life, Rebecca enjoyed the lakeside scenery very much, and often took morning walks here. So we all agreed that the shore was the best place."
 SAY.Chapter1.844.Protagonist,,所以这边才摆放了白色花束。{i}（我还以为是你们年轻人的新潮流）{/i},That's why the white bouquets are placed here. {i}(I thought it was a new trend among young people!){/i}
-SAY.Chapter1.847.Sophie,,这些花束同时也是为义卖活动所准备的，仅用十元钱就可以购得Rebecca纪念花束。\n整场悼念会所获得的收入我们会悉数捐献给高校反PUA公益组织。,These bouquets are also prepared for the charity sale. You can purchase Rebecca commemorative bouquets for only ten dollars. We will donate all the income to the anti-PUA charity organization of colleges and universities.
+SAY.Chapter1.847.Sophie,,这些花束同时也是为义卖活动所准备的，仅用十元钱就可以购得Rebecca纪念花束。\n整场悼念会所获得的收入我们会悉数捐献给高校反PUA公益组织。,These bouquets are also prepared for the charity sale. You can purchase Rebecca commemorative bouquets for only ten dollars. We will donate all the income to the anti-PUA charity organization of colleges and universities.
 SAY.Chapter1.846.Protagonist,,反PUA公益组织？请解释一下，我不熟悉这个概念。,"Anti-PUA charity organization? Please explain, I am not familiar with this concept."
 SAY.Chapter1.845.Sophie,,PUA全称Pick Up Artist。\n指通过搭讪以及语言技巧对他人进行人格控制甚至人身控制。,PUA stands for Pick Up Artist. It refers to the personality control and even personal control of others through chatting and language skills.
 SAY.Chapter1.849.Sophie,,通过反PUA组织能够更有效宣传PUA对女性的迫害，减少更多类似Rebecca学姐这样的惨案发生。,"Through anti-PUA organizations, PUA’s persecution of women can be more effectively promoted, and more tragedies like Rebecca can be reduced."
@@ -146,7 +140,7 @@ SAY.Chapter1.1220.Sophie,,是的，我们也只能用捐款活动这种暗示来
 MENU.Chapter1.1222,,你们真的非常具有勇气，挑战权威很不容易。,Challenging authority is not easy.
 MENU.Chapter1.1223,,你们一定要保护好自己，不要引火上身。,Don't get into trouble.
 SAY.Chapter1.985.Protagonist,,我看这个活动规模不小，占地面积又大，校方应该给了不少支持吧。,This activity is so grand. The school should have given a lot of support.
-SAY.Chapter1.986.Anonymous Student,,我不是很清楚学校的具体态度。\n不过，这个活动确实花费了我们不少时间去做前期准备工作。,"I am not very clear about the specific attitude of the school. However, this event did take us a lot of time to do the preparatory work."
+SAY.Chapter1.986.Anonymous Student,,我不是很清楚学校的具体态度。\n不过，这个活动确实花费了我们不少时间去做前期准备工作。,"I am not very clear about the specific attitude of the school. However, this event did take us a lot of time to do the preparatory work."
 SAY.Chapter1.987.Anonymous Student,,至少我的同班同学从这学期一开始就在筹划，想来也是跟校方做了不少交涉。,"At least my classmates have been planning since the beginning of this semester, and they made a lot of negotiations with the school."
 SAY.Chapter1.995.,,New Info:\nStudents have argued with the school multiple times.,New Info:\nStudents have argued with the school multiple times.
 SAY.Chapter1.988.Protagonist,,辛苦了，这真是一个给人印象深刻的活动，对于你们来说也会是一段大学期间难忘的回忆吧。,"This is really an impressive activity, and for you, it will be an unforgettable memory during college."
@@ -157,7 +151,6 @@ SAY.Chapter1.1003.Anonymous Student,,不过最终还是最应该感谢Rochester�
 SAY.Chapter1.1004.Protagonist,,Rochester 教授？这个姓氏听起来好熟悉……,Professor Rochester? This last name sounds familiar...
 SAY.Chapter1.1005.Anonymous Student,,他是Rebecca的父亲，也是我们曾经的商学院院长。这次活动经费大半也是他赞助给我们。,He is Rebecca's father and the former dean of our business school. Most of the funds for this event were sponsored by him.
 SAY.Chapter1.1008.,,New Info:\nRebecca's father used to be the department dean.,New Info:\nRebecca's father used to be the department dean.
-SAY.Chapter1.1012.,,"New Character:\nRobert Rochester, Rebecca's father.","New Character:\nRobert Rochester, Rebecca's father."
 SAY.Chapter1.1014.Protagonist,,原来如此。希望你们的活动能圆满举办，让大家毫无遗憾地毕业。,"I see. I hope that the event can be successfully held, so that everyone can graduate without regret."
 SAY.Chapter1.1040.Protagonist,,收集到了一些新线索，要不要找之前卖花的学生问下她的观点？还是继续探索？,I have collected some new clues. Asking the student who sold flowers about her point of view? Or continue to explore?
 SAY.Chapter1.1055.Protagonist,,这位同学，你也来悼念Rebecca吗？,"Hi, are you here to mourn Rebecca too?"
@@ -206,7 +199,7 @@ SAY.Chapter1.1167.Anonymous Student,,对不起，据我所知Rebecca的事件只
 SAY.Chapter1.1168.Protagonist,,{i}（是不是要出示一些东西？问得再具体一点？）{/i},{i}(Should I show something? Ask more specific?){/i}
 SAY.Chapter1.1182.Protagonist,,您对Rebecca的这些信息了解吗？,Do you know this information about Rebecca?
 SAY.Chapter1.1183.Anonymous Student,,我跟她只是普通前后辈关系，不是很熟。,"My relationship with her is just same school students, not very familiar."
-SAY.Chapter1.1185.Anonymous Student,,如果您对她的事迹比较感兴趣的话，建议还是去问这个活动的主办方，他们应该可以提供更详细的信息。,"If you are more interested in her, I recommend asking the organizer of this event, they should be able to provide more detailed information."
+SAY.Chapter1.1185.Anonymous Student,,如果您对她的事迹比较感兴趣的话，建议还是去问这个活动的主办方，他们应该可以提供更详细的信息。,"If you are more interested in her, I recommend asking the organizer of this event, they should be able to provide more detailed information."
 SAY.Chapter1.1184.Anonymous Student,,抱歉没能帮到您什么，去问一下其他人吧。,Sorry for not being able to help you. Please ask someone else.
 SAY.Chapter1.1187.Protagonist,,您知道校方对这件事的态度吗？,Do you know the school's attitude towards this matter?
 SAY.Chapter1.1188.Anonymous Student,,能不能不要为难我，学校都已经说了是意外了，那就是意外。,"Can you let me go? The school has already said that it is an accident, and that is an accident."
@@ -252,7 +245,7 @@ SAY.Chapter1.1373.Robert,,谢谢你的夸赞，可是比起死后得虚名，我
 SAY.Chapter1.1374.Robert,,更何况有时候优秀并不是优势，反而是对精神的一种桎梏。,"What's more, sometimes being excellent is not an advantage, but a weakness."
 SAY.Chapter1.1375.Protagonist,,这是什么意思？优秀反而会成为缺点吗？,What does it mean? Will excellence be a disadvantage instead?
 SAY.Chapter1.1376.Robert,,或许这么说是有一些荒谬，但是我想Rebecca也一定觉得非常累吧，当这样一个优秀的人。,"Maybe it is absurd to say that, but I think Rebecca must feel very tired too, being such an excellent person."
-SAY.Chapter1.1377.Protagonist,,{i}（说的好深奥，不愧是名教师。虽然我不太听得懂这个理论。）{/i},{i}(It’s so esoteric. Although I don’t quite understand this theory.){/i}
+SAY.Chapter1.1377.Protagonist,,（说的好深奥，不愧是名教师。虽然我不太听得懂这个理论。）,{i}(It’s so esoteric. Although I don’t quite understand this theory.){/i}
 SAY.Chapter1.1381.Protagonist,,您真的不觉得您女儿的死没有什么蹊跷？,Do you really think there is nothing strange about your daughter's death?
 SAY.Chapter1.1382.Robert,,我认为存在蹊跷，只是现阶段大家流传的版本都不是真相。,"I think there is something wrong, but the version circulated by everyone at this stage is not the truth."
 SAY.Chapter1.1383.Robert,,至少没有绝对证据证明他们是可信的。,At least there is no absolute evidence that they are credible.
@@ -268,6 +261,13 @@ SAY.Chapter1.1396.Robert,,没有什么好惋惜的，失去Rebecca后我已经�
 SAY.Chapter1.1397.Robert,,Rebecca死后，我即使活着，也不过是形如枯槁，了却残生罢了。,"After Rebecca's death, even though I was alive, I would only look like a withered, but be left alive."
 SAY.Chapter1.1398.Protagonist,,请不要这样说，Rebecca也一定是希望您能好好地继续活着。,"Please don't say that, Rebecca must also hope that you can continue to live well."
 SAY.Chapter1.1399.Robert,,谢谢你的安慰，我会活着，至少在弄清楚她是怎么死之前我还不可以放弃。,"Thank you for your comfort, I will live, at least I can't give up until I figure out how she died."
+SAY.Chapter1.2188.Protagonist,,I found out that still someone believes that Antony is not guilty.,
+SAY.Chapter1.2189.Robert,,"Maybe, there are a lots of paradox in the case which are not be solved yet. The worst situation is that the murder might still in this campus.",
+SAY.Chapter1.2191.Protagonist,,But who do you think could still insist Antony is innocent?,
+SAY.Chapter1.2190.Robert,,"Hard to say, as I know, he didn't have any close friend at that time. The one I could consider is his lawyer.",
+SAY.Chapter1.2193.Protagonist,,Wait? You mean Antony's lawyer is here? Today?,
+SAY.Chapter1.2192.Robert,,"Yes, she is university's legal advisor for the construction. Guess the president is really content about her achievement - diminishing a severe scandal that almost ruined school's reputation.",
+SAY.Chapter1.2196.,,New Info:\nAntony's Lawyer is now university's legal consultant.,
 SAY.Chapter1.1317.Protagonist,,我从一些同学的口中得知了这场活动的捐款会用来帮助反对PUA。想必这就是害死您女儿的真凶吧。,I learned from some students that the donations from this event will be used to help oppose PUA. Presumably this is the real culprit who killed your daughter.
 SAY.Chapter1.1318.Robert,,看来你一定是与Sophie做了充分沟通，不过这并不是一个好的开始。,"It seems that you must have fully communicated with Sophie, but this is not a good start."
 SAY.Chapter1.1320.Protagonist,,您的意思是？Sophie所告诉我的事情并不可信？,What do you mean? What Sophie told me is not credible?
@@ -284,6 +284,7 @@ SAY.Chapter1.1330.Robert,,我们想的最终都是，我们希望她是如何死
 SAY.Chapter1.1331.Protagonist,,所以这就是您向我提问的原因吗？因为我是一个局外人。,So is that why you asked me the question? Because I am an outsider.
 SAY.Chapter1.1332.Robert,,有时候局外人更是一种优势。如果我是局外人，或许Rebecca活着的时候我就能发现一些端倪。,"Sometimes outsiders are an advantage. If I were an outsider, maybe I could find some clues while Rebecca was still alive."
 SAY.Chapter1.1354.Robert,,你很擅长观察与思考，如果可以的话，请代替我这个不称职的父亲找出Rebecca死亡的真相。,"You are good at observing and thinking. If you can, please find out the truth about Rebecca's death on behalf of me, a incompetent father."
+SAY.Chapter1.2049.Robert,,"This is the note I took during the trial, you may need more background information from it.",
 SAY.Chapter1.1333.Robert,,十天后这里将会成为施工现场，同时追悼会也会结束。那一天的早晨，请再来这里告诉我你的结论。,"Ten days later this will become a construction site, and the memorial service will also end. That morning, please come here again and tell me your conclusion."
 SAY.Chapter1.1335.Protagonist,,我从媒体方面知道了这是一场不幸的意外。,I learned from the media that this was an unfortunate accident.
 SAY.Chapter1.1336.Robert,,这确实是最官方的报道，无论是法院还是学校都支持这个结论。,"This is indeed the most official report, and both the court and the school support this conclusion."
@@ -303,17 +304,135 @@ SAY.Chapter1.1349.Robert,,我看的出来你不是一位仅仅为花边新闻而
 SAY.Chapter1.1355.Robert,,或许你能比我们任何人都更快发现这桩持续了两年的噩梦究竟发生了什么。,"Perhaps you can discover what happened to this nightmare that lasted for two years, faster than any of us."
 SAY.Chapter1.1356.Robert,,十天后这里将会成为施工现场，同时追悼会也会结束。那一天的早晨，请再来这里告诉我你的结论。,"Ten days later this will become a construction site, and the memorial service will also end. That morning, please come here again and tell me your conclusion."
 SAY.Chapter1.1434.Protagonist,,调查还没有结束，我还不可以离开这里。,"The Investigation is not over yet, I should still stay here."
+SAY.Chapter1.1489.Protagonist,,没有想到这么远，居然要花费一个多小时坐巴士，况且这雨下的没完没了，弄得浑身都是一股霉味。,"I didn't expect that it would take more than an hour to get here. And the rain has been endless, making my whole body smell  musty."
+SAY.Chapter1.1490.Protagonist,,希望编辑这次给我的案子值得我千里迢迢跑到这个荒郊野岭。,I hope that the case the editor gave me this time is worth traveling all the way to this wilderness.
+SAY.Chapter1.1491.Protagonist,,我记得书包里有相关资料的影印件。,"That's right, I brought some photocopies of relevant information in my bag."
 SAY.Chapter1.1511.Protagonist,,对就是这个，每日邮报，专门刊载本市的重要新闻。好久都没有订阅过了，小时候可是每天都会看。,"Here it is, the Daily Post, a newspaper focusing on the “most important” news in the city. I read a lot when I was a child."
-SAY.Chapter1.1512.Protagonist,,让我仔细读一读，看看究竟是一个什么样的案件。（鼠标左键移动报纸至放大镜中心检测信息。）,Read carefully and figure out what is the case about. ( Drag the newspaper with left mouse key and investigate with the magnifier.)
+SAY.Chapter1.1512.Protagonist,,让我仔细读一读，看看究竟是一个什么样的案件。\n（鼠标左键移动报纸至放大镜中心检测信息。）,Read carefully and figure out what is the case about. ( Drag the newspaper with left mouse key and investigate with the magnifier.)
 SAY.Chapter1.1507.Protagonist,,不对，我现在不需要这个。,"No, I don't need this now."
 SAY.Chapter1.1508.Protagonist,,再仔细找找资料在哪里。,Check carefully where is the file.
-SAY.Chapter1.1576.Protagonist,,学校打算将新大楼以Rebecca命名以缅怀她的遭遇。,The school plans to name the new library in names of Rebecca.
-SAY.Chapter1.1589.Protagonist,,这个信息不太重要，我还需要继续找找其他的信息。,"This is not useful information, find something else."
-SAY.Chapter1.1531.Protagonist,,这个信息不太重要，我还需要继续找找其他的信息。,"This is not useful information, find something else."
-CHARACTER.Protagonist,,,
+SAY.Chapter1.1593.Protagonist,,这些花束又是怎么回事？为什么摆得到处都是。\n难道现在毕业季流行摆白色菊花？虽然看起来有些毛骨悚然，但仔细看却清雅别致，现在的年轻人真是时髦。,"What's with these bouquets? Why are they everywhere? Is it popular to use white chrysanthemums for graduation now? Although it looks a little creepy at first, it does create an elegant and chic feel. Maybe it's a new trend among today's youth."
+SAY.Chapter1.1594.Protagonist,,话说回来不愧是新闻上反复强调的一流高校，占地面积很大，简直像一座小型城市。,"Having said that, the campus is worthy of a first-class university that's always making the news. This place looks like a small city."
+SAY.Chapter1.1595.Protagonist,,还是找张地图看看我现在的位置在哪里。,I need to find a map to figure out where I am now.
+SAY.Chapter1.1597.,,"Mission: ""Find the campus map.""",
+SAY.Chapter1.1663.Protagonist,,这里应该就是湖堤的入口，现在这里是施工现场，非相关人士不得进入。,
+SAY.Chapter1.1664.Protagonist,,几个月后，这片湖面就会彻底填平，被改建成新的校区。,
+SAY.Chapter1.1665.Protagonist,,从这里看湖面离学校还是有一小段距离的，当天到底发生了什么Rebecca才会在这里意外身亡?,
+SAY.Chapter1.1678.Protagonist,,There are a lots comments that everybody wrote to Rebecca. Maybe I could find some useful information in them.,
+SAY.Chapter1.1779.Protagonist,,"If I want to go out, I need to open the door.",
+SAY.Chapter1.1838.Security,,Hey you! You don't look like our student. Please show your idenfication!,
+SAY.Chapter1.1842.Protagonist,,"{i}(Damn, why there is a security...... I cannot bargain with him for too long.) {/i}",
+SAY.Chapter1.1843.Security,,Please show your ID! Or I could't let you pass here.,
+SAY.Chapter1.1844.Protagonist,,"I am , ehhh......",
+MENU.Chapter1.1845,,It's not your business that who I am!,
+MENU.Chapter1.1846,,I am here looking for a faculty that I know,
+SAY.Chapter1.1849.Protagonist,,You need to let me in.,
+SAY.Chapter1.1851.Anonymous Student,,Unless you show me who you are looking for.,
+SAY.Chapter1.2163.Protagonist,,{i}(I definitely cannot say that I am chasing a girl that I even don't know the name. Is there anyone that I know might relate to this building?){/i},
+SAY.Chapter1.1852.Protagonist,,Fine! I am looking for......,
+SAY.Chapter1.1860.Security,,"If you still refuse to say who you are, then I have no choice but make you go.",
+SAY.Chapter1.1863.Protagonist,,"I...I am here to looking for a professor. I swear, I am not a stranger!",
+SAY.Chapter1.1864.Security,,"Don't try to fool me, answer straightly my question. Who you are looking for?",
+SAY.Chapter1.1862.Security,,"Don't play trick with me. ""A faculty"" cannot be enough to let you in.",
+SAY.Chapter1.1865.Security,,"Say more specificly, who is that faculty? Or I have to ask you to leave.",
+SAY.Chapter1.1880.Protagonist,,I am looking for this!,
+SAY.Chapter1.1881.Security,,Interesting...... If this is what you are looking for......,
+SAY.Chapter1.1882.Robert,,Please leave this building or I'll force you out!,
+SAY.Chapter1.1918.Protagonist,,I am looking Prof. Robert Rochester. I am here to comfort him.,
+SAY.Chapter1.1919.Security,,A lot of paparazzies said the exactly same thing.,
+SAY.Chapter1.1920.Security,,How can you prove that you are not one of them?,
+SAY.Chapter1.1921.Protagonist,,{i}( Why is he that suspicious? Guess I need to find something to prove myself){/i},
+SAY.Chapter1.1972.Protagonist,,See! I have brought some gifts! Those are his daughter Rebecca's favorite flower!,
+SAY.Chapter1.1973.Security,,Well...... It seems like that. Sorry for wasting your time. you can go now.,
+SAY.Chapter1.2143.Protagonist,,Come on man. Don't be that stubborn.,
+SAY.Chapter1.2185.Security,,It's my duty to keep the campus safety!,
+SAY.Chapter1.2151.Protagonist,,"I am not a stranger. I am a friend! Take this, I guarantee that I won't make any trouble.",
+SAY.Chapter1.2144.Security,,"No, I won't accept anything from you.",
+SAY.Chapter1.2184.Protagonist,,Or do you prefer that I send an anomynous email to complain why the security is smoking in the building?,
+SAY.Chapter1.2152.Security,,"Hmmm...... Fine, just this time OK? ",
+SAY.Chapter1.1979.Protagonist,,I prepare this as the gift!,
+SAY.Chapter1.1980.Security,,Interesting...... If this is your present......,
+SAY.Chapter1.1981.Robert,,Please leave this building or I'll force you out!,
+SAY.Chapter1.2040.Protagonist,,"Oh God, it's already afternoon. I don't want to continue the investigation with starving.",
+SAY.Chapter1.2042.Protagonist,,There is a cafeterial  on campus. Maybe I should grab some food first.,
+SAY.Chapter1.2167.,,"Mission: ""Buy some food.""",
+SAY.Chapter1.2053.Shop Assistant,,"Hi, what can I help you today?",
+SAY.Chapter1.2052.Protagonist,,{i}(Is there any thing that I want to buy?){/i},
+SAY.Chapter1.2058.Protagonist,,"Please give me a cup of coffee, no cream no sugar.",
+SAY.Chapter1.2060.Shop Assistant,,"Sure, here is your extrem bitter coffee.",
+SAY.Chapter1.2064.Shop Assistant,,You need to pay for your coffee.,
+SAY.Chapter1.2063.Protagonist,,Ehhh...... Sorry I don't have enough money.,
+SAY.Chapter1.2079.Protagonist,,Please give me tea.,
+SAY.Chapter1.2080.Shop Assistant,,"Ok, it's 5, you can pay now.",
+SAY.Chapter1.2082.Shop Assistant,,You need to pay for your coffee.,
+SAY.Chapter1.2083.Protagonist,,Ehhh...... Sorry I don't have enough money.,
+SAY.Chapter1.2069.Protagonist,,May I have a sandwich?,
+SAY.Chapter1.2070.Shop Assistant,,"Ok, but our microvave is broken so it cannot be warmed.",
+SAY.Chapter1.2074.Protagonist,,"It doesn't really matter, just give me the cold one.",
+SAY.Chapter1.2072.Shop Assistant,,"Hey, you only can get your food after you pay for it.",
+SAY.Chapter1.2073.Protagonist,,Ehhh...... Sorry I don't have enough money.,
+SAY.Chapter1.2108.Protagonist,,May I have that chocolate.,
+SAY.Chapter1.2109.Shop Assistant,,"Take it, that is also one of my favorite, you have a good taste.",
+SAY.Chapter1.2110.Protagonist,,{i}( Guess that chocolate must be a big deal for them){/i},
+SAY.Chapter1.2113.,,New Item:\nYou bought a box of chocolate.\n,
+SAY.Chapter1.2116.Protagonist,,Why this chocolate is that expensive?,
+SAY.Chapter1.2117.Shop Assistant,,"I don't know, the school decide the price, not me.",
+SAY.Chapter1.2094.Protagonist,,"I want this postcard, please.",
+SAY.Chapter1.2095.Shop Assistant,,You only want to buy one? We have different type of it.,
+SAY.Chapter1.2102.Protagonist,,"No, one is enough.",
+SAY.Chapter1.2100.,,New Item:\nYou bought a postcard.\n,
+SAY.Chapter1.2098.Protagonist,,May I take it free? I don't have any money.,
+SAY.Chapter1.2097.Shop Assistant,,"Get out, we are not charity.",
+SAY.Chapter1.2123.Protagonist,,May I have that pack of cigarette?,
+SAY.Chapter1.2124.Shop Assistant,,I can sell you it but we are tobaco free school.,
+SAY.Chapter1.2125.Protagonist,,{i}( What is the meaning of selling cigaretter in tobaco free school? ){/i},
+SAY.Chapter1.2128.,,New Item:\nYou bought a pack of cigarette.\n,
+SAY.Chapter1.2131.Protagonist,,"Please, I really need that cigarette.",
+SAY.Chapter1.2132.Shop Assistant,,Say that to your poor pocket.,
+SAY.Chapter1.2164.Protagonist,,"Wait a moment......That girl, is she Rebecca's twin sister?",
+SAY.Chapter1.2165.Protagonist,,"They looks almost exactly the same, how could it possible?",
+SAY.Chapter1.2166.Protagonist,,I need to approach her. She should be around now.,
+SAY.Chapter1.2169.,,"Mission: ""Find the girl who looks similar to Rebecca.""",
+SAY.Chapter1.2171.Protagonist,,Hey! You! Please wait a moment!,
+SAY.Chapter1.2172.Protagonist,,Oh god she moves so fast. I am a little bit regret that I gave up going to the gym since high school.,
+SAY.Chapter1.2173.Protagonist,,"Anyway, she should still on campus. I won't leave YIT today until I find her.",
+SAY.Chapter1.2180.Protagonist,,{i}(A smell of smoke makes me feel sick. ){/i},
+SAY.Chapter1.2182.Protagonist,, {i}(Who are smoking inside the building?  Is the fire alarm broken?){/i},
+SAY.Chapter1.2225.Dina,,"I know you are following me. And I know what you are thinking. Unfortunately, please stop digging this story anymore. ",
+SAY.Chapter1.2222.Protagonist,,"{i}(Like everyone in this campus, she is also suspicious. They never realise that it's their defensive attitute that makes me more curious about Rebecca.){/i}",
+SAY.Chapter1.2224.Protagonist,,I apologize but I am not a stalker. I am just curious that why you......,
+SAY.Chapter1.2223.Dina,,"Why do I look like Rebecca? First of all, we are not relative nor family so please don't spread rumor like that.",
+SAY.Chapter1.2226.Protagonist,,It's hard to ignore it. I even though that maybe Rebecca is not dead when I saw you.,
+SAY.Chapter1.2227.Dina,,"Interesting. I don't know whether I should be happy or sad. Still so many people care about her, just like the time when she was still alive.",
+SAY.Chapter1.2228.Protagonist,,Sounds like you know Rebecca for a long time? ,
+SAY.Chapter1.2229.Dina,,"It's not your business. When you ask someone a question, you should show your sincerity first.",
+SAY.Chapter1.2230.Protagonist,,Like......,
+SAY.Chapter1.2221.Dina,,Who are you? I won't let you know my name if I cannot ensure your idenfication.,
+SAY.Chapter1.2231.Protagonist,,"{i}(Seriously, I hate lying, but would she trust me if I was honest about who I am?){/i}",
+MENU.Chapter1.2234,,I am an alumni to visit Prof. Rochester,
+MENU.Chapter1.2235,,I am a writing who want to write a story about Rebecca.,
+SAY.Chapter1.2254.Protagonist,,"I graduated a long time ago so no wonder you don't know me. If I am nobody, how could the security let me in?",
+SAY.Chapter1.2237.Dina,,"Oh, then I am sorry for my rudeness. I am Dina, Dina Loisel. I used to be Rebecca's roommate.",
+SAY.Chapter1.2239.Dina,,I just met Prof. Rochester. We never expect this case would end with his resign.,
+SAY.Chapter1.2238.Protagonist,,"It's a catastrophy to all of us. I mean, if is it not him, I won't have my progress now.",
+SAY.Chapter1.2255.Dina,,"Tell me about it. I suppose nobody would awake from Rebecca's nightmare, forever.",
+SAY.Chapter1.2256.Protagonist,,"No, we will. Life should always be looked forward.",
+SAY.Chapter1.2257.Dina,,"I hope Prof. Rochester would also think in this way. I should leave now, hope you can have a good time with professor.",
+SAY.Chapter1.2258.Protagonist,,"You too, take care. ",
+SAY.Chapter1.2272.Protagonist,,I wish to make an interview with Prof. Rochester. But believe me I am not a paparazzi.,
+SAY.Chapter1.2273.Dina,,Most of paparazzi said the exactly same thing two years ago.,
+SAY.Chapter1.2276.Dina,,You all can write any lie as long as it can make profit. ,
+SAY.Chapter1.2277.Protagonist,,"Again, I am not a paparazzi. And how could you humiliate a person that you first meet? At least I didn't lie on who I am!",
+SAY.Chapter1.2278.Dina,,"No, I won't trust any of you, not anymore. You all don't care about what really happened, on Rebecca, on Antony, or on anyone in this school!",
+SAY.Chapter1.2287.Dina,,Don't follow me anymore，or I will call the security!,
+SAY.Chapter1.2269.Protagonist,,"All the buildings are at another side of this street. If I want to cross the road, I need to find a {color=red}zebra crossing{/color}.",
+CHARACTER.Shop Assistant,,Shop Assistant,
+CHARACTER.Protagonist,,Protagonist,
 CHARACTER.Anonymous Student,,Anonymous Student,Anonymous Student
+CHARACTER.Security,,Security,
 CHARACTER.Bus Broadcast,,Bus Broadcast,Bus Broadcast
 CHARACTER.Sophie,,Sophie,Sophie
+CHARACTER.Dina,,Dina,
 CHARACTER.Robert,,Robert,Robert
 谢谢，这是您的花束！Rebecca学姐在天之灵会保佑您的。,,,
 \n就只能乖乖待在校园，管理方便，所以让许多大学移址郊区。,,,

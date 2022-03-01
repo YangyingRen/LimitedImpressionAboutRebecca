@@ -289,5 +289,5 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: To hold this event students <color=navy>argued</color> with the school
+  m_Text: To hold this event students <color=orange>argued</color> with the school
     multiple times.
