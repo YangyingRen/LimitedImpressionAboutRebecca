@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class MainUI : MonoBehaviour
 {
-    public GameObject ItemPanel, CluePanel, PhonePanel, Testimony, Character,Guide, Email, EmailIcon, Magnifier, MagCamera;
+    public GameObject ItemPanel, CluePanel, PhonePanel, Testimony, Character,Guide, Email, EmailIcon, Magnifier, MagCamera, Transcript;
     public Image testimony,character;
     public Color Selected, Default;
     private int i,c,p;
@@ -91,6 +91,9 @@ public class MainUI : MonoBehaviour
     }
     public void CloseEmail(){
             Email.SetActive(false);
+    }
+    public void CloseTranscript(){
+            Transcript.SetActive(false);
     }
     public void CloseMagnifier(){
             Magnifier.SetActive(false);
