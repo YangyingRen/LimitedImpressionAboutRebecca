@@ -39,14 +39,22 @@ SAY.Chapter1.754.Protagonist,,原来如此，因为要施工，这附近的路�
 SAY.Chapter1.1576.Protagonist,,学校打算将新大楼以Rebecca命名以缅怀她的遭遇。,The school plans to name the new library in names of Rebecca.
 SAY.Chapter1.755.Protagonist,,这样欲盖弥彰的行为，难道整桩案件与学校也有不为人知的牵扯？,This behavior smells like a cover-up... does this case have some hidden connection with the school's affairs?
 SAY.Chapter1.1589.Protagonist,,这个信息不太重要，我还需要继续找找其他的信息。,"This is not useful information, find something else."
-SAY.Chapter1.1695.Protagonist,,怎么回事，怎么有人写这么恶毒的话语，是与Rebecca有多么大的仇恨才会在她死了这么久后还口出恶言。,
-SAY.Chapter1.1696.Protagonist,,并且称她是贼？Rebecca究竟做了什么才会被扣上这样的罪名？,
-SAY.Chapter1.1697.Protagonist,,或许也有可能是单纯嫉妒她的学生？一般这样完美的女孩总会引起一两个人不舒服。,
+SAY.Chapter1.1695.Protagonist,,Who wrote such mean words? At least show some respect to a dead person.,
+SAY.Chapter1.1696.Protagonist,,And why it called Rebecca as thief? That is a serious accusion.,
+SAY.Chapter1.1697.Protagonist,,"Maybe is just some students who are jealous of her? But still, this is too much.",
 SAY.Chapter1.1700.,,New Info:\nSomeone in school is still hating Rebecca.,
-SAY.Chapter1.1703.Protagonist,,看来也有人认定Antony是无辜的。要是能够找到写这个的人就好了。,
-SAY.Chapter1.1704.Protagonist,,究竟是有多么笃定才能在留言墙上写下这句话？这个人一定是知道一些确切的证据。,
+SAY.Chapter1.1703.Protagonist,,Looks like someone still believe Antony is innocent.,
+SAY.Chapter1.1704.Protagonist,,This person must know some important evidence to be against the majority's opinion. I wish I could find who wrote this.,
 SAY.Chapter1.1707.,,New Info:\nSomeone ensure that Antony is innocent.,
-SAY.Chapter1.2289.Protagonist,,这个信息不太重要，我还需要继续找找其他的信息。,
+SAY.Chapter1.2289.Protagonist,,"An ordinary wish to Rebecca, looks like everyone still loves her.",
+SAY.Chapter1.2304.Protagonist,,Ah ha! I knew she is on it. She really got every honor a student can get in school.,
+SAY.Chapter1.2305.Protagonist,,But she only won the second runner up place. {color=red}Is it qualified enough to be on the hall of Fame{/color}? ,
+SAY.Chapter1.2306.Protagonist,,"I remember back to my time, only one student per year can be put on hall of fame.",
+SAY.Chapter1.2309.,,New Info:\nRebecca won the second runner up in a global competition.,
+SAY.Chapter1.2314.Protagonist,,Emm.......The President Scholarship is very hard to apply. It requires a GPA above 3.9 and a really long personal statement to explain why you need scholarship.,
+SAY.Chapter1.2315.Protagonist,,"This Maggie should be {color=ren}an extremely clever student{/color}. She is from the same class as Rebecca, is there anyway II can get in touch with her?",
+SAY.Chapter1.2318.,,New Info:\nMaggie Gothem is another oustanding student in Rebecca's class.,
+SAY.Chapter1.2323.Protagonist,,"I used to call Hall of fame as Hall of lame, because I cannot be one of them.",
 SAY.Chapter1.462.Sophie,,Rebecca是我校2020届毕业生代表，她在校期间不仅成绩优异，对待同学更是亲切温柔。,"Rebecca is the representative of YIT's graduating class of 2020. During her time at school, she wasn't just an excellent student; she also treated her classmates kindly and tenderly."
 SAY.Chapter1.463.Sophie,,我们这些后辈有任何麻烦，只要是她能帮到，她都会事无巨细地亲力亲为。,"If students in lower grades had any trouble, she'd take it on herself to help out in any way she could."
 SAY.Chapter1.859.,,New Info:\nRebecca has a good reputation among students.,New Info:\nRebecca has a good reputation among students.
@@ -80,7 +88,7 @@ SAY.Chapter1.892.Sophie,,如果您没有什么别的事的话那我就失陪了�
 SAY.Chapter1.798.Protagonist,,Rebecca Rochester，看起来确实十分具有魅力。,Rebecca Rochester looks quite attractive indeed.
 SAY.Chapter1.799.Protagonist,,比寻常学生更会打扮，但是并不会让人感到张扬，看起来也知书达理落落大方，想必应该成长于一个有文化的中产阶级家庭。,"She has better fashion taste than ordinary students, but without giving the impression that she's ostentatious. Seems to be knowledgeable and generous. She must have grown up in a literate, middle-class family."
 SAY.Chapter1.801.Protagonist,,能让这么多人自发为地她哀悼，想必的确是个优秀的人才。,She must have been a figure of some significance for so many people to mourn her spontaneously.
-SAY.Chapter1.991.,,New Info:\nRebecca is a truly perfect girl.,New Info:\nRebecca is a truly perfect girl.
+SAY.Chapter1.991.,,New Info:\nRebecca is a elegant and pretty lady.,New Info:\nRebecca is a truly perfect girl.
 SAY.Chapter1.802.Protagonist,,再多找人聊聊，了解关于Rebecca Rochester的更多细节。,Talk to more people and learn more details about Rebecca Rochester.
 SAY.Chapter1.766.Protagonist,,我市著名高校YIT，为当年最早一批从城市中心搬到郊区的大学。,"YIT, a famous university in this city, was the first center of higher education that moved from the city center to the suburbs."
 SAY.Chapter1.767.Protagonist,,教育局领导打着让学生远离城市喧嚣，有一方读书净土的名号，实际却因郊外地皮廉价便宜，远离闹市商区学生无处可去，\n就只能乖乖待在校园，管理方便，所以让许多大学移址郊区。,"The Bureau of Education announced that the moves would provide a quiet place to study, but the true reason was that suburban land is cheap, and since students have nowhere to go, they'll tend to stay on the campus. Thus, many universities were moved to the suburbs."
@@ -285,7 +293,8 @@ SAY.Chapter1.1331.Protagonist,,所以这就是您向我提问的原因吗？因�
 SAY.Chapter1.1332.Robert,,有时候局外人更是一种优势。如果我是局外人，或许Rebecca活着的时候我就能发现一些端倪。,"Sometimes outsiders are an advantage. If I were an outsider, maybe I could find some clues while Rebecca was still alive."
 SAY.Chapter1.1354.Robert,,你很擅长观察与思考，如果可以的话，请代替我这个不称职的父亲找出Rebecca死亡的真相。,"You are good at observing and thinking. If you can, please find out the truth about Rebecca's death on behalf of me, a incompetent father."
 SAY.Chapter1.2049.Robert,,"This is the note I took during the trial, you may need more background information from it.",
-SAY.Chapter1.1333.Robert,,十天后这里将会成为施工现场，同时追悼会也会结束。那一天的早晨，请再来这里告诉我你的结论。,"Ten days later this will become a construction site, and the memorial service will also end. That morning, please come here again and tell me your conclusion."
+SAY.Chapter1.2327.,,New Item:\nYou got the trial transcript.\n,
+SAY.Chapter1.1333.Robert,,后天这里将会成为施工现场，同时追悼会也会结束。那一天的早晨，请再来这里告诉我你的结论。,"Ten days later this will become a construction site, and the memorial service will also end. That morning, please come here again and tell me your conclusion."
 SAY.Chapter1.1335.Protagonist,,我从媒体方面知道了这是一场不幸的意外。,I learned from the media that this was an unfortunate accident.
 SAY.Chapter1.1336.Robert,,这确实是最官方的报道，无论是法院还是学校都支持这个结论。,"This is indeed the most official report, and both the court and the school support this conclusion."
 SAY.Chapter1.1338.Robert,,但是，这也是在审判持续半年后陪审团无奈得出的结论。,"However, this is also the conclusion reached by the jury after the trial lasted for half a year."
@@ -302,22 +311,26 @@ SAY.Chapter1.1347.Robert,,每当我认真思考时，脑子里只会浮现她的
 SAY.Chapter1.1348.Protagonist,,那有什么我可以帮到您的吗？我对Rebecca的死也深感惋惜，这样一个优秀的女孩不应该死的不明不白。,Is there anything I can do for you? I also deeply regret the death of Rebecca. Such excellent girl should not die without any reason.
 SAY.Chapter1.1349.Robert,,我看的出来你不是一位仅仅为花边新闻而感到满足的人，如果可以的话，请接下我的委托。,"I can see that you are not a person who is only satisfied with gossips. If you can, please accept my commission."
 SAY.Chapter1.1355.Robert,,或许你能比我们任何人都更快发现这桩持续了两年的噩梦究竟发生了什么。,"Perhaps you can discover what happened to this nightmare that lasted for two years, faster than any of us."
+SAY.Chapter1.2329.Robert,,"This is the note I took during the trial, you may need more background information from it.",
+SAY.Chapter1.2332.,,New Item:\nYou got the trial transcript.\n,
 SAY.Chapter1.1356.Robert,,十天后这里将会成为施工现场，同时追悼会也会结束。那一天的早晨，请再来这里告诉我你的结论。,"Ten days later this will become a construction site, and the memorial service will also end. That morning, please come here again and tell me your conclusion."
 SAY.Chapter1.1434.Protagonist,,调查还没有结束，我还不可以离开这里。,"The Investigation is not over yet, I should still stay here."
 SAY.Chapter1.1489.Protagonist,,没有想到这么远，居然要花费一个多小时坐巴士，况且这雨下的没完没了，弄得浑身都是一股霉味。,"I didn't expect that it would take more than an hour to get here. And the rain has been endless, making my whole body smell  musty."
 SAY.Chapter1.1490.Protagonist,,希望编辑这次给我的案子值得我千里迢迢跑到这个荒郊野岭。,I hope that the case the editor gave me this time is worth traveling all the way to this wilderness.
 SAY.Chapter1.1491.Protagonist,,我记得书包里有相关资料的影印件。,"That's right, I brought some photocopies of relevant information in my bag."
-SAY.Chapter1.1511.Protagonist,,对就是这个，每日邮报，专门刊载本市的重要新闻。好久都没有订阅过了，小时候可是每天都会看。,"Here it is, the Daily Post, a newspaper focusing on the “most important” news in the city. I read a lot when I was a child."
+SAY.Chapter1.1511.Protagonist,,每日邮报，专门刊载本市的重要新闻。好久都没有订阅过了，小时候可是每天都会看。,"Here it is, the Daily Post, a newspaper focusing on the “most important” news in the city. I read a lot when I was a child."
 SAY.Chapter1.1512.Protagonist,,让我仔细读一读，看看究竟是一个什么样的案件。\n（鼠标左键移动报纸至放大镜中心检测信息。）,Read carefully and figure out what is the case about. ( Drag the newspaper with left mouse key and investigate with the magnifier.)
+SAY.Chapter1.2374.Protagonist,,"This is it, the trial transcript. Finally I got a documents that may reveal what happened on that day.",
+SAY.Chapter1.2375.Protagonist,,Maybe I could find the next person I want to visit from it.,
 SAY.Chapter1.1507.Protagonist,,不对，我现在不需要这个。,"No, I don't need this now."
-SAY.Chapter1.1508.Protagonist,,再仔细找找资料在哪里。,Check carefully where is the file.
 SAY.Chapter1.1593.Protagonist,,这些花束又是怎么回事？为什么摆得到处都是。\n难道现在毕业季流行摆白色菊花？虽然看起来有些毛骨悚然，但仔细看却清雅别致，现在的年轻人真是时髦。,"What's with these bouquets? Why are they everywhere? Is it popular to use white chrysanthemums for graduation now? Although it looks a little creepy at first, it does create an elegant and chic feel. Maybe it's a new trend among today's youth."
 SAY.Chapter1.1594.Protagonist,,话说回来不愧是新闻上反复强调的一流高校，占地面积很大，简直像一座小型城市。,"Having said that, the campus is worthy of a first-class university that's always making the news. This place looks like a small city."
 SAY.Chapter1.1595.Protagonist,,还是找张地图看看我现在的位置在哪里。,I need to find a map to figure out where I am now.
 SAY.Chapter1.1597.,,"Mission: ""Find the campus map.""",
-SAY.Chapter1.1663.Protagonist,,这里应该就是湖堤的入口，现在这里是施工现场，非相关人士不得进入。,
-SAY.Chapter1.1664.Protagonist,,几个月后，这片湖面就会彻底填平，被改建成新的校区。,
-SAY.Chapter1.1665.Protagonist,,从这里看湖面离学校还是有一小段距离的，当天到底发生了什么Rebecca才会在这里意外身亡?,
+SAY.Chapter1.1663.Protagonist,,"This is the entrance of the lake, where Rebecca died. Right now it's a {color=red}muddy construction scene{/color}. The barrier is locked and no one is allowed to approach.",
+SAY.Chapter1.1664.Protagonist,,"After couple of months, this lake would be filled and become the place of the new library.",
+SAY.Chapter1.1665.Protagonist,,The distance from the campus to the lake is quite far. I wonder why Rebecca went to the lake at that night?,
+SAY.Chapter1.2358.Protagonist,,"I still cannot ensure who is exactly the murderer. But base on what I know, I might can make an assumption.",
 SAY.Chapter1.1678.Protagonist,,There are a lots comments that everybody wrote to Rebecca. Maybe I could find some useful information in them.,
 SAY.Chapter1.1779.Protagonist,,"If I want to go out, I need to open the door.",
 SAY.Chapter1.1838.Security,,Hey you! You don't look like our student. Please show your idenfication!,
@@ -338,7 +351,7 @@ SAY.Chapter1.1865.Security,,"Say more specificly, who is that faculty? Or I have
 SAY.Chapter1.1880.Protagonist,,I am looking for this!,
 SAY.Chapter1.1881.Security,,Interesting...... If this is what you are looking for......,
 SAY.Chapter1.1882.Robert,,Please leave this building or I'll force you out!,
-SAY.Chapter1.1918.Protagonist,,I am looking Prof. Robert Rochester. I am here to comfort him.,
+SAY.Chapter1.1918.Protagonist,,I am looking Prof. Robert Rochester. I represent alumni and come here to show our sympathy.,
 SAY.Chapter1.1919.Security,,A lot of paparazzies said the exactly same thing.,
 SAY.Chapter1.1920.Security,,How can you prove that you are not one of them?,
 SAY.Chapter1.1921.Protagonist,,{i}( Why is he that suspicious? Guess I need to find something to prove myself){/i},
@@ -389,7 +402,9 @@ SAY.Chapter1.2125.Protagonist,,{i}( What is the meaning of selling cigaretter in
 SAY.Chapter1.2128.,,New Item:\nYou bought a pack of cigarette.\n,
 SAY.Chapter1.2131.Protagonist,,"Please, I really need that cigarette.",
 SAY.Chapter1.2132.Shop Assistant,,Say that to your poor pocket.,
-SAY.Chapter1.2164.Protagonist,,"Wait a moment......That girl, is she Rebecca's twin sister?",
+SAY.Chapter1.2164.Protagonist,,All the students are not straight related to Rebecca. I guess her own classmates are hard to come since the case passed two years ago.,
+SAY.Chapter1.2292.Protagonist,,"Fine, anyway what the editor asks is just rumor, so maybe I am in a good path.",
+SAY.Chapter1.2291.Protagonist,,"Wait a moment......That girl, is she Rebecca's twin sister?",
 SAY.Chapter1.2165.Protagonist,,"They looks almost exactly the same, how could it possible?",
 SAY.Chapter1.2166.Protagonist,,I need to approach her. She should be around now.,
 SAY.Chapter1.2169.,,"Mission: ""Find the girl who looks similar to Rebecca.""",
@@ -398,34 +413,111 @@ SAY.Chapter1.2172.Protagonist,,Oh god she moves so fast. I am a little bit regre
 SAY.Chapter1.2173.Protagonist,,"Anyway, she should still on campus. I won't leave YIT today until I find her.",
 SAY.Chapter1.2180.Protagonist,,{i}(A smell of smoke makes me feel sick. ){/i},
 SAY.Chapter1.2182.Protagonist,, {i}(Who are smoking inside the building?  Is the fire alarm broken?){/i},
-SAY.Chapter1.2225.Dina,,"I know you are following me. And I know what you are thinking. Unfortunately, please stop digging this story anymore. ",
-SAY.Chapter1.2222.Protagonist,,"{i}(Like everyone in this campus, she is also suspicious. They never realise that it's their defensive attitute that makes me more curious about Rebecca.){/i}",
-SAY.Chapter1.2224.Protagonist,,I apologize but I am not a stalker. I am just curious that why you......,
-SAY.Chapter1.2223.Dina,,"Why do I look like Rebecca? First of all, we are not relative nor family so please don't spread rumor like that.",
-SAY.Chapter1.2226.Protagonist,,It's hard to ignore it. I even though that maybe Rebecca is not dead when I saw you.,
-SAY.Chapter1.2227.Dina,,"Interesting. I don't know whether I should be happy or sad. Still so many people care about her, just like the time when she was still alive.",
-SAY.Chapter1.2228.Protagonist,,Sounds like you know Rebecca for a long time? ,
-SAY.Chapter1.2229.Dina,,"It's not your business. When you ask someone a question, you should show your sincerity first.",
-SAY.Chapter1.2230.Protagonist,,Like......,
-SAY.Chapter1.2221.Dina,,Who are you? I won't let you know my name if I cannot ensure your idenfication.,
-SAY.Chapter1.2231.Protagonist,,"{i}(Seriously, I hate lying, but would she trust me if I was honest about who I am?){/i}",
-MENU.Chapter1.2234,,I am an alumni to visit Prof. Rochester,
-MENU.Chapter1.2235,,I am a writing who want to write a story about Rebecca.,
-SAY.Chapter1.2254.Protagonist,,"I graduated a long time ago so no wonder you don't know me. If I am nobody, how could the security let me in?",
-SAY.Chapter1.2237.Dina,,"Oh, then I am sorry for my rudeness. I am Dina, Dina Loisel. I used to be Rebecca's roommate.",
-SAY.Chapter1.2239.Dina,,I just met Prof. Rochester. We never expect this case would end with his resign.,
-SAY.Chapter1.2238.Protagonist,,"It's a catastrophy to all of us. I mean, if is it not him, I won't have my progress now.",
-SAY.Chapter1.2255.Dina,,"Tell me about it. I suppose nobody would awake from Rebecca's nightmare, forever.",
-SAY.Chapter1.2256.Protagonist,,"No, we will. Life should always be looked forward.",
-SAY.Chapter1.2257.Dina,,"I hope Prof. Rochester would also think in this way. I should leave now, hope you can have a good time with professor.",
-SAY.Chapter1.2258.Protagonist,,"You too, take care. ",
-SAY.Chapter1.2272.Protagonist,,I wish to make an interview with Prof. Rochester. But believe me I am not a paparazzi.,
-SAY.Chapter1.2273.Dina,,Most of paparazzi said the exactly same thing two years ago.,
-SAY.Chapter1.2276.Dina,,You all can write any lie as long as it can make profit. ,
-SAY.Chapter1.2277.Protagonist,,"Again, I am not a paparazzi. And how could you humiliate a person that you first meet? At least I didn't lie on who I am!",
-SAY.Chapter1.2278.Dina,,"No, I won't trust any of you, not anymore. You all don't care about what really happened, on Rebecca, on Antony, or on anyone in this school!",
-SAY.Chapter1.2287.Dina,,Don't follow me anymore，or I will call the security!,
+SAY.Chapter1.2225.Dina,,I know you are following me. And I know what you're thinking so just stop it.\n,
+SAY.Chapter1.2222.Protagonist,,{i}( She's as suspicious as everyone else on this campus. Don't they realise this just makes me even more curious about Rebecca?){/i}\n,
+SAY.Chapter1.2224.Protagonist,,"I'm so sorry! I'm no stalker, I promise. I was only curious -\n",
+SAY.Chapter1.2223.Dina,,Why I look so much like Rebecca? I've heard that before…\n,
+SAY.Chapter1.2226.Protagonist,,"Sorry, it's hard to ignore. The resemblance is really uncanny. I even briefly thought I was seeing Rebecca, alive and well.\n",
+SAY.Chapter1.2227.Dina,,God that's depressing. Everyone looking at me and still thinking of her…\n,
+SAY.Chapter1.2228.Protagonist,,You knew Rebecca well?\n,
+SAY.Chapter1.2229.Dina,,It's none of your business. Why are you even asking me questions about all this?\n,
+SAY.Chapter1.2230.Protagonist,,Well -\n,
+SAY.Chapter1.2221.Dina,,Who even are you? Do you even go here? Let me see your student ID.\n,
+SAY.Chapter1.2231.Protagonist,,"{i} Seriously, I hate having to lie, but would she trust me if I was actually honest?{/i}\n",
+MENU.Chapter1.2234,,I'm a former student of Professor Rochester's. I was coming back to see him.\n,
+MENU.Chapter1.2235,,Look - I'm writing a story about Rebecca.\n,
+SAY.Chapter1.2254.Protagonist,,I did my undergrad here but a long time ago. I don't think I ever overlapped with your's and Rebecca's year.\n,
+SAY.Chapter1.2237.Dina,,Oh. Sorry. I guess that was kinda rude of me to demand your ID wasn’t it?\n,
+SAY.Chapter1.2239.Dina,,My name's Dina. I… I used to be Rebecca's roommate. \n,
+SAY.Chapter1.2732.Dina,,I was just with Professor Rochester actually. We're all in a bit of shock about him resigning over this case.\n,
+SAY.Chapter1.2238.Protagonist,,"That's awful. I mean, without him, I would never have made the progress I did at school here.\n",
+SAY.Chapter1.2255.Dina,,Tell me about it. \n,
+SAY.Chapter1.2733.Dina,,I suppose none of us are ever gonna wake up from Rebecca's nightmare.\n,
+SAY.Chapter1.2256.Protagonist,,I'm sure we will. We've all just gotta keep looking forward.\n,
+SAY.Chapter1.2257.Dina,,I wish Professor Rochester thought that way too. \n,
+SAY.Chapter1.2734.Dina,,"I'm sorry, I need to go. Hope all goes well with the professor. Sorry again for being rude.\n",
+SAY.Chapter1.2258.Protagonist,,It's okay. Take care.\n,
+SAY.Chapter1.2272.Protagonist,,"I'm not here looking for gossip or anything like that, I really want to get to know about Rebecca -\n",
+SAY.Chapter1.2273.Dina,,Most of the 'journalists' said the same two years ago. You're no different.\n,
+SAY.Chapter1.2276.Dina,,Lie to get close to us. Lie that you care. All for an eye catching story you can make your name on.\n,
+SAY.Chapter1.2277.Protagonist,,I don't think that's very fair. I'm trying to be honest with you -\n,
+SAY.Chapter1.2278.Dina,,"None of you are honest! You don't care about what really happened, about Rebecca, or Antony or anyone in this school! You just want your 'big story'!\n",
+SAY.Chapter1.2287.Dina,,"Don't follow me, or I will call security.\n",
 SAY.Chapter1.2269.Protagonist,,"All the buildings are at another side of this street. If I want to cross the road, I need to find a {color=red}zebra crossing{/color}.",
+SAY.Chapter1.2296.Protagonist,,"Hall of fame, only the most outstangding students could on it. A typical symbol of hierarchy. Maybe Rebecca should on it.",
+SAY.Chapter1.2349.Protagonist,,It's already 8 P.M. Guess I need to go back otherwise I would miss the last bus.,
+SAY.Chapter1.2350.Protagonist,,But before that I need to find somewhere to organize what I learnt today. Maybe that {color=red}construction entrance{/color} can be a good place.,
+SAY.Chapter1.2351.,,"Mission: ""Go to the construction entrance to make today's conclusion.""",
+SAY.Chapter1.2405.Protagonist,,Can  you tell me more about Rebecca? She seems very popular among students?,
+SAY.Chapter1.2406.Sophie,,"Of course! She is almost a legend in my grade. It's hard for me to explain by language, but wherever she is she can always take everybody's concentration.",
+SAY.Chapter1.2619.Protagonist,,That sounds like any ordinary school diva. Is it enough to make you admire her? ,
+SAY.Chapter1.2620.Sophie,,"No, it's a pity that you can never meet her again. She has a spirit of sacrifying and no matter what you ask, she definity would find a way to help you.",
+SAY.Chapter1.2621.Sophie,,Maybe for her responding wishes from people is her responsibility. Sometimes it was tired but she never say no to us.,
+SAY.Chapter1.2413.Protagonist,,Do you familiar with Rebecca's boyfriend Antony?,
+SAY.Chapter1.2415.Sophie,,Ehh...... The only thing I could say is that Rebecca met the wrong person at a wrong time.,
+SAY.Chapter1.2622.Sophie,,She was totally addicted in this relationship and almost be manipulated by Antony.,
+SAY.Chapter1.2416.Protagonist,,What do you mean being manipulated?,
+SAY.Chapter1.2417.Sophie,,Antony knows Rebecca is such gentle and kind person so he definitly used some tricks to make her obey his order.,
+SAY.Chapter1.2419.Sophie,,"Lots of men are good at such kind of skills nowadays. They never treat women with respect. Once they feel bored, they would leave without any guilty.",
+SAY.Chapter1.2420.Protagonist,,"Wait, this accusion is very serious, Antony cannot represent all men around the world.",
+SAY.Chapter1.2421.Sophie,,"No, the difference is Antony was exposed but most of his fellows are still hidding with a friendly mask. ",
+SAY.Chapter1.2438.Protagonist,,How do you feel about your school life? ,
+SAY.Chapter1.2440.Sophie,,"How to say...... I really appreciate what I learnt here, but I must admit that the life in YIT is not as perfect as people think.",
+SAY.Chapter1.2625.Sophie,,People always imagine that we are elites that can achieve anything easily. But who knows what we pay for behind all the successful.,
+SAY.Chapter1.2632.Protagonist,,Do you know anything about Prof. Rochester?,
+SAY.Chapter1.2634.Sophie,,"Well, he was the super star in our department. No kidding, many of my classmates apply this school just want to meet him.",
+SAY.Chapter1.2640.Protagonist,,Whao! Then his class should be very hard to enroll I suppose.,
+SAY.Chapter1.2635.Sophie,,"Exactly, I used to stay up until 4 A.M. to get a seat, but it's really worthwhile.",
+SAY.Chapter1.2643.Protagonist,,"I saw a girl looks really similar to Rebecca, she said her name is Dina, do you know anything about her?",
+SAY.Chapter1.2645.Sophie,,"That......impossible? I never heard that somebody in school looks like Rebecca? As far as I know, nobody.",
+SAY.Chapter1.2712.Protagonist,,"She said she was Rebecca's roommate, did you ever meet her before?",
+SAY.Chapter1.2711.Sophie,,"Oh, I do know her roommate. But that girl's name is Maggie, a very quiet and introvertive person. She cannot be similar to Rebecca, in anyway.",
+SAY.Chapter1.2704.Protagonist,,"I heard that one of the witnesses is student supervisor Jennifer, do you know where can I find her?",
+SAY.Chapter1.2706.Sophie,,"I am sorry, but there is no supervisor in my grade named Jennifer. Perhaps you need to ask a faculty.",
+SAY.Chapter1.2718.Protagonist,,Do you recognize a professor named Julian Leros? He is another witness.,
+SAY.Chapter1.2720.Sophie,,"Oh yes, I know him. I must say that the reason most students choose his class is not for study, his teaching skill is horrible.",
+SAY.Chapter1.2725.Protagonist,,How bad it could be?,
+SAY.Chapter1.2726.Sophie,,"Like, he always dreams in his own mind? Never explain the concept and assume that everyone can follow him?",
+SAY.Chapter1.2727.Sophie,,"I knew he might be good at analyzing or researching, but teaching is totally different. He cannot ask us to be as smart as him.",
+SAY.Chapter1.2728.Protagonist,,Then why some students still choose his class?,
+SAY.Chapter1.2729.Sophie,,"There are many reasons, instead of study. His grading is very generous even though the test's difficulty is ridiculous. He never check the attendance record......",
+SAY.Chapter1.2730.Sophie,,"And the most important, he is chic. Even I don't like his teaching still but I must admit that he is so good looking. Most of his students are girls who still love teen fiction such as Twilight.",
+SAY.Chapter1.2731.Protagonist,,"{i}(To be honest, I can totally understand those girls. Like, who really take university class for serious study?){/i}",
+SAY.Chapter1.2466.Protagonist,,"Hey, can I talk more about Rebecca? Do you know what kind of person is she?",
+SAY.Chapter1.2468.Anonymous Student,,"Emm...... No that familiar, but I must say I don't like her fans.",
+SAY.Chapter1.2469.Anonymous Student,,"Most time is not Rebecca's false, but her fans are really annoying. They don't allow anyone to show critique to Rebecca.",
+SAY.Chapter1.2765.Protagonist,,Can you explain it more specifically?,
+SAY.Chapter1.2470.Anonymous Student,,"If you say any critical opinion to that Sophie, I swear she will keep pushing you apology untill you surrender. They treat Rebecca as their Queen. That's insane.",
+SAY.Chapter1.2766.Anonymous Student,,"But please don't tell this to anyone, I don't want to bargain with any of them. It's totally waste of time.",
+SAY.Chapter1.2768.Protagonist,,Do you know this person?,
+SAY.Chapter1.2484.Anonymous Student,,"Sorry, I don't know. Maybe you should find somebody else for asking. ",
+SAY.Chapter1.2588.Protagonist,,I am looking for this person!,
+SAY.Chapter1.2589.Security,,Interesting...... If this is what you are looking for......,
+SAY.Chapter1.2590.Security,,Please leave this building or I'll force you out!,
+SAY.Chapter1.2597.Protagonist,,I am looking Prof. Robert Rochester. I represent alumni and come here to show our sympathy.,
+SAY.Chapter1.2598.Security,,A lot of paparazzies said the exactly same thing.,
+SAY.Chapter1.2599.Security,,How can you prove that you are not one of them?,
+SAY.Chapter1.2600.Protagonist,,{i}( Why is he that suspicious? Guess I need to find something to prove myself){/i},
+SAY.Chapter1.2654.Protagonist,,There is one important witness refused to show during the trial.,
+SAY.Chapter1.2655.Protagonist,,If I could find who he or she is then my investigation should make a huge progress.,
+SAY.Chapter1.2662.Protagonist,,"Wait, what is this deal? Who deal with that witness?",
+SAY.Chapter1.2664.Protagonist,,"Even though this was only policeman's assumption, what about it was true?",
+SAY.Chapter1.2663.Protagonist,,Cannot imagine that we might let a murderer run away.,
+SAY.Chapter1.2667.Protagonist,,Jennifer is the student supervisor. I remember I had one supervisor when I was an undergraduate student.,
+SAY.Chapter1.2668.Protagonist,,Supervisor is a very embarrasing position in the university. They are not professor nor student but they have the power of managing student's daily life.,
+SAY.Chapter1.2669.Protagonist,,"No wonder we really hated them at that time. After all, the only thing that 18 years teenagers care are freedom and rebellion.",
+SAY.Chapter1.2675.Protagonist,,"Emm......The last time she saw Rebecca was around {color=red} 8 A.M. {/color}, that was definitely over the regular working time.",
+SAY.Chapter1.2676.Protagonist,,Why she stayed here at that time? Just waited for Rebecca? ,
+SAY.Chapter1.2672.Protagonist,,Julian is the assistant professor and he met Antony at 10 P.M....,
+SAY.Chapter1.2673.Protagonist,,Usually assistant professors will do a lot of extra works because they are at the bottom of hierarchy.,
+SAY.Chapter1.2686.Protagonist,,"And sometimes those works are really boring, no relationship with their own research at all.",
+SAY.Chapter1.2674.Protagonist,,"But 10 P.M. is too late, that is even against the labor law. If the school make him work that late, he need to report to the union.",
+SAY.Chapter1.2739.Protagonist,,I missed so much the billboard. You can always find interesting advertisement on it.,
+SAY.Chapter1.2741.Protagonist,,It's our secret flea market. You can trade anything with just a short introduction and a couple of your phone number.,
+SAY.Chapter1.2740.Protagonist,,I still remember the first page that I sticked on the board is an advertisement of selling English class cheat-sheet.,
+SAY.Chapter1.2753.Protagonist,,Every university has a fountain like that. ,
+SAY.Chapter1.2754.Protagonist,,"Usually it only turns on when some events happen, like the anniversary or President visit.",
+SAY.Chapter1.2755.Protagonist,,I wonder how much YIT pay for this fountain if it runs day and night.,
 CHARACTER.Shop Assistant,,Shop Assistant,
 CHARACTER.Protagonist,,Protagonist,
 CHARACTER.Anonymous Student,,Anonymous Student,Anonymous Student
