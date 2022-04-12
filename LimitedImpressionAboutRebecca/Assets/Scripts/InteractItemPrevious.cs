@@ -10,14 +10,16 @@ public class InteractItemPrevious : MonoBehaviour
 
     public Material Default, Select;
     public GameObject PreviousPP, Guide, SayDialogue;
-    public GameObject[] InteractiveItems;
-    public int i,len;
+    public GameObject[] InteractiveItems, DragItems;
+    public int i,j,len,lenDrag;
     public Text Quest,Hint;
     // Start is called before the first frame update
     void Start()
     {
     len=InteractiveItems.Length;
+    lenDrag=DragItems.Length;
     i=0;
+    j=0;
         
     }
 
@@ -54,11 +56,17 @@ public class InteractItemPrevious : MonoBehaviour
         for(i=0;i<len;i++){
             InteractiveItems[i].GetComponent<Clickable2D>().clickEnabled=false;
         }
+        for(j=0;j<lenDrag;j++){
+            DragItems[j].GetComponent<Draggable2D>().enabled=false;
+        }
     }
     else{
         for(i=0;i<len;i++){
             InteractiveItems[i].GetComponent<Clickable2D>().clickEnabled=true;
     }
+        for(j=0;j<lenDrag;j++){
+            DragItems[j].GetComponent<Draggable2D>().enabled=true;
+        }
     }
     
         

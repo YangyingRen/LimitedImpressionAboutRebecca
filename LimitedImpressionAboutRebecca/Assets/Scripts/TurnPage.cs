@@ -22,6 +22,7 @@ public class TurnPage : MonoBehaviour
         
     }
     public void TurnRight(){
+    GetComponent<AudioSource>().Play();
     anim.SetBool("TurnRight",true);
     anim.SetBool("TurnLeft",false);
     }
@@ -37,6 +38,7 @@ public class TurnPage : MonoBehaviour
     }
 
     public void TurnLeft(){
+    GetComponent<AudioSource>().Play();
     anim.SetBool("TurnRight",false);
     anim.SetBool("TurnLeft",true);
 
