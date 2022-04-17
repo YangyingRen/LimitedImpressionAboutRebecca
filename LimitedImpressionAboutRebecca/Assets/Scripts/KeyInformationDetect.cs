@@ -16,7 +16,16 @@ public class KeyInformationDetect : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {
+    { 
+    if(flowchart.GetIntegerVariable("Information")==0){
+        Confirm.GetComponent<AudioSource>().Stop();
+        Confirm.GetComponent<Animator>().enabled=false;
+        foreach (GameObject anim in Animation){
+            anim.SetActive(false);
+        }
+        
+
+    }
         
     }
     private void OnTriggerStay(Collider col){
@@ -32,12 +41,7 @@ public class KeyInformationDetect : MonoBehaviour
     private void OnTriggerExit(Collider col){
     if(col.tag=="Information"){
         flowchart.SetIntegerVariable("Information",0);
-        Confirm.GetComponent<AudioSource>().Stop();
-
-        Confirm.GetComponent<Animator>().enabled=false;
-        foreach (GameObject anim in Animation){
-            anim.SetActive(false);
-        }
+        
     }
 
     }
