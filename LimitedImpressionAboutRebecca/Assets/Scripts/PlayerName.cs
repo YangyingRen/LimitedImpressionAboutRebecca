@@ -11,7 +11,7 @@ public class PlayerName : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-       GameObject Input= Instantiate(InputName,parent);
+        GameObject Input= Instantiate(InputName,parent);
         Name.GetComponent<Character>().nameText=Input.GetComponent<Text>().text;
         EmailName.GetComponent<Text>().text=Input.GetComponent<Text>().text;
         Signature.GetComponent<Text>().text=Input.GetComponent<Text>().text;
@@ -22,6 +22,16 @@ public class PlayerName : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+    }
+
+    public void Naming(){
+
+        GameObject Input= Instantiate(InputName,parent);
+        Name.GetComponent<Character>().nameText=Input.GetComponent<Text>().text;
+        EmailName.GetComponent<Text>().text=Input.GetComponent<Text>().text;
+        Signature.GetComponent<Text>().text=Input.GetComponent<Text>().text;
+
+
     }
 
 }
