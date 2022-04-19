@@ -55,7 +55,7 @@ Material:
     - CORNERS: 0
     - Vector1_4f991a7324014f7c9faac583253c07f2: 0.19
     - _EnableExternalAlpha: 0
-    - _OutlineThickness: 5.35
+    - _OutlineThickness: 10
     m_Colors:
     - Color_397390d0656246adadaa370867f159a4: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}

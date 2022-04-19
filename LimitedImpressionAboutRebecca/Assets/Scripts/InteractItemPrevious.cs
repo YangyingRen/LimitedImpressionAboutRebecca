@@ -9,7 +9,7 @@ public class InteractItemPrevious : MonoBehaviour
 {
 
     public Material Default, Select;
-    public GameObject PreviousPP, Guide, SayDialogue;
+    public GameObject PreviousPP, Guide, SayDialogue,WalkGuide,RunGuide;
     public GameObject[] InteractiveItems, DragItems;
     public int i,j,len,lenDrag;
     public Text Quest,Hint;
@@ -68,6 +68,19 @@ public class InteractItemPrevious : MonoBehaviour
             DragItems[j].GetComponent<Draggable2D>().enabled=true;
         }
     }
+    if(Input.GetKey(KeyCode.A)||Input.GetKey(KeyCode.D)){
+        WalkGuide.SetActive(false);
+
+    }
+      if(Input.GetKey(KeyCode.A)&&Input.GetKey(KeyCode.W)){
+        RunGuide.SetActive(false);
+
+    }
+      if(Input.GetKey(KeyCode.D)&&Input.GetKey(KeyCode.W)){
+        RunGuide.SetActive(false);
+
+    }
+    
     
         
     }
