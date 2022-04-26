@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 6095961153862258272}
   - component: {fileID: 5628529234785072852}
   - component: {fileID: 6317547486777422568}
+  - component: {fileID: 6048560470125592746}
   m_Layer: 5
   m_Name: Clue13
   m_TagString: Untagged
@@ -211,6 +212,19 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
+--- !u!114 &6048560470125592746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6095961153862258271}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5bf4c21aa82300419a2574e8e7dff23, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hoverCursor: {fileID: 2800000, guid: 7715a7307bf764b4999dc53ba3102cd7, type: 3}
 --- !u!1 &6095961154941101005
 GameObject:
   m_ObjectHideFlags: 0

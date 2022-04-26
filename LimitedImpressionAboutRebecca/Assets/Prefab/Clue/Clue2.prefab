@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 2665001225296656401}
   - component: {fileID: 4503113253261410469}
   - component: {fileID: -6354957486301887335}
+  - component: {fileID: -6643278789757004946}
   m_Layer: 5
   m_Name: Clue2
   m_TagString: Untagged
@@ -211,6 +212,19 @@ MonoBehaviour:
             m_StringArgument: 
             m_BoolArgument: 0
           m_CallState: 2
+--- !u!114 &-6643278789757004946
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2665001225296656430}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5bf4c21aa82300419a2574e8e7dff23, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hoverCursor: {fileID: 2800000, guid: 7715a7307bf764b4999dc53ba3102cd7, type: 3}
 --- !u!1 &2665001226367391164
 GameObject:
   m_ObjectHideFlags: 0

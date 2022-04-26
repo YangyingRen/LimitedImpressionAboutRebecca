@@ -28,7 +28,7 @@ public class StageLightControl : MonoBehaviour
         StartCoroutine(Light0On());
     }
     IEnumerator Light0On(){
-    yield return new WaitForSeconds(1.5f);
+    yield return new WaitForSeconds(1f);
     Light0.SetActive(true);
     }
     IEnumerator Light1On(){
