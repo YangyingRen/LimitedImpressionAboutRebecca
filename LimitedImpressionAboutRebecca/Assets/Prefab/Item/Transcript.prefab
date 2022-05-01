@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 7189431241679396564}
   - component: {fileID: 4191150470208351888}
   - component: {fileID: 8052349712241403433}
+  - component: {fileID: 2151730681976449817}
   m_Layer: 0
   m_Name: Transcript
   m_TagString: Items
@@ -198,6 +199,19 @@ MonoBehaviour:
   Description: A trial transcript, not very detail but still I can know many significant
     information about what happened on the court.
   DescriptionPanel: {fileID: 0}
+--- !u!114 &2151730681976449817
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7189431241679396566}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5bf4c21aa82300419a2574e8e7dff23, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hoverCursor: {fileID: 2800000, guid: 7715a7307bf764b4999dc53ba3102cd7, type: 3}
 --- !u!1 &7189431243475252564
 GameObject:
   m_ObjectHideFlags: 0
