@@ -27,5 +27,6 @@ public class StartGame : MonoBehaviour
     public void Signature(){
     Sign.text=Name.text;
     Sign.gameObject.SetActive(true);
+    GetComponent<AudioSource>().Stop();
     }
 }

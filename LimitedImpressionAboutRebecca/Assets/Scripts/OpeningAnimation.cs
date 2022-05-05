@@ -25,6 +25,7 @@ public class OpeningAnimation : MonoBehaviour
     if(prologue0.gameObject.active==true){
     if(text0==prologue0.text){
         NextButton0.SetActive(true);
+        prologue0.gameObject.GetComponent<AudioSource>().Stop();
     }
     }
    
@@ -32,6 +33,8 @@ public class OpeningAnimation : MonoBehaviour
     NextButton0.SetActive(false);
     if(text1==prologue1.text){
         NextButton1.SetActive(true);
+        prologue1.gameObject.GetComponent<AudioSource>().Stop();
+
     }}
     if(prologue2.gameObject.active==true){
     NextButton1.SetActive(false);
@@ -68,11 +71,9 @@ public class OpeningAnimation : MonoBehaviour
     }
     public void TurnPage(){
         prologue0.gameObject.SetActive(true);
-        
     }
     
     public void SaveName(){
       namePrefab.GetComponent<Text>().text=Name.text;
-      
     }
 }
