@@ -10,6 +10,7 @@ public class MainUI : MonoBehaviour
     public Color Selected, Default;
     private int i,c,p;
     public Texture2D hoverCursor;
+    public AudioSource[] OST;
    
     // Start is called before the first frame update
     void Start()
@@ -28,6 +29,12 @@ public class MainUI : MonoBehaviour
         }
         if(CluePanel.active==false){
             c=0;
+        }
+        if(Magnifier.active==true){
+            OST[1].volume+=Time.deltaTime;
+        }
+        else{
+            OST[1].volume-=Time.deltaTime;
         }
         
         

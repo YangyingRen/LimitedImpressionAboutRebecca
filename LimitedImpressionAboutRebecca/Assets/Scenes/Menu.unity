@@ -2531,8 +2531,9 @@ GameObject:
   m_Component:
   - component: {fileID: 755119432}
   - component: {fileID: 755119431}
+  - component: {fileID: 755119433}
   m_Layer: 0
-  m_Name: Opening Theme
+  m_Name: OpeningTheme
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2648,6 +2649,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &755119433
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 755119430}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14b4826e7a04a9044b1a0c48ecf267fe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &769415167
 GameObject:
   m_ObjectHideFlags: 0
@@ -4620,8 +4633,9 @@ GameObject:
   - component: {fileID: 1600362052}
   - component: {fileID: 1600362051}
   - component: {fileID: 1600362053}
+  - component: {fileID: 1600362054}
   m_Layer: 0
-  m_Name: Opening Theme (1)
+  m_Name: OpeningTheme1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4750,6 +4764,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Audio: {fileID: 1600362050}
+--- !u!114 &1600362054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1600362050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14b4826e7a04a9044b1a0c48ecf267fe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1625571392
 GameObject:
   m_ObjectHideFlags: 0

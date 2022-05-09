@@ -5,8 +5,11 @@ using UnityEngine;
 public class AudioControl : MonoBehaviour
 {
     private AudioSource BGM;
+
     public GameObject Audio;
     private float fadeTime=1, loudTime=0;
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -16,6 +19,7 @@ public class AudioControl : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+    
         
     }
 
@@ -43,7 +47,7 @@ public class AudioControl : MonoBehaviour
         float t=loudTime;
         while(t<1){
             yield return null;
-            t+=Time.deltaTime;
+            t+=Time.deltaTime*2;
             BGM.volume=t;
         }
         yield break;
